@@ -1,0 +1,8 @@
+{
+  "type": "tconstruct:item_part_builder",
+  "pattern": "tconstruct:leggings_plating",
+  "pattern_item": {
+    "tag": "tconstruct:casts/sand"
+  },
+  "result": "tconstruct:leggings_plating_sand_cast"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "tconstruct:part_builder",
+  "cost": 2,
+  "pattern": "tconstruct:pick_head",
+  "pattern_item": [
+    {
+      "tag": "tconstruct:patterns/default"
+    },
+    {
+      "item": "tconstruct:pick_head_cast"
+    }
+  ],
+  "result": {
+    "item": "tconstruct:pick_head"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:coins/netherite"
+      }
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:coins/netherite"
+  },
+  "result": {
+    "amount": 30,
+    "tag": "forge:molten_netherite"
+  },
+  "temperature": 1250,
+  "time": 49
+}

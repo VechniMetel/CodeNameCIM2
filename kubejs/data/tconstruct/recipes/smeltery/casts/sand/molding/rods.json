@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:molding_table",
+  "material": {
+    "tag": "tconstruct:casts/sand"
+  },
+  "pattern": {
+    "tag": "forge:rods"
+  },
+  "result": "tconstruct:rod_sand_cast"
+}

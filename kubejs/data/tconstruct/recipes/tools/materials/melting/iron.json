@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "tconstruct:iron",
+  "result": {
+    "amount": 90,
+    "tag": "forge:molten_iron"
+  },
+  "temperature": 800
+}

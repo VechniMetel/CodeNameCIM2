@@ -1,0 +1,11 @@
+{
+  "type": "tconstruct:casting_table_potion",
+  "bottle": {
+    "item": "minecraft:glass_bottle"
+  },
+  "fluid": {
+    "amount": 250,
+    "tag": "forge:potion"
+  },
+  "result": "minecraft:potion"
+}

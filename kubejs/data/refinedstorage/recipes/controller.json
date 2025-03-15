@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P",
+    "C"
+  ],
+  "key": {
+    "P": {
+      "item": "refinedstorage:advanced_processor"
+    },
+    "C": {
+      "item": "ae2:controller"
+    }
+  },
+  "result": {
+    "item": "refinedstorage:controller"
+  }
+}

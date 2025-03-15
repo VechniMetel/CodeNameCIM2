@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "refinedstorage:magenta_grid"
+    },
+    {
+      "item": "refinedstorage:advanced_processor"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "refinedstorage:magenta_fluid_grid"
+  }
+}

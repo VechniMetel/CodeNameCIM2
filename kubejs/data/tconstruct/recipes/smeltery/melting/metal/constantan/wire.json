@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:wires/constantan"
+      }
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:wires/constantan"
+  },
+  "result": {
+    "amount": 45,
+    "tag": "forge:molten_constantan"
+  },
+  "temperature": 920,
+  "time": 13
+}

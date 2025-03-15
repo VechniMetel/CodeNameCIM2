@@ -1,0 +1,20 @@
+{
+  "type": "tconstruct:modifier",
+  "allow_crystal": true,
+  "inputs": [
+    {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    },
+    {
+      "tag": "forge:ingots/netherite"
+    }
+  ],
+  "level": 1,
+  "result": "tconstruct:netherite",
+  "slots": {
+    "upgrades": 1
+  },
+  "tools": {
+    "tag": "tconstruct:modifiable/durability"
+  }
+}

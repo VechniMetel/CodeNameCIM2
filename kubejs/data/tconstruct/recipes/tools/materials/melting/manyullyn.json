@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "tconstruct:manyullyn",
+  "result": {
+    "amount": 90,
+    "tag": "forge:molten_manyullyn"
+  },
+  "temperature": 1200
+}

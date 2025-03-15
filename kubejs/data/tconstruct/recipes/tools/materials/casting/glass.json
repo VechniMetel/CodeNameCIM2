@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "amount": 1000,
+    "tag": "tconstruct:molten_glass"
+  },
+  "output": "tconstruct:glass",
+  "temperature": 750
+}

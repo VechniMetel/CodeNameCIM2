@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:modifier",
+  "allow_crystal": true,
+  "inputs": [
+    {
+      "item": "minecraft:end_crystal"
+    }
+  ],
+  "level": 1,
+  "result": "tconstruct:resurrected",
+  "tools": {
+    "tag": "tconstruct:modifiable/bonus_slots"
+  }
+}

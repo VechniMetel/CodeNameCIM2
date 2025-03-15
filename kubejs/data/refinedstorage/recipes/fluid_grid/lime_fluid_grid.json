@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "refinedstorage:lime_grid"
+    },
+    {
+      "item": "refinedstorage:advanced_processor"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "refinedstorage:lime_fluid_grid"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_table",
+  "cooling_time": 111,
+  "fluid": {
+    "amount": 250,
+    "tag": "tconstruct:molten_obsidian"
+  },
+  "result": "tconstruct:obsidian_pane"
+}

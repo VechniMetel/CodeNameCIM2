@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "tconstruct:rose_gold",
+  "result": {
+    "amount": 90,
+    "tag": "forge:molten_rose_gold"
+  },
+  "temperature": 550
+}

@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "amount": 250,
+    "tag": "tconstruct:molten_glass"
+  },
+  "input": "tconstruct:iron",
+  "output": "tconstruct:iron#wrought",
+  "temperature": 750
+}

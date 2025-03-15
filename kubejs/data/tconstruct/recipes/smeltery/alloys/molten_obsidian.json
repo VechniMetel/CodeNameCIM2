@@ -1,0 +1,19 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "amount": 250,
+      "catalyst": true,
+      "fluid": "minecraft:water"
+    },
+    {
+      "amount": 100,
+      "fluid": "minecraft:lava"
+    }
+  ],
+  "result": {
+    "amount": 100,
+    "fluid": "tconstruct:molten_obsidian"
+  },
+  "temperature": 1000
+}

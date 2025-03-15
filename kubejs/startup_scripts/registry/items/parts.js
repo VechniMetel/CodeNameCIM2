@@ -1,0 +1,10 @@
+StartupEvents.registry("item",e=>{
+    e.create("ue_addons:basic_mechanism_part","basic")
+    e.create("ue_addons:mechanical_mechanism_part","basic")
+    e.create("ue_addons:engineering_mechanism_part","basic")
+    e.create("ue_addons:flux_mechanism_part","basic")
+    e.create("ue_addons:magical_mechanism_part","basic")
+    e.create("ue_addons:quantum_mechanism_part","basic")
+    e.create("ue_addons:mekanism_mechanism_part","basic")
+    e.create("ue_addons:final_mechanism_part","basic")
+})
