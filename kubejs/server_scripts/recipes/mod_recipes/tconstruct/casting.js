@@ -1,6 +1,6 @@
 ServerEvents.recipes((event) => {
     //iron
-    e.custom(
+    event.custom(
         {
             "type": "tconstruct:casting_table",
             "cast": {
@@ -15,7 +15,7 @@ ServerEvents.recipes((event) => {
         }
     )
     //copper
-    e.custom(
+    event.custom(
         {
             "type": "tconstruct:casting_table",
             "cast": {
@@ -30,7 +30,7 @@ ServerEvents.recipes((event) => {
         }
     )
     //gold
-    e.custom(
+    event.custom(
         {
             "type": "tconstruct:casting_table",
             "cast": {
@@ -44,7 +44,7 @@ ServerEvents.recipes((event) => {
             "result": "ue_addons:incomplete_gold_mechanism"
         }
     )
-    e.custom({
+    event.custom({
         "type": "tconstruct:casting_table",
         "cast": {
             "item": "ue_addons:wooden_mechanism"

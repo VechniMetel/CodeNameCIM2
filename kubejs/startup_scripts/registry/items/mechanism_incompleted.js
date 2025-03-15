@@ -29,7 +29,7 @@ StartupEvents.registry("item", (event) => {
 		"colorful",
 		"creative",
 	]
-	mechanism.forEach((material) => {
+	mechanismRegister.forEach((material) => {
 		event.create(`ue_addons:incomplete_${material}_mechanism`, "create:sequenced_assembly")
 	})
 })
