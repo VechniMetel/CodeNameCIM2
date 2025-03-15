@@ -16,7 +16,7 @@ ClientEvents.lang("zh_cn", (event) => {
 
 	addAloneLanguaue(`itemGroup.${global.namespace}.all`, "机械动力: 无限构件")
 	addAloneLanguaue(`promp.${global.namespace}.ender_mechanism.location_stored`, "当前坐标已存入末影构件")
-	addAloneLanguaue(`desc.${global.namespace}.acceleratable`, "§4可用于构件之力发生器")
+	addAloneLanguaue(`desc.${global.namespace}.acceleratable`, "§4可用于构件之力催生器")
 	addAloneLanguaue(`desc.${global.namespace}.stone_mechanism`, "§8可将圆石转化为石头")
 	addAloneLanguaue(`desc.${global.namespace}.copper_mechanism`, "§6右键可以丢出水瓶")
 	addAloneLanguaue(`desc.${global.namespace}.ender_mechanism`, "§5右键随机传送，潜行右键记录当前坐标")
