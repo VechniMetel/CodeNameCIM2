@@ -1,7 +1,7 @@
-ServerEvents.recipes(e => {
-  const create = e.recipes.create
-  create.haunting(
-    "ae2:controller",
-    "refinedstorage:controller"
-  )
+ServerEvents.recipes((event) => {
+	const { create } = event.recipes
+
+	create.haunting("ae2:controller", [
+		"refinedstorage:controller"
+	])
 })

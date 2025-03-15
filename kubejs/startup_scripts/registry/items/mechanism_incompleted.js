@@ -1,30 +1,35 @@
-StartupEvents.registry("item",e=>{
-    e.create("ue_addons:incomplete_nature_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_wooden_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_stone_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_iron_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_copper_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_andesite_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_photosensitive_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_gold_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_thermal_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_feinforced_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_resonant_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_railway_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_ender_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_light_engineering_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_heavy_engineering_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_enchanted_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_smart_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_basic_mekanism_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_advanced_mekanism_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_elite_mekanism_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_ultimate_mekanism_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_structure_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_nuclear_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_antimatter_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_coil_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_sculk_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_colorful_mechanism","create:sequenced_assembly")
-    e.create("ue_addons:incomplete_creative_mechanism","create:sequenced_assembly")
+StartupEvents.registry("item", (event) => {
+	let mechanismRegister = [
+		"nature",
+		"wooden",
+		"stone",
+		"iron",
+		"copper",
+		"andesite",
+		"photosensitive",
+		"gold",
+		"thermal",
+		"feinforced",
+		"resonant",
+		"railway",
+		"ender",
+		"light_engineering",
+		"heavy_engineering",
+		"enchanted",
+		"smart",
+		"basic_mekanism",
+		"advanced_mekanism",
+		"elite_mekanism",
+		"ultimate_mekanism",
+		"structure",
+		"nuclear",
+		"antimatter",
+		"coil",
+		"sculk",
+		"colorful",
+		"creative",
+	]
+	mechanism.forEach((material) => {
+		event.create(`ue_addons:incomplete_${material}_mechanism`, "create:sequenced_assembly")
+	})
 })

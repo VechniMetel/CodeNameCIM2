@@ -1,8 +1,15 @@
 {
-  "kubejs.ponder.the_accelerator_of_mechanism_power.header": "How to use the accelerator",
-  "kubejs.ponder.the_accelerator_of_mechanism_power.text_1": "This is an accelerator",
-  "kubejs.ponder.the_accelerator_of_mechanism_power.text_2": "Rightclick it with an iron mechanism in hand...",
-  "kubejs.ponder.the_accelerator_of_mechanism_power.text_3": "...and the stone around it changes into ore!",
-  "kubejs.ponder.the_accelerator_of_mechanism_power.text_4": "The accelerator also supports these mechanisms",
-  "kubejs.ponder.the_accelerator_of_mechanism_power.text_5": "But attention, only blocks in 5x5 zone around it can be transferred!"
+  "kubejs.ponder.stone_mechanism.header": "石质构件",
+  "kubejs.ponder.stone_mechanism.text_1": "这是一块平平无奇的石头",
+  "kubejs.ponder.stone_mechanism.text_2": "它就变成了一块圆石",
+  "kubejs.ponder.the_accelerator_of_mechanism_power.header": "构件之力催生器的用法",
+  "kubejs.ponder.the_accelerator_of_mechanism_power.text_1": "这是一个构件之力催生器",
+  "kubejs.ponder.the_accelerator_of_mechanism_power.text_2": "使用铁质构件右键...",
+  "kubejs.ponder.the_accelerator_of_mechanism_power.text_3": "...会把周边的石头替换为矿石！",
+  "kubejs.ponder.the_accelerator_of_mechanism_power.text_4": "同样的，还支持其它非常多种构件！",
+  "kubejs.ponder.the_accelerator_of_mechanism_power.text_5": "需要注意的是，只有周边5x5的区域才能被转化！",
+  "kubejs.ponder.the_accelerator_of_mechanism_power.text_6": "并且，当周围5x5的区域没有石头的时候，将不再转化！",
+  "kubejs.ponder.the_accelerator_of_mechanism_power.text_7": "部分构件支持特殊的石头作为底座！",
+  "kubejs.ponder.wooden_mechanism.header": "木质构件",
+  "kubejs.ponder.wooden_mechanism.text_1": "这是一个普通的树苗"
 }
