@@ -27,7 +27,7 @@ B:game_intro_fade_out = 'true';
 B:show_custom_window_icon = 'false';
 S:custom_window_icon_macos = '';
 S:custom_window_icon_32 = '';
-S:custom_window_title = 'CodeName"CIM2" Dev Alpha1.6.0 Build07';
+S:custom_window_title = '';
 S:custom_window_icon_16 = '';
 
 

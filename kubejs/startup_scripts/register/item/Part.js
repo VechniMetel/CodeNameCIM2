@@ -1,0 +1,10 @@
+StartupEvents.registry("item", (event) => {
+	event.create(`${global.namespace}:basic_mechanism_part`)
+	event.create(`${global.namespace}:mechanical_mechanism_part`)
+	event.create(`${global.namespace}:engineering_mechanism_part`)
+	event.create(`${global.namespace}:flux_mechanism_part`)
+	event.create(`${global.namespace}:magical_mechanism_part`)
+	event.create(`${global.namespace}:quantum_mechanism_part`)
+	event.create(`${global.namespace}:mekanism_mechanism_part`)
+	event.create(`${global.namespace}:final_mechanism_part`)
+})

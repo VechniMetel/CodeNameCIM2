@@ -21,7 +21,7 @@
   },
   "overlay": {
     "alpha": 0.7,
-    "iconMode": "TOP",
+    "iconMode": "CENTERED",
     "animation": true,
     "disappearingDelay": 0.0,
     "overlaySquare": false,
