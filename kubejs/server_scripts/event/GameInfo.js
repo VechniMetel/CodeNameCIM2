@@ -14,7 +14,6 @@ PlayerEvents.loggedIn((event) => {
 					scale: 1.0,
 				}
 			})
-		} else if (player.username !== debugUser) {
 			let playerInfo = Component.translate(`text.${global.namespace}.player`).getString()
 			player.paint({
 				playerTip: {
@@ -26,6 +25,7 @@ PlayerEvents.loggedIn((event) => {
 					scale: 1.0,
 				}
 			})
+		} else if (player.username !== debugUser) {
 			player.paint({
 				versionTip: {
 					type: "text",
