@@ -11,16 +11,16 @@ ClientEvents.lang("zh_cn", (event) => {
 	addMechanismPartLanguaue("final", "终章")
 
 	addBlockLanguaue("the_accelerator_of_mechanism_power", "构件之力催生器")
-	addBlockLanguaue("quartz_ore", "石英矿")
-	addBlockLanguaue("deepslate_quartz_ore", "深层石英矿")
+	addBlockLanguaue("quartz_ore", "石英矿石")
+	addBlockLanguaue("deepslate_quartz_ore", "深层石英矿石")
 
 	addAloneLanguaue(`itemGroup.${global.namespace}.all`, "机械动力: 无限构件")
 	addAloneLanguaue(`promp.${global.namespace}.ender_mechanism.location_stored`, "当前坐标已存入末影构件")
 	addAloneLanguaue(`desc.${global.namespace}.acceleratable`, "§4可用于构件之力催生器")
-	addAloneLanguaue(`desc.${global.namespace}.stone_mechanism`, "§8可将圆石转化为石头")
-	addAloneLanguaue(`desc.${global.namespace}.copper_mechanism`, "§6右键可以丢出水瓶")
-	addAloneLanguaue(`desc.${global.namespace}.ender_mechanism`, "§5右键随机传送，潜行右键记录当前坐标")
-	addAloneLanguaue(`desc.${global.namespace}.enchanted_mechanism`, "§9右键方块可生成经验")
+	addAloneLanguaue(`desc.${global.namespace}.stone_mechanism`, "§8手持右键圆石可将其转换为石头")
+	addAloneLanguaue(`desc.${global.namespace}.copper_mechanism`, "§6手持右键可以投掷出水瓶")
+	addAloneLanguaue(`desc.${global.namespace}.ender_mechanism`, "§5手持右键随机传送，手持潜行右键记录当前坐标")
+	addAloneLanguaue(`desc.${global.namespace}.enchanted_mechanism`, "§9手持右键方块可生成经验")
 	addAloneLanguaue(`desc.${global.namespace}.nature_mechanism`, "§2手持右键方块可以替代骨粉的功能")
 
 	addAloneLanguaue(`message.${global.namespace}.debug.getHardness`, "这个方块的硬度是: %s")
