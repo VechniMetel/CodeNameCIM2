@@ -22,11 +22,9 @@
 
 [![Star 历史](https://starchart.cc/VechniMetel/CodeNameCIM2.svg?variant=adaptive)](https://starchart.cc/VechniMetel/CodeNameCIM2)
 
-<div align="center">
+<div align="left">
 
 # CIM2Github仓库管理协议
-
-<div aligh="left">
 
 1.cim2版本号协议
 
