@@ -6,7 +6,7 @@ BlockEvents.rightClicked("ue_addons:the_accelerator_of_mechanism_power", r => {
     if (player == null) return
     if (r.getItem().is('ue_addons:andesite_mechanism')) {
         let { x, y, z } = r.block.pos
-        //设定扫描所用变量
+        //设定扫描所用变量.
         let numx = x
         let numz = z
         let outx
