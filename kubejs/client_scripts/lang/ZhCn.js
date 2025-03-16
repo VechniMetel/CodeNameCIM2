@@ -9,8 +9,8 @@ ClientEvents.lang("zh_cn", (event) => {
 	addMechanismPartLanguaue("engineering", "工程")
 	addMechanismPartLanguaue("mekanism", "通用")
 	addMechanismPartLanguaue("final", "终章")
-	
-	addFluidLanguaue("molten_andesite_alloy","熔融安山合金")
+
+	addFluidLanguaue("molten_andesite_alloy", "熔融安山合金")
 
 	addBlockLanguaue("the_accelerator_of_mechanism_power", "构件之力催生器")
 	addBlockLanguaue("quartz_ore", "石英矿石")
@@ -31,6 +31,8 @@ ClientEvents.lang("zh_cn", (event) => {
 	addAloneLanguaue(`desc.${global.namespace}.accelerate.iron`, "§e转化石头\n20%铁矿石\n5%红石矿石\n5%镍矿石\n§2转化深板岩\n15%深层铁矿石\n10%深层红石矿\n10%深层镍矿石")
 	addAloneLanguaue(`desc.${global.namespace}.accelerate.gold`, "§e转化石头\n20%金矿石\n5%朱砂矿石\n5%石英矿石\n§2转化深板岩\n15%深层金矿石\n10%深层朱砂矿\n10%深层石英矿")
 	addAloneLanguaue(`desc.${global.namespace}.accelerate.ender`, "§5将玩家传送到构件所记录的坐标")
+
+	addAloneLanguaue("wood_type.createdieselgenerators.chip_wood", "木屑")
 
 	addAloneLanguaue(`message.${global.namespace}.debug.getHardness`, "这个方块的硬度是: %s")
 	addAloneLanguaue(`text.${global.namespace}.dev`, "开发中画面, 实际内容请以正式版为准")

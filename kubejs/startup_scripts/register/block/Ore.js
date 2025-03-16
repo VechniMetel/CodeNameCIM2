@@ -1,5 +1,4 @@
 StartupEvents.registry("block", (event) => {
-	addAloneOreBlock("quartz", "iron")
 
 	// 挖掘等级
 	let miningLevel = {
@@ -38,4 +37,7 @@ StartupEvents.registry("block", (event) => {
 			.tagBlock(miningLevel[level])
 			.requiresTool(true)
 	}
+
+
+	addAloneOreBlock("quartz", "iron")
 })

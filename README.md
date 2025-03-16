@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# CIM2
+# Create:Mechanisms and Innovations(CMI)
 由Unknown_Entity_领头的Minecraft Forge 1.20.1机械动力整合包，CIM的续作/改良 目前处于Alpha阶段
 
 </div>
@@ -14,23 +14,25 @@
 
 
 
-[![Stars](https://img.shields.io/GitHub/stars/VechniMetel/CodeNameCIM2?label=Stars)](https://GitHub.com/VechniMetel/CodeNameCIM2)
-[![下载量](https://img.shields.io/GitHub/downloads/VechniMetel/CodeNameCIM2/total?style=social&label=下载量&logo=GitHub)](https://GitHub.comVechniMetel/CodeNameCIM2/releases/latest)
+[![Stars](https://img.shields.io/GitHub/stars/VechniMetel/CodeNameCMI?label=Stars)](https://GitHub.com/VechniMetel/CodeNameCMI)
+[![下载量](https://img.shields.io/GitHub/downloads/VechniMetel/CodeNameCMI/total?style=social&label=下载量&logo=GitHub)](https://GitHub.comVechniMetel/CodeNameCMI/releases/latest)
 
 
 ## Stars 历史
 
-[![Star 历史](https://starchart.cc/VechniMetel/CodeNameCIM2.svg?variant=adaptive)](https://starchart.cc/VechniMetel/CodeNameCIM2)
+[![Star 历史](https://starchart.cc/VechniMetel/CodeNameCMI.svg?variant=adaptive)](https://starchart.cc/VechniMetel/CodeNameCMI)
+
+<div align="center">
+
+# **CMI Github仓库管理协议**
 
 <div align="left">
 
-# **CIM2 Github仓库管理协议**
+### `Create:Mechanisms and Innovations`(下文称`CMI`)版本号协议
 
-### `Create Infinity Mechanism 2`(下文称`CIM2`)版本号协议
+- `CMI`版本号码由大中小版本号组成
 
-- `CIM2`版本号码由大中小版本号组成
-
-- `CIM2`大、中版本号码由主创`Unknown_Entity`进行规定。
+- `CMI`大、中版本号码由主创`Unknown_Entity`进行规定。
 
 - 技术人员每次上传涉及游戏内代码的更新时，须相对当前小版本号进一位再上传。
 
@@ -46,15 +48,15 @@
 
 - 技术人员在上传的`push origin`详情中需使用中文或英语概述该次修改的内容。
 
-- `Code`公有化协议
+- ### `Code`公有化协议
 
-- 所有Code在上传至GitHub仓库后，将会视为由`CIM2 Dev Team`所有成员共同拥有。
+- 所有Code在上传至GitHub仓库后，将会视为由`CMI Dev Team`所有成员共同拥有。
 
 - `Dev Team`所有成员拥有平等的修改与替换相关代码、材质等内容的权利。
 
 - 实行该权力的成员需要履行将内容优化修改的义务。
 
-- 版本更新与todo协议
+- ### 版本更新与todo协议
 
 - 主创`Unknown_Entity`拥有所有版本号的最终解释权，并且拥有下一个版本更新内容的决定权。
 
