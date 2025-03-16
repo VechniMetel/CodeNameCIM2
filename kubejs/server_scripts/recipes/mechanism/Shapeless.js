@@ -93,16 +93,4 @@ ServerEvents.recipes((event) => {
 		"minecraft:flint",
 		"minecraft:clay_ball"
 	])
-	kubejs.shapeless("4x ue_addons:basic_mechanism_part", [
-		"minecraft:flint",
-		"minecraft:clay_ball"
-	])
-	kubejs.shapeless("4x ue_addons:basic_mechanism_part", [
-		"minecraft:flint",
-		"minecraft:clay_ball"
-	])
-	kubejs.shapeless("4x ue_addons:basic_mechanism_part", [
-		"minecraft:flint",
-		"minecraft:clay_ball"
-	])
 })
