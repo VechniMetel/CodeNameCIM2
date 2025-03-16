@@ -26,6 +26,8 @@
 
 # CIM2Github仓库管理协议
 
+<div aligh="left">
+
 1.cim2版本号协议
 
 CIM2版本号码由大中小版本号组成
