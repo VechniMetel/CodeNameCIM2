@@ -16,12 +16,19 @@ ClientEvents.lang("zh_cn", (event) => {
 
 	addAloneLanguaue(`itemGroup.${global.namespace}.all`, "机械动力: 无限构件")
 	addAloneLanguaue(`promp.${global.namespace}.ender_mechanism.location_stored`, "当前坐标已存入末影构件")
-	addAloneLanguaue(`desc.${global.namespace}.acceleratable`, "§4可用于构件之力催生器")
-	addAloneLanguaue(`desc.${global.namespace}.stone_mechanism`, "§8手持右键圆石可将其转换为石头")
+	addAloneLanguaue(`desc.${global.namespace}.acceleratable`, "§b按住Shift查看构件之力催生器用途")
+	addAloneLanguaue(`desc.${global.namespace}.stone_mechanism`, "§c手持右键圆石可将其转换为石头")
 	addAloneLanguaue(`desc.${global.namespace}.copper_mechanism`, "§6手持右键可以投掷出水瓶")
-	addAloneLanguaue(`desc.${global.namespace}.ender_mechanism`, "§5手持右键随机传送，手持潜行右键记录当前坐标")
+	addAloneLanguaue(`desc.${global.namespace}.ender_mechanism`, "§d手持右键随机传送，手持潜行右键记录当前坐标")
 	addAloneLanguaue(`desc.${global.namespace}.enchanted_mechanism`, "§9手持右键方块可生成经验")
-	addAloneLanguaue(`desc.${global.namespace}.nature_mechanism`, "§2手持右键方块可以替代骨粉的功能")
+	addAloneLanguaue(`desc.${global.namespace}.nature_mechanism`, "§a手持右键方块可以替代骨粉的功能")
+
+	addAloneLanguaue(`desc.${global.namespace}.accelerate.stone`, "§e转化石头\n10%安山岩\n10%闪长岩\n10%花岗岩\n10%石灰岩\n10%焦黑石头\n§2转化深板岩\n10%焦黑石头\n10%凝灰岩\n10%熔渣\n10%滴水石块\n10%平滑玄武岩")
+	addAloneLanguaue(`desc.${global.namespace}.accelerate.andesite`, "§e转化石头\n20%安山岩\n5%铁矿石\n5%石头\n§2转化深板岩\n15%安山岩\n10%深层铁矿石\n10%深板岩")
+	addAloneLanguaue(`desc.${global.namespace}.accelerate.copper`, "§e转化石头\n20%铜矿石\n5%金矿石\n5%粘土块\n§2转化深板岩\n15%深层铜矿石\n10%深层金矿石\n10%粘土块")
+	addAloneLanguaue(`desc.${global.namespace}.accelerate.iron`, "§e转化石头\n20%铁矿石\n5%红石矿石\n5%镍矿石\n§2转化深板岩\n15%深层铁矿石\n10%深层红石矿\n10%深层镍矿石")
+	addAloneLanguaue(`desc.${global.namespace}.accelerate.gold`, "§e转化石头\n20%金矿石\n5%朱砂矿石\n5%石英矿石\n§2转化深板岩\n15%深层金矿石\n10%深层朱砂矿\n10%深层石英矿")
+	addAloneLanguaue(`desc.${global.namespace}.accelerate.ender`, "§5将玩家传送到构件所记录的坐标")
 
 	addAloneLanguaue(`message.${global.namespace}.debug.getHardness`, "这个方块的硬度是: %s")
 	addAloneLanguaue(`text.${global.namespace}.dev`, "开发中画面, 实际内容请以正式版为准")
@@ -44,7 +51,7 @@ ClientEvents.lang("zh_cn", (event) => {
 		["light_engineering", "轻型工程"],
 		["heavy_engineering", "重型工程"],
 		["enchanted", "附魔"],
-		["smart", "只能"],
+		["smart", "智能"],
 		["basic_mekanism", "基础通用"],
 		["advanced_mekanism", "高级通用"],
 		["elite_mekanism", "精英通用"],
