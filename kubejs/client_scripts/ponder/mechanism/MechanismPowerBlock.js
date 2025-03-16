@@ -22,7 +22,7 @@ Ponder.registry((event) => {
 			scene.world.setBlocks([1, 0, 1], "minecraft:iron_ore")
 			scene.text(30, "...and the stone around it changes into ore!", [3, 1, 3])
 			scene.idle(40)
-			scene.text(30, "The accelerator also supports these mechanisms")
+			scene.text(30, "The accelerator also supports others mechanisms")
 			scene.world.createItemEntity([2, 1, 2], Direction.DOWN, "ue_addons:stone_mechanism")
 			scene.world.createItemEntity([3, 1, 2], Direction.DOWN, "ue_addons:copper_mechanism")
 			scene.world.createItemEntity([4, 1, 2], Direction.DOWN, "ue_addons:andesite_mechanism")
