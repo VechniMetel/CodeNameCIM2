@@ -24,6 +24,7 @@ ServerEvents.recipes((event) => {
 	let iumm = "ue_addons:incomplete_ultimate_mekanism_mechanism"
 	let istm = "ue_addons:incomplete_structure_mechanism"
 	let ium = "ue_addons:incomplete_nuclear_mechanism"
+	let iatm = "ue_addons:incomplete_antimatter_mechanism"
 
 	//wooden
 	create.sequenced_assembly("ue_addons:wooden_mechanism", "#forge:stripped_logs", [
@@ -255,8 +256,8 @@ ServerEvents.recipes((event) => {
 	//antimatter
 	create.sequenced_assembly("ue_addons:antimatter_mechanism",
 		'ae2:singularity', [
-		create.pressing(ium, ium),
-		create.deploying(ium, [ium, 'mekanism:pellet_antimatter']),
-		create.deploying(ium, [ium, 'ue_addons:quantum_mechanism_part']),
-	]).transitionalItem(ium).loops(1)
+		create.pressing(iatm, iatm),
+		create.deploying(iatm, [iatm, 'mekanism:pellet_antimatter']),
+		create.deploying(iatm, [iatm, 'ue_addons:quantum_mechanism_part']),
+	]).transitionalItem(iatm).loops(1)
 })
