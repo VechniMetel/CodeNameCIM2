@@ -1,0 +1,10 @@
+{
+	"lan_huo": {
+		"sounds": [
+			{
+				"name": "ue_addons:lan_huo",
+				"stream": true
+			}
+		]
+	}
+}

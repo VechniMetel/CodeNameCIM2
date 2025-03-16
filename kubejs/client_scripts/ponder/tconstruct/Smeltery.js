@@ -19,7 +19,6 @@ Ponder.registry((event) => {
 			scene.idle(60)
 			// 显示三个部件
 			scene.world.showSection([5, 2, 2, 3, 2, 2], Direction.SOUTH)
-			// attachKeyFrame表示直接在文字处创建关键帧
 			scene.text(35, "Put the second layer in any direction\nFuel Tank\nSmeltery Controller\nSeared Drain")
 				.attachKeyFrame()
 			scene.idle(30)
