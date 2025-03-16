@@ -9,6 +9,8 @@ ClientEvents.lang("zh_cn", (event) => {
 	addMechanismPartLanguaue("engineering", "工程")
 	addMechanismPartLanguaue("mekanism", "通用")
 	addMechanismPartLanguaue("final", "终章")
+	
+	addFluidLanguaue("molten_andesite_alloy","熔融安山合金")
 
 	addBlockLanguaue("the_accelerator_of_mechanism_power", "构件之力催生器")
 	addBlockLanguaue("quartz_ore", "石英矿石")

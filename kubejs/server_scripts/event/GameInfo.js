@@ -32,7 +32,7 @@ PlayerEvents.loggedIn((event) => {
 					x: 10,
 					y: "$screenH - 20",
 					alignX: "left",
-					text: "Alpha - 1.6.0 Build07",
+					text: "Alpha - 1.6.2 Build02",
 					scale: 1.0
 				}
 			})

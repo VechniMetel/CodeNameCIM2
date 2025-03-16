@@ -94,7 +94,7 @@ ServerEvents.recipes((event) => {
 		create.cutting(itm, itm),
 		create.pressing(itm, itm),
 		create.deploying(itm, [itm, "thermal:rf_coil"]),
-		create.deploying(itm, [itm, "#forge:gears/letantan"]),
+		create.deploying(itm, [itm, "#forge:gears/constantan"]),
 		create.deploying(itm, [itm, "ue_addons:flux_mechanism_part"])
 	]).transitionalItem(itm).loops(1)
 
