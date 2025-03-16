@@ -2,7 +2,6 @@ name: Bug 反馈
 description: 在游玩 CodeNameCIM2 的过程中遇到了 Bug。
 title: （将此栏【替换】为你的标题）
 labels: ["Bug", "待查看", "优先级：无"]
-type: Bug
 body:
   - type: markdown
     attributes:
@@ -70,10 +69,10 @@ body:
   - type: input
     id: java_version
     attributes:
-      label: 操作系统版本
+      label: Java版本
       description: |
-        您当前使用的 Windows 操作系统版本，可以运行 `winver.exe` 查看。
-        如果您不能肯定此 Bug 与操作系统无关，请填写此项。
+        您当前使用的 Java 版本，可以运行 `java --version` 查看。
+        如果您不能肯定此 Bug 与 Java 版本无关，请填写此项。
       placeholder: 如：21.0.3
   - type: checkboxes
     id: revision
@@ -81,5 +80,5 @@ body:
       label: 最后一步
       description: 回顾您的回答
       options:
-        - label: 我认为上述的描述已经足以详细，以允许开发人员能复现该问题。如果我的 issue 没有按照上述的要求填写，可能会被无条件关闭。
+        - label: 我认为上述的描述已经足以详细，以允许开发人员复现该问题。如果我的 Issue 没有按照上述的要求填写，可能会被无条件关闭。
           required: true
