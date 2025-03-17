@@ -281,7 +281,7 @@ ServerEvents.recipes((event) => {
 		create.deploying(iscm, [iscm, "minecraft:sculk_shrieker"]),
 		create.deploying(iscm, [iscm, "minecraft:sculk_catalyst"]),
 		create.deploying(iscm, [iscm, "ue_addons:magical_mechanism_part"])
-	])
+	]).transitionalItem(iscm).loops(1)
 	create.deploying(
 		"minecraft:sculk_sensor",
 		["minecraft:sculk",
