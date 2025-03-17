@@ -25,6 +25,8 @@ ServerEvents.recipes((event) => {
 	let istm = "ue_addons:incomplete_structure_mechanism"
 	let ium = "ue_addons:incomplete_nuclear_mechanism"
 	let iatm = "ue_addons:incomplete_antimatter_mechanism"
+	let iclm = "ue_addons:incomplete_colorful_mechanism"
+	let iscm = "ue_addons:incomplete_sculk_mechanism"
 
 	//wooden
 	create.sequenced_assembly("ue_addons:wooden_mechanism", "#forge:stripped_logs", [
@@ -245,7 +247,7 @@ ServerEvents.recipes((event) => {
 
 	//nuclear
 	create.sequenced_assembly("ue_addons:nuclear_mechanism",
-		"#forge:lead/steel", [
+		"#forge:plates/lead", [
 		create.cutting(ium, ium),
 		create.pressing(ium, ium),
 		create.deploying(ium, [ium, 'mekanism:pellet_polonium']),
@@ -255,9 +257,44 @@ ServerEvents.recipes((event) => {
 
 	//antimatter
 	create.sequenced_assembly("ue_addons:antimatter_mechanism",
-		'ae2:singularity', [
+		"ae2:singularity", [
 		create.pressing(iatm, iatm),
 		create.deploying(iatm, [iatm, 'mekanism:pellet_antimatter']),
 		create.deploying(iatm, [iatm, 'ue_addons:quantum_mechanism_part']),
 	]).transitionalItem(iatm).loops(1)
+
+	//colorful
+	create.sequenced_assembly("ue_addons:colorful_mechanism",
+		"mekanism:dye_base", [
+		create.deploying(iclm, [iclm, "ae2:black_lumen_paint_ball"]),
+		create.deploying(iclm, [iclm, "ae2:red_lumen_paint_ball"]),
+		create.deploying(iclm, [iclm, "ae2:green_lumen_paint_ball"]),
+		create.deploying(iclm, [iclm, "ae2:blue_lumen_paint_ball"]),
+		create.deploying(iclm, [iclm, "ae2:white_lumen_paint_ball"]),
+		create.deploying(iclm, [iclm, "ue_addons:magical_mechanism_part"])
+	]).transitionalItem(iclm).loops(1)
+
+	//sculk
+	create.sequenced_assembly("ue_addons:sculk_mechanism",
+		"minecraft:netherite_ingot", [
+		create.deploying(iscm, [iscm, "minecraft:sculk_sensor"]),
+		create.deploying(iscm, [iscm, "minecraft:sculk_shrieker"]),
+		create.deploying(iscm, [iscm, "minecraft:sculk_catalyst"]),
+		create.deploying(iscm, [iscm, "ue_addons:magical_mechanism_part"])
+	])
+	create.deploying(
+		"minecraft:sculk_sensor",
+		["minecraft:sculk",
+		"minecraft:redstone_block"
+	])
+	create.deploying(
+		"minecraft:sculk_shrieker",
+		["minecraft:sculk",
+		"minecraft:ender_pearl"
+	])
+	create.deploying(
+		"minecraft:sculk_catalyst",
+		["minecraft:sculk",
+		"create:experience_block"
+	])
 })
