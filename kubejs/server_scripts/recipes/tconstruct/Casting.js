@@ -9,7 +9,7 @@ ServerEvents.recipes((event) => {
 		"cooling_time": 50,
 		"fluid": {
 			"amount": 180,
-			"tag": "forge:molten_iron"
+			"fluid": "tconstruct:molten_iron"
 		},
 		"result": "ue_addons:incomplete_iron_mechanism"
 	})
@@ -23,7 +23,7 @@ ServerEvents.recipes((event) => {
 		"cooling_time": 50,
 		"fluid": {
 			"amount": 180,
-			"tag": "forge:molten_copper"
+			"fluid": "tconstruct:molten_copper"
 		},
 		"result": "ue_addons:incomplete_copper_mechanism"
 	})
@@ -37,7 +37,7 @@ ServerEvents.recipes((event) => {
 		"cooling_time": 50,
 		"fluid": {
 			"amount": 180,
-			"tag": "forge:molten_gold"
+			"fluid": "tconstruct:molten_gold"
 		},
 		"result": "ue_addons:incomplete_gold_mechanism"
 	})
@@ -51,7 +51,7 @@ ServerEvents.recipes((event) => {
 		"cooling_time": 57,
 		"fluid": {
 			"amount": 90,
-			"tag": "forge:molten_gold"
+			"fluid": "tconstruct:molten_gold"
 		},
 		"result": "ue_addons:mechanism_cast",
 		"switch_slots": true
