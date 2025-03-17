@@ -28,7 +28,7 @@
 
 <div align="left">
 
-### `Create:Mechanisms and Innovations`(下文称`CMI`)版本号协议
+### `Create: Mechanisms and Innovations`(下文称`CMI`)版本号协议
 
 - `CMI`版本号码由大中小版本号组成
 
