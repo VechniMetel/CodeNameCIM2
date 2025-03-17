@@ -93,4 +93,12 @@ ServerEvents.recipes((event) => {
 		"minecraft:flint",
 		"minecraft:clay_ball"
 	])
+	kubejs.shapeless("4x ue_addons:magical_mechanism_part", [
+		"thermal:lapis_gear",
+		"create_sa:heap_of_experience"
+	])
+	kubejs.shapeless("4x ue_addons:quantum_mechanism_part", [
+		"mekanism:pellet_polonium",
+		"ae2:quantum_entangled_singularity"
+	])
 })
