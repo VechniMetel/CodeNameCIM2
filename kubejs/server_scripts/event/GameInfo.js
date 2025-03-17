@@ -33,7 +33,6 @@ PlayerEvents.loggedIn((event) => {
 					y: "$screenH - 20",
 					alignX: "left",
 					text: "CMI Dev Alpha-1.6.5",
->>>>>>> Stashed changes
 					scale: 1.0
 				}
 			})
