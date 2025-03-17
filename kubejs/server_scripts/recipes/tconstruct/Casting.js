@@ -6,6 +6,7 @@ ServerEvents.recipes((event) => {
 		"cast": {
 			"tag": "minecraft:logs"
 		},
+		"cast_consumed": true,
 		"cooling_time": 50,
 		"fluid": {
 			"amount": 180,
@@ -20,6 +21,7 @@ ServerEvents.recipes((event) => {
 		"cast": {
 			"tag": "minecraft:logs"
 		},
+		"cast_consumed": true,
 		"cooling_time": 50,
 		"fluid": {
 			"amount": 180,
@@ -34,6 +36,7 @@ ServerEvents.recipes((event) => {
 		"cast": {
 			"tag": "minecraft:logs"
 		},
+		"cast_consumed": true,
 		"cooling_time": 50,
 		"fluid": {
 			"amount": 180,
