@@ -1,0 +1,16 @@
+#A list of blocks that allow paths under them. Format: modid:name:propertyname1=propertyvalue1,propertyname2=propertyvalue2,...
+#Examples: "ore:glass", "minecraft:*", "minecraft:stone", "minecraft:oak_stairs:facing=east", "minecraft:oak_stairs:half=top", "minecraft:oak_stairs:facing=east,half=top"
+#Each entry must be surrounded by double quotes
+blocksWhitelist = []
+#A list of blocks that disallow paths under them. Format: modid:name:propertyname1=propertyvalue1,propertyname2=propertyvalue2,...
+#Examples: "ore:glass", "minecraft:*", "minecraft:stone", "minecraft:oak_stairs:facing=east", "minecraft:oak_stairs:half=top", "minecraft:oak_stairs:facing=east,half=top"
+#Each entry must be surrounded by double quotes
+blocksBlacklist = []
+#A list of block pairs where the first is the normal block and the second the block it is flattened into with the shovel.
+#The first block can only be a simple block, properties are ignored. The second can be a block with properties attached like the blacklist/whitelist.
+#Blocks pairs are separated by a | character. Cannot use tags or wildcards. Properties not defined are assumed default. Format: modid:name|modid:name:propertyname1=propertyvalue1,propertyname2=propertyvalue2,...
+#Intended for compatibility purposes, but nothing stopping you from going nuts and making shovels turn coal blocks into diamonds.
+#Examples: "minecraft:snow_block|morepaths:snow_path", "undergarden:deepsoil|ugpaths:deepsoil_path", "minecraft:coal_block|minecraft:diamond_block"
+#Each entry must be surrounded by double quotes
+blockPathPairList = []
+
