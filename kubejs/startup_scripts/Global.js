@@ -4,5 +4,6 @@ global.debugUserName = [
 	"Vechni_Metel",
 	"UnknownEntity_UE",
 	"117458866249",
-	"KEYboardManDesu"
+	"KEYboardManDesu",
+	"oooooooo_zane"
 ]
