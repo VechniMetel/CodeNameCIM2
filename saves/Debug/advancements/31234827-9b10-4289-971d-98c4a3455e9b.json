@@ -46564,5 +46564,71 @@
     },
     "done": true
   },
+  "torcherino:recipes/compressed_lanterino": {
+    "criteria": {
+      "has_compressed_torcherino": "2025-03-22 11:12:58 +0800"
+    },
+    "done": true
+  },
+  "torcherino:recipes/compressed_lantern": {
+    "criteria": {
+      "has_compressed_torcherino": "2025-03-22 11:12:58 +0800"
+    },
+    "done": true
+  },
+  "torcherino:recipes/lanterino": {
+    "criteria": {
+      "has_torcherino": "2025-03-22 11:12:58 +0800"
+    },
+    "done": true
+  },
+  "torcherino:recipes/double_compressed_lantern": {
+    "criteria": {
+      "has_double_compressed_torcherino": "2025-03-22 11:12:58 +0800"
+    },
+    "done": true
+  },
+  "torcherino:recipes/double_compressed_lanterino": {
+    "criteria": {
+      "has_double_compressed_torcherino": "2025-03-22 11:12:58 +0800"
+    },
+    "done": true
+  },
+  "torcherino:recipes/torcherino": {
+    "criteria": {
+      "has_torch": "2025-03-22 11:12:58 +0800"
+    },
+    "done": true
+  },
+  "torcherino:recipes/lantern": {
+    "criteria": {
+      "has_torcherino": "2025-03-22 11:12:58 +0800"
+    },
+    "done": true
+  },
+  "torcherino:recipes/double_compressed_torcherino_to_compressed": {
+    "criteria": {
+      "has_double_compressed_torcherino": "2025-03-22 11:12:58 +0800"
+    },
+    "done": true
+  },
+  "torcherino:recipes/compressed_torcherino_to_single": {
+    "criteria": {
+      "has_compressed_torcherino": "2025-03-22 11:12:58 +0800"
+    },
+    "done": true
+  },
+  "torcherino:recipes/compressed_torcherino": {
+    "criteria": {
+      "has_torcherino": "2025-03-22 11:12:58 +0800"
+    },
+    "done": true
+  },
+  "torcherino:recipes/double_compressed_torcherino": {
+    "criteria": {
+      "has_compressed_torcherino": "2025-03-22 11:12:58 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
