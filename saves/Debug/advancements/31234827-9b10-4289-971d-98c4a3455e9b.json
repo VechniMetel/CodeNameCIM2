@@ -6266,13 +6266,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/smoking/bread": {
-    "criteria": {
-      "has_item": "2025-03-17 23:57:41 +0800",
-      "has_the_recipe": "2025-03-17 23:57:41 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/umber_brick_slab_from_long_umber_bricks_stonecutting": {
     "criteria": {
       "has_long_umber_bricks": "2025-03-17 23:57:41 +0800",
@@ -27043,13 +27036,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/smelting/bread": {
-    "criteria": {
-      "has_item": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/sheetmetal_lead_to_slab": {
     "criteria": {
       "has_sheetmetal_lead": "2025-03-17 23:57:44 +0800",
@@ -31811,13 +31797,6 @@
   "tconstruct:recipes/building_blocks/common/glass/brown_clear_stained_glass": {
     "criteria": {
       "has_clear_glass": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/campfire_cooking/bread": {
-    "criteria": {
-      "has_item": "2025-03-17 23:57:44 +0800",
       "has_the_recipe": "2025-03-17 23:57:44 +0800"
     },
     "done": true
@@ -46312,13 +46291,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/slime_ball": {
-    "criteria": {
-      "has_item": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/corner_blue_brick_wall_from_short_blue_bricks_stonecutting": {
     "criteria": {
       "has_short_blue_bricks": "2025-03-17 23:57:44 +0800",
@@ -46561,6 +46533,12 @@
     "criteria": {
       "has_polished_cut_scorchia_slab": "2025-03-17 23:57:44 +0800",
       "has_the_recipe": "2025-03-17 23:57:44 +0800"
+    },
+    "done": true
+  },
+  "create:fluid_fuel": {
+    "criteria": {
+      "0": "2025-03-24 17:52:16 +0800"
     },
     "done": true
   },
