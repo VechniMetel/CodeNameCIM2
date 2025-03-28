@@ -924,13 +924,6 @@
     },
     "done": true
   },
-  "nethersdelight:recipes/tools/golden_machete": {
-    "criteria": {
-      "has_gold_ingot": "2025-03-17 23:57:41 +0800",
-      "has_the_recipe": "2025-03-17 23:57:41 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/corner_blue_brick_wall_from_short_blue_brick_wall_stonecutting": {
     "criteria": {
       "has_short_blue_brick_wall": "2025-03-17 23:57:41 +0800",
@@ -5023,13 +5016,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_machete_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-03-17 23:57:41 +0800",
-      "has_the_recipe": "2025-03-17 23:57:41 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/tiled_pearl_brick_stairs_from_tiled_pearl_bricks_stonecutting": {
     "criteria": {
       "has_tiled_pearl_bricks": "2025-03-17 23:57:41 +0800",
@@ -8702,13 +8688,6 @@
     },
     "done": true
   },
-  "nethersdelight:recipes/decorations/nether_brick_smoker": {
-    "criteria": {
-      "has_nether_bricks": "2025-03-17 23:57:42 +0800",
-      "has_the_recipe": "2025-03-17 23:57:42 +0800"
-    },
-    "done": true
-  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_fancy_bricks_crafting": {
     "criteria": {
       "has_item": "2025-03-17 23:57:42 +0800",
@@ -10316,13 +10295,6 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-03-17 23:57:42 +0800",
-      "has_the_recipe": "2025-03-17 23:57:42 +0800"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/food/nether_skewer": {
-    "criteria": {
-      "has_propelpearl": "2025-03-17 23:57:42 +0800",
       "has_the_recipe": "2025-03-17 23:57:42 +0800"
     },
     "done": true
@@ -12934,13 +12906,6 @@
     },
     "done": true
   },
-  "nethersdelight:recipes/transportation/hoglin_trophy": {
-    "criteria": {
-      "has_hoglin_hide": "2025-03-17 23:57:42 +0800",
-      "has_the_recipe": "2025-03-17 23:57:42 +0800"
-    },
-    "done": true
-  },
   "railways:recipes/misc/crafting/palettes/dyeing_1x/purple_riveted_locometal": {
     "criteria": {
       "has_item": "2025-03-17 23:57:42 +0800",
@@ -13721,13 +13686,6 @@
     "criteria": {
       "has_cracked_dusk_bricks": "2025-03-17 23:57:42 +0800",
       "has_the_recipe": "2025-03-17 23:57:42 +0800"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/food/hoglin_sirloin": {
-    "criteria": {
-      "has_the_recipe": "2025-03-17 23:57:42 +0800",
-      "hoglin_sirloin": "2025-03-17 23:57:42 +0800"
     },
     "done": true
   },
@@ -19997,13 +19955,6 @@
     },
     "done": true
   },
-  "nethersdelight:recipes/misc/gold_nugget_from_smelting_machete": {
-    "criteria": {
-      "has_golden_machete": "2025-03-17 23:57:43 +0800",
-      "has_the_recipe": "2025-03-17 23:57:43 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
     "criteria": {
       "has_item": "2025-03-17 23:57:43 +0800",
@@ -20627,13 +20578,6 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-03-17 23:57:43 +0800",
-      "has_the_recipe": "2025-03-17 23:57:43 +0800"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/decorations/blackstone_stove": {
-    "criteria": {
-      "has_nether_brick": "2025-03-17 23:57:43 +0800",
       "has_the_recipe": "2025-03-17 23:57:43 +0800"
     },
     "done": true
@@ -21517,13 +21461,6 @@
   "createdeco:recipes/building_blocks/tiled_verdant_brick_wall_from_tiled_verdant_bricks_stonecutting": {
     "criteria": {
       "has_tiled_verdant_bricks": "2025-03-17 23:57:43 +0800",
-      "has_the_recipe": "2025-03-17 23:57:43 +0800"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/decorations/blackstone_furnace": {
-    "criteria": {
-      "has_blackstone": "2025-03-17 23:57:43 +0800",
       "has_the_recipe": "2025-03-17 23:57:43 +0800"
     },
     "done": true
@@ -23474,13 +23411,6 @@
     },
     "done": true
   },
-  "nethersdelight:recipes/misc/gold_nugget_from_blasting_machete": {
-    "criteria": {
-      "has_golden_machete": "2025-03-17 23:57:43 +0800",
-      "has_the_recipe": "2025-03-17 23:57:43 +0800"
-    },
-    "done": true
-  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_from_brick": {
     "criteria": {
       "has_item": "2025-03-17 23:57:43 +0800",
@@ -23619,13 +23549,6 @@
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_bricks": "2025-03-17 23:57:43 +0800",
-      "has_the_recipe": "2025-03-17 23:57:43 +0800"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/food/warped_moldy_meat": {
-    "criteria": {
-      "has_sirloin": "2025-03-17 23:57:43 +0800",
       "has_the_recipe": "2025-03-17 23:57:43 +0800"
     },
     "done": true
@@ -25927,13 +25850,6 @@
     },
     "done": true
   },
-  "nethersdelight:recipes/decorations/blackstone_blast_furnace": {
-    "criteria": {
-      "has_iron": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
   "everycomp:recipes/building_blocks/c/tconstruct/skyroot_window": {
     "criteria": {
       "has_item": "2025-03-17 23:57:44 +0800",
@@ -27312,13 +27228,6 @@
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/misc/soul_compost_from_hoglin_hide": {
-    "criteria": {
-      "has_soil": "2025-03-17 23:57:44 +0800",
       "has_the_recipe": "2025-03-17 23:57:44 +0800"
     },
     "done": true
@@ -29131,13 +29040,6 @@
     },
     "done": true
   },
-  "nethersdelight:recipes/food/hoglin_sirloin_from_campfire_cooking": {
-    "criteria": {
-      "has_the_recipe": "2025-03-17 23:57:44 +0800",
-      "hoglin_sirloin": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/long_dusk_brick_slab_from_tiled_dusk_brick_slab_stonecutting": {
     "criteria": {
       "has_tiled_dusk_brick_slab": "2025-03-17 23:57:44 +0800",
@@ -30527,13 +30429,6 @@
     },
     "done": true
   },
-  "nethersdelight:recipes/cooking/magma_gelatin": {
-    "criteria": {
-      "has_propelpearl": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/copper/waxed_weathered_copper_tile_slab_from_honeycomb": {
     "criteria": {
       "has_the_recipe": "2025-03-17 23:57:44 +0800",
@@ -31146,13 +31041,6 @@
     "criteria": {
       "has_corner_pearl_bricks": "2025-03-17 23:57:44 +0800",
       "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/tools/iron_machete": {
-    "criteria": {
-      "has_the_recipe": "2025-03-17 23:57:44 +0800",
-      "has_iron_ingot": "2025-03-17 23:57:44 +0800"
     },
     "done": true
   },
@@ -32509,13 +32397,6 @@
     },
     "done": true
   },
-  "nethersdelight:recipes/cooking/strider_moss_stew": {
-    "criteria": {
-      "has_strider_slice": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/dense_covered_gray": {
     "criteria": {
       "has_dyes/black": "2025-03-17 23:57:44 +0800",
@@ -32784,13 +32665,6 @@
   "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/decorations/propelplant_torch": {
-    "criteria": {
-      "has_propelplant": "2025-03-17 23:57:44 +0800",
       "has_the_recipe": "2025-03-17 23:57:44 +0800"
     },
     "done": true
@@ -33243,13 +33117,6 @@
   "farmersdelight:recipes/decorations/green_canvas_sign": {
     "criteria": {
       "has_canvas_sign": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/misc/soul_compost_from_warped_roots": {
-    "criteria": {
-      "has_soil": "2025-03-17 23:57:44 +0800",
       "has_the_recipe": "2025-03-17 23:57:44 +0800"
     },
     "done": true
@@ -37485,13 +37352,6 @@
     },
     "done": true
   },
-  "nethersdelight:recipes/food/raw_stuffed_hoglin": {
-    "criteria": {
-      "has_hoglin_hide": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/blocks/energy_dense_energy_cell": {
     "criteria": {
       "has_energy_cell": "2025-03-17 23:57:44 +0800",
@@ -38167,13 +38027,6 @@
     "criteria": {
       "has_quartz_block": "2025-03-17 23:57:44 +0800",
       "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/food/hoglin_sirloin_from_smoking": {
-    "criteria": {
-      "has_the_recipe": "2025-03-17 23:57:44 +0800",
-      "hoglin_sirloin": "2025-03-17 23:57:44 +0800"
     },
     "done": true
   },
@@ -39351,13 +39204,6 @@
   "create:recipes/misc/smelting/copper_ingot_from_crushed": {
     "criteria": {
       "has_item": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/misc/iron_nugget_from_smelting_machete": {
-    "criteria": {
-      "has_iron_machete": "2025-03-17 23:57:44 +0800",
       "has_the_recipe": "2025-03-17 23:57:44 +0800"
     },
     "done": true
@@ -40673,13 +40519,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/stuffed_hoglin": {
-    "criteria": {
-      "has_raw_stuffed_hoglin": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-03-17 23:57:44 +0800",
@@ -41911,13 +41750,6 @@
     "criteria": {
       "has_the_recipe": "2025-03-17 23:57:44 +0800",
       "has_small_diorite_bricks": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/tools/diamond_machete": {
-    "criteria": {
-      "has_the_recipe": "2025-03-17 23:57:44 +0800",
-      "has_diamond": "2025-03-17 23:57:44 +0800"
     },
     "done": true
   },
@@ -43202,13 +43034,6 @@
     "criteria": {
       "has_fluix_glass_cable": "2025-03-17 23:57:44 +0800",
       "has_dyes/black": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/misc/iron_nugget_from_blasting_machete": {
-    "criteria": {
-      "has_iron_machete": "2025-03-17 23:57:44 +0800",
       "has_the_recipe": "2025-03-17 23:57:44 +0800"
     },
     "done": true
@@ -45121,13 +44946,6 @@
     "criteria": {
       "has_fluix_smart_cable": "2025-03-17 23:57:44 +0800",
       "has_dyes/black": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/cooking/grilled_strider": {
-    "criteria": {
-      "has_strider_slice": "2025-03-17 23:57:44 +0800",
       "has_the_recipe": "2025-03-17 23:57:44 +0800"
     },
     "done": true
