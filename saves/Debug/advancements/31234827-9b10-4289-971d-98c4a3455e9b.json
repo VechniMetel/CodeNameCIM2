@@ -31766,13 +31766,6 @@
     },
     "done": true
   },
-  "create_power_loader:recipes/misc/crafting/empty_andesite_chunk_loader": {
-    "criteria": {
-      "has_item": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/decal_flow": {
     "criteria": {
       "has_item": "2025-03-17 23:57:44 +0800",
