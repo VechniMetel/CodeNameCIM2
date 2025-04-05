@@ -66,15 +66,6 @@
 		#A list of Items by Resource Location which are NOT allowed in Satchels.
 		Denylist = ["thermal:satchel", "minecraft:shulker_box", "minecraft:white_shulker_box", "minecraft:orange_shulker_box", "minecraft:magenta_shulker_box", "minecraft:light_blue_shulker_box", "minecraft:yellow_shulker_box", "minecraft:lime_shulker_box", "minecraft:pink_shulker_box", "minecraft:gray_shulker_box", "minecraft:light_gray_shulker_box", "minecraft:cyan_shulker_box", "minecraft:purple_shulker_box", "minecraft:blue_shulker_box", "minecraft:brown_shulker_box", "minecraft:green_shulker_box", "minecraft:red_shulker_box", "minecraft:black_shulker_box"]
 
-	[Tools."Watering Can"]
-		#This sets the maximum base fluid capacity for the Watering Can.
-		#Range: 1000 ~ 10000000
-		"Base Capacity" = 4000
-		#If TRUE, the Watering Can can be used by Fake Players.
-		"Allow Fake Players" = false
-		#If TRUE, the Watering Can consumes source blocks when refilling.
-		"Consume Source Blocks" = true
-
 ["Global Options"]
 	#If TRUE, Redstone Flux will act as its own energy system and will NOT be interoperable with 'Forge Energy' - only enable this if you absolutely know what you are doing and want the Thermal Series to use a unique energy system.
 	"Standalone Redstone Flux" = false
@@ -344,14 +335,4 @@
 		#This sets the base power consumption (RF/t) for the Sequential Fabricator.
 		#Range: 1 ~ 32000
 		"Base Power" = 20
-
-[Crops]
-	#If TRUE, some Thermal Cultivation seeds will be able to drop from grass. Disabling this will ignore any datapack setting using Thermal's 'seeds_from_grass' Global Loot Modifier.
-	"Drop Seeds From Grass" = true
-	#If TRUE, Glimmercap Mushrooms produce light when fully grown. Disabling this may improve performance.
-	"Glowstone Mushroom Light" = true
-	#If TRUE, Fluxtooth Mushrooms produce light when fully grown. Disabling this may improve performance.
-	"Redstone Mushroom Light" = true
-	#If TRUE, Fluxtooth Mushrooms emit a redstone signal when fully grown. Disabling this may improve performance.
-	"Redstone Mushroom Signal" = true
 
