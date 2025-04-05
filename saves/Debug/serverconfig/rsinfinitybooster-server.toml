@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 [infinityCard]
 	#The energy need to run the Infinity Card
@@ -10,16 +9,3 @@
 	#Range: > 0
 	energyUsage = 8000
 
-=======
-
-[infinityCard]
-	#The energy need to run the Infinity Card
-	#Range: > 0
-	energyUsage = 4000
-
-[dimensionCard]
-	#The energy need to run the Dimension Card
-	#Range: > 0
-	energyUsage = 8000
-
->>>>>>> parent of f1463df (Delete saves/Debug directory)
