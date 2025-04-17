@@ -46353,5 +46353,947 @@
     },
     "done": true
   },
+  "ad_astra:tier_1_rocket": {
+    "criteria": {
+      "tier_1_rocket": "2025-04-17 14:48:35 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:tier_4_rocket": {
+    "criteria": {
+      "tier_4_rocket": "2025-04-17 14:54:17 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:rocket_destroyed": {
+    "criteria": {
+      "rocket_destroyed": "2025-04-17 14:56:11 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ebus_upgrade": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:venus": {
+    "criteria": {
+      "venus": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/assembler_matrix_pattern": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:astro_cuisine": {
+    "criteria": {
+      "food_cooked_in_atmosphere": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/assembler_matrix_speed": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ebus_out": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/ad_astra/glacian_cabinet": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/tag_export_bus": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/threshold_level_emitter": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/tconstruct/enderbark_1": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/tconstruct/enderbark_2": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/tconstruct/enderbark_4": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:tier_2_rocket": {
+    "criteria": {
+      "tier_2_rocket": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/stellarium_ingot_from_dust": {
+    "criteria": {
+      "has_ingot": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/prismalium_nugget": {
+    "criteria": {
+      "has_ingot": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/assembler_matrix_wall": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smoking/bread": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:tier_3_rocket": {
+    "criteria": {
+      "tier_3_rocket": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/assembler_matrix_glass": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/prismalium_gear": {
+    "criteria": {
+      "has_ingot": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/precise_storage_bus": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/melodic_range_augment": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 14:56:37 +0800",
+      "has_melodium": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/epa_upgrade": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/tape": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/pre_bus": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/melodium_ingot_from_nugget": {
+    "criteria": {
+      "has_ingot": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/melodium_ingot_from_dust": {
+    "criteria": {
+      "has_ingot": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/energy_nullifier_augment": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 14:56:37 +0800",
+      "has_melodium": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:mercury": {
+    "criteria": {
+      "mercury": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/thermal/rubberwood_4": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/thermal/rubberwood_2": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/thermal/rubberwood_1": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/oversize_interface": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/ad_astra/aeronos_cabinet": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/crystal_fixer": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ei_alt": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/ad_astra/glacian_4": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/ad_astra/glacian_2": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/ad_astra/glacian_1": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/ad_astra/strophar_window": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/ad_astra/glacian_window": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/melodium_block_from_ingot": {
+    "criteria": {
+      "has_ingot": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/mod_storage_bus": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/stellarium_ingot_from_nugget": {
+    "criteria": {
+      "has_ingot": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/water_cell": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/createdieselgenerators/chip_wood_1": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/createdieselgenerators/chip_wood_2": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/createdieselgenerators/chip_wood_4": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:challenger": {
+    "criteria": {
+      "challenger": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/wireless_ex_pat": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/silicon_block": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/cobblestone_cell": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/ad_astra/strophar_cabinet": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/ad_astra/strophar_window_pane": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/fishbig": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/dynamo_fuel_nullifier_augment": {
+    "criteria": {
+      "has_prismalium": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "functionalstorage:recipes/misc/netherite_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/wireless_connector": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:space_suit": {
+    "criteria": {
+      "space_suit": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ex_io_port": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/active_formation_plane": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/ad_astra/aeronos_window_pane": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ebus_in": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/tconstruct/skyroot_4": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/tconstruct/skyroot_2": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/tconstruct/skyroot_1": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/prismalium_block_from_ingot": {
+    "criteria": {
+      "has_ingot": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/epp_part": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/stellarium_ingot": {
+    "criteria": {
+      "has_ingot": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ex_drive": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:moon_dungeon": {
+    "criteria": {
+      "moon_dungeon": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:ad_astra": {
+    "criteria": {
+      "ad_astra": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ingredient_buffer": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/tconstruct/bloodshroom_4": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/tconstruct/bloodshroom_1": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/tconstruct/bloodshroom_2": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/caner": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ex_molecular_assembler": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/pattern_modifier": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/prismalium_ingot": {
+    "criteria": {
+      "has_ingot": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:netherite_space_suit": {
+    "criteria": {
+      "netherite_space_suit": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/bread": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/mod_export_bus": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/melodium_ingot": {
+    "criteria": {
+      "has_ingot": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/tconstruct/greenheart_2": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/tconstruct/greenheart_4": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/tconstruct/greenheart_1": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ei_upgrade": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/silicon_block_disassembler": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:interstellar": {
+    "criteria": {
+      "interstellar": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/melodium_nugget": {
+    "criteria": {
+      "has_ingot": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:moon": {
+    "criteria": {
+      "moon": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/assembler_matrix_frame": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/campfire_cooking/bread": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/dynamo_consumption_nullifier_augment": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 14:56:37 +0800",
+      "has_melodium": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/stellarium_gear": {
+    "criteria": {
+      "has_ingot": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/threshold_export_bus": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/wireless_tool": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ex_inscriber": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/circuit_cutter": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/ad_astra/aeronos_4": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/ad_astra/aeronos_2": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/ad_astra/aeronos_1": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/endergy_upgrade_3": {
+    "criteria": {
+      "has_stellarium": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/endergy_upgrade_2": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 14:56:37 +0800",
+      "has_melodium": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/endergy_upgrade_1": {
+    "criteria": {
+      "has_prismalium": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/assembler_matrix_crafter": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ei": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/ad_astra/aeronos_window": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/epp_alt": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/epp": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/epa": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:jet_suit": {
+    "criteria": {
+      "jet_suit": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/prismalium_ingot_from_dust": {
+    "criteria": {
+      "has_ingot": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/vibrating_core": {
+    "criteria": {
+      "has_echo_shard": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/oversize_interface_alt": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/resonant_catalyst_augment": {
+    "criteria": {
+      "has_prismalium": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/stellarium_block_from_ingot": {
+    "criteria": {
+      "has_ingot": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/ad_astra/glacian_window_pane": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ex_charger": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/epp_upgrade": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/stellarium_nugget": {
+    "criteria": {
+      "has_ingot": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ei_part": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/efficiency_nullifier_augment": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 14:56:37 +0800",
+      "has_melodium": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/tag_storage_bus": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/prismalium_ingot_from_nugget": {
+    "criteria": {
+      "has_ingot": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "thermalendergy:recipes/misc/melodium_gear": {
+    "criteria": {
+      "has_ingot": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ex_drive_upgrade": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/ad_astra/strophar_1": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/ad_astra/strophar_2": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fs/ad_astra/strophar_4": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/oversize_interface_part": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/slime_ball": {
+    "criteria": {
+      "has_item": "2025-04-17 14:56:37 +0800",
+      "has_the_recipe": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:mars": {
+    "criteria": {
+      "mars": "2025-04-17 14:56:37 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
