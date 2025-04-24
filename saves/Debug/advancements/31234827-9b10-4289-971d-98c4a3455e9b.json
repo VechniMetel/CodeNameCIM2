@@ -27791,13 +27791,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/building_blocks/c/createdieselgenerators/chip_wood_window": {
-    "criteria": {
-      "has_item": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/tiled_blue_brick_stairs_from_blue_brick_stairs_stonecutting": {
     "criteria": {
       "has_blue_brick_stairs": "2025-03-17 23:57:44 +0800",
@@ -32922,13 +32915,6 @@
     "done": true
   },
   "railways:recipes/misc/crafting/palettes/dyeing_1x/red_plated_locometal": {
-    "criteria": {
-      "has_item": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/c/createdieselgenerators/chip_wood_window_pane": {
     "criteria": {
       "has_item": "2025-03-17 23:57:44 +0800",
       "has_the_recipe": "2025-03-17 23:57:44 +0800"
@@ -46681,27 +46667,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/fs/createdieselgenerators/chip_wood_1": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/fs/createdieselgenerators/chip_wood_2": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/fs/createdieselgenerators/chip_wood_4": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
   "ad_astra:challenger": {
     "criteria": {
       "challenger": "2025-04-17 14:56:37 +0800"
@@ -47295,12 +47260,6 @@
     },
     "done": true
   },
-  "immersivepetroleum:main/mb_derrick": {
-    "criteria": {
-      "derrick": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
   "immersivepetroleum:recipes/misc/upgrade_tank": {
     "criteria": {
       "has_the_recipe": "2025-04-22 20:31:44 +0800"
@@ -47310,18 +47269,6 @@
   "immersivepetroleum:recipes/misc/auto_lubricator": {
     "criteria": {
       "has_the_recipe": "2025-04-22 20:31:44 +0800"
-    },
-    "done": true
-  },
-  "immersivepetroleum:main/ice_breaker": {
-    "criteria": {
-      "code_trigger": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
-  "immersivepetroleum:main/tank": {
-    "criteria": {
-      "code_trigger": "2025-04-22 20:34:50 +0800"
     },
     "done": true
   },
@@ -47337,25 +47284,6 @@
     },
     "done": true
   },
-  "immersivepetroleum:main/motorboat": {
-    "criteria": {
-      "code_trigger": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
-  "immersivepetroleum:main/mb_distillationtower": {
-    "criteria": {
-      "distillationtower": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
-  "capsule:recipes/tools/capsule": {
-    "criteria": {
-      "has_ender_pearl": "2025-04-22 20:34:50 +0800",
-      "has_the_recipe": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
   "immersivepetroleum:recipes/misc/paraffin_wax_to_block": {
     "criteria": {
       "has_the_recipe": "2025-04-22 20:31:44 +0800"
@@ -47365,13 +47293,6 @@
   "immersivepetroleum:recipes/misc/gas_generator": {
     "criteria": {
       "has_the_recipe": "2025-04-22 20:31:44 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/asphalt_slab_from_asphalt_stonecutting": {
-    "criteria": {
-      "has_asphalt": "2025-04-22 20:34:50 +0800",
-      "has_the_recipe": "2025-04-22 20:34:50 +0800"
     },
     "done": true
   },
@@ -47393,27 +47314,9 @@
     },
     "done": true
   },
-  "immersivepetroleum:main/rudders": {
-    "criteria": {
-      "code_trigger": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
   "immersivepetroleum:recipes/misc/copper_block_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-04-22 20:31:44 +0800"
-    },
-    "done": true
-  },
-  "capsule:recipes/root": {
-    "criteria": {
-      "impossible": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
-  "immersivepetroleum:main/mb_hydrotreater": {
-    "criteria": {
-      "hydrotreater": "2025-04-22 20:34:50 +0800"
     },
     "done": true
   },
@@ -47429,12 +47332,6 @@
     },
     "done": true
   },
-  "immersivepetroleum:main/napalm": {
-    "criteria": {
-      "napalm": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
   "immersivepetroleum:recipes/misc/asphalt": {
     "criteria": {
       "has_the_recipe": "2025-04-22 20:31:44 +0800"
@@ -47447,25 +47344,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/asphalt_stairs_from_asphalt_stonecutting": {
-    "criteria": {
-      "has_asphalt": "2025-04-22 20:34:50 +0800",
-      "has_the_recipe": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
-  "immersivepetroleum:main/root": {
-    "criteria": {
-      "code_trigger": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
-  "immersivepetroleum:main/reinforced_hull": {
-    "criteria": {
-      "code_trigger": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
   "immersivepetroleum:recipes/misc/paraffin_wax_block_to_items": {
     "criteria": {
       "has_the_recipe": "2025-04-22 20:31:44 +0800"
@@ -47475,18 +47353,6 @@
   "immersivepetroleum:recipes/misc/oxidized_cut_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-04-22 20:31:44 +0800"
-    },
-    "done": true
-  },
-  "immersivepetroleum:main/kerosene": {
-    "criteria": {
-      "kerosene": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
-  "immersivepetroleum:main/mb_cokerunit": {
-    "criteria": {
-      "cokerunit": "2025-04-22 20:34:50 +0800"
     },
     "done": true
   },
@@ -47505,25 +47371,6 @@
   "immersivepetroleum:recipes/misc/exposed_cut_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-04-22 20:31:44 +0800"
-    },
-    "done": true
-  },
-  "immersivepetroleum:main/mb_oiltank": {
-    "criteria": {
-      "oiltank": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
-  "immersivepetroleum:main/projector": {
-    "criteria": {
-      "projector": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
-  "capsule:recipes/tools/capsule_wood": {
-    "criteria": {
-      "has_the_recipe": "2025-04-22 20:34:50 +0800",
-      "has_plankWood": "2025-04-22 20:34:50 +0800"
     },
     "done": true
   },
@@ -47551,33 +47398,9 @@
     },
     "done": true
   },
-  "immersivepetroleum:main/bitumen": {
-    "criteria": {
-      "bitumen": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
   "immersivepetroleum:recipes/misc/seismic_survey_tool": {
     "criteria": {
       "has_the_recipe": "2025-04-22 20:31:44 +0800"
-    },
-    "done": true
-  },
-  "immersivepetroleum:main/auto_lubricator": {
-    "criteria": {
-      "code_trigger": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
-  "immersivepetroleum:main/gas_generator": {
-    "criteria": {
-      "code_trigger": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
-  "immersivepetroleum:main/gasoline": {
-    "criteria": {
-      "gasoline": "2025-04-22 20:34:50 +0800"
     },
     "done": true
   },
@@ -47641,12 +47464,6 @@
     },
     "done": true
   },
-  "immersivepetroleum:main/oil_can": {
-    "criteria": {
-      "code_trigger": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
   "immersivepetroleum:recipes/misc/projector": {
     "criteria": {
       "has_the_recipe": "2025-04-22 20:31:44 +0800"
@@ -47656,12 +47473,6 @@
   "immersivepetroleum:recipes/misc/upgrade_rudders": {
     "criteria": {
       "has_the_recipe": "2025-04-22 20:31:44 +0800"
-    },
-    "done": true
-  },
-  "immersivepetroleum:main/petcoke": {
-    "criteria": {
-      "petcoke": "2025-04-22 20:34:50 +0800"
     },
     "done": true
   },
@@ -47677,15 +47488,187 @@
     },
     "done": true
   },
-  "immersivepetroleum:main/paddles": {
+  "immersivepetroleum:recipes/misc/weathered_cut_copper_stairs_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2025-04-22 20:31:44 +0800"
+    },
+    "done": true
+  },
+  "capsule:recipes/tools/captureblock": {
+    "criteria": {
+      "has_compass": "2025-04-22 20:31:44 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/oxidized_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2025-04-22 20:31:44 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/upgrade_reinforced_hull": {
+    "criteria": {
+      "has_the_recipe": "2025-04-22 20:31:44 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:main/mb_derrick": {
+    "criteria": {
+      "derrick": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:main/ice_breaker": {
     "criteria": {
       "code_trigger": "2025-04-22 20:34:50 +0800"
     },
     "done": true
   },
-  "immersivepetroleum:recipes/misc/weathered_cut_copper_stairs_paraffin_waxed": {
+  "immersivepetroleum:main/tank": {
     "criteria": {
-      "has_the_recipe": "2025-04-22 20:31:44 +0800"
+      "code_trigger": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:main/motorboat": {
+    "criteria": {
+      "code_trigger": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:main/mb_distillationtower": {
+    "criteria": {
+      "distillationtower": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "capsule:recipes/tools/capsule": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-22 20:34:50 +0800",
+      "has_the_recipe": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/asphalt_slab_from_asphalt_stonecutting": {
+    "criteria": {
+      "has_asphalt": "2025-04-22 20:34:50 +0800",
+      "has_the_recipe": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:main/rudders": {
+    "criteria": {
+      "code_trigger": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "capsule:recipes/root": {
+    "criteria": {
+      "impossible": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:main/mb_hydrotreater": {
+    "criteria": {
+      "hydrotreater": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:main/napalm": {
+    "criteria": {
+      "napalm": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/asphalt_stairs_from_asphalt_stonecutting": {
+    "criteria": {
+      "has_asphalt": "2025-04-22 20:34:50 +0800",
+      "has_the_recipe": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:main/root": {
+    "criteria": {
+      "code_trigger": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:main/reinforced_hull": {
+    "criteria": {
+      "code_trigger": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:main/kerosene": {
+    "criteria": {
+      "kerosene": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:main/mb_cokerunit": {
+    "criteria": {
+      "cokerunit": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:main/mb_oiltank": {
+    "criteria": {
+      "oiltank": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:main/projector": {
+    "criteria": {
+      "projector": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "capsule:recipes/tools/capsule_wood": {
+    "criteria": {
+      "has_the_recipe": "2025-04-22 20:34:50 +0800",
+      "has_plankWood": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:main/bitumen": {
+    "criteria": {
+      "bitumen": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:main/auto_lubricator": {
+    "criteria": {
+      "code_trigger": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:main/gas_generator": {
+    "criteria": {
+      "code_trigger": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:main/gasoline": {
+    "criteria": {
+      "gasoline": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:main/oil_can": {
+    "criteria": {
+      "code_trigger": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:main/petcoke": {
+    "criteria": {
+      "petcoke": "2025-04-22 20:34:50 +0800"
+    },
+    "done": true
+  },
+  "immersivepetroleum:main/paddles": {
+    "criteria": {
+      "code_trigger": "2025-04-22 20:34:50 +0800"
     },
     "done": true
   },
@@ -47706,24 +47689,6 @@
   "immersivepetroleum:main/mb_pumpjack": {
     "criteria": {
       "pumpjack": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
-  "capsule:recipes/tools/captureblock": {
-    "criteria": {
-      "has_compass": "2025-04-22 20:31:44 +0800"
-    },
-    "done": true
-  },
-  "immersivepetroleum:recipes/misc/oxidized_copper_paraffin_waxed": {
-    "criteria": {
-      "has_the_recipe": "2025-04-22 20:31:44 +0800"
-    },
-    "done": true
-  },
-  "immersivepetroleum:recipes/misc/upgrade_reinforced_hull": {
-    "criteria": {
-      "has_the_recipe": "2025-04-22 20:31:44 +0800"
     },
     "done": true
   },
