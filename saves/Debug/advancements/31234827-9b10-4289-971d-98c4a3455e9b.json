@@ -47707,5 +47707,17 @@
     },
     "done": true
   },
+  "buildcraftcore:recipes/misc/marker_connector": {
+    "criteria": {
+      "has_item": "2025-04-25 23:12:26 +0800"
+    },
+    "done": true
+  },
+  "buildcrafttransport:pipe_dream": {
+    "criteria": {
+      "code_trigger": "2025-04-25 23:16:37 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
