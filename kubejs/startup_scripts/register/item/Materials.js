@@ -21,6 +21,14 @@ function addMaterial(name, color, level) {
 			this.types.push("dust")
 			return this
 		},
+		rod: function () {
+			this.types.push("rod")
+			return this
+		},
+		gear: function () {
+			this.types.push("gear")
+			return this
+		},
 		block: function () {
 			this.types.push("block")
 			return this
@@ -103,16 +111,21 @@ StartupEvents.registry("fluid", (event) => {
 addMaterial("andesite_alloy", 0xA9AFA1, "wooden")
 	.nugget()
 	.molten()
+	.gear()
 
 // 余烬史莱姆
 addMaterial("cinderslime", 0xFF6060, "wooden")
 	.plate()
+	.rod()
+	.gear()
 
 // 不锈钢
 addMaterial("stainless_steel", 0x708090, "diamond")
 	.ingot()
 	.plate()
 	.nugget()
+	.rod()
+	.gear()
 	.block()
 	.molten()
 
@@ -121,5 +134,7 @@ addMaterial("chromium", 0xF1EFEF, "iron")
 	.ingot()
 	.plate()
 	.nugget()
+	.rod()
+	.gear()
 	.block()
 	.molten()

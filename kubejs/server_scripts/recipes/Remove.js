@@ -151,7 +151,31 @@ ServerEvents.recipes((event) => {
 			output: `#forge:plates/${metal}`
 		}, {
 			type: "thermal:press",
-			output: `#forge:platets/${metal}`
+			output: `#forge:plates/${metal}`
+		}, {
+			type: "thermal:pulverizer",
+			output: `#forge:dusts/${metal}`
+		}, {
+			type: "thermal:smelter",
+			output: `#forge:ingots/${metal}`
+		}, {
+			type: "thermal:press",
+			output: `#forge:gears/${metal}`
+		}, {
+			type: "thermal:press",
+			output: `#forge:rods/${metal}`
+		}, {
+			type: "createaddition:rolling",
+			output: `#forge:rods/${metal}`
+		}, {
+			type: "minecraft:crafting_shaped",
+			output: `#forge:gears/${metal}`
+		}, {
+			type: "minecraft:smelting",
+			input: `#forge:dusts/${metal}`
+		}, {
+			type: "minecraft:blasting",
+			input: `#forge:dusts/${metal}`
 		}])
 	})
 
