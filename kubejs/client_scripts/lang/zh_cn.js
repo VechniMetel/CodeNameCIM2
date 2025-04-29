@@ -157,8 +157,6 @@ ClientEvents.lang("zh_cn", (event) => {
 	]
 	mechanismGroup.forEach(([material, name]) => {
 		addFlashdriveLanguaue(material,name)
-	})
-	mechanismGroup.forEach(([material, name]) => {
 		addMechanismLanguaue(material, name)
 		addForceLanguage(material, name)
 	})
@@ -182,7 +180,7 @@ ClientEvents.lang("zh_cn", (event) => {
 	}
 
 	function addFlashdriveLanguaue(key, value) {
-		event.add(`item.${global.namespace}.${key}_mechanism_flashdrive`, `${value}驱动U盘`)
+		event.add(`item.${global.namespace}.${key}_mechanism_flashdrive`, `${value}驱动闪存盘`)
 	}
 
 	function addCastItemLanguaue(key, value) {

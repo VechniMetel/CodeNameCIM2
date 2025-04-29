@@ -1,5 +1,5 @@
 StartupEvents.registry("item", (event) => {
-    let mechanismRegister = [
+    let flashDriveRegister = [
 		"nature",
 		"wooden",
 		"stone",
@@ -32,9 +32,13 @@ StartupEvents.registry("item", (event) => {
 		"antimatter",
 		"coil",
 		"sculk",
-		"colorful"
+		"colorful",
+		"pigiron",
+		"precision",
+		"redstone"
 	]
-    mechanismRegister.forEach((material) => {
-        event.create(`${global.namespace}:${material}_mechanism_flashdrive`,"basic").texture(`${global.namespace}:item/boot_medium`)
+    flashDriveRegister.forEach((material) => {
+        event.create(`${global.namespace}:${material}_mechanism_flashdrive`)
+		.texture(`${global.namespace}:item/boot_medium`)
     })
 })
