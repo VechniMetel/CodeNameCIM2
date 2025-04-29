@@ -6,7 +6,7 @@ StartupEvents.modifyCreativeTab("kubejs:tab", (event) => {
 		"create:precision_mechanism",
 		"vintageimprovements:redstone_module"
 	])
-	event.remove("#ue_addons:ponder_blocks")
+	event.remove(`#${global.namespace}:io_debug_block`)
 })
 
 StartupEvents.modifyCreativeTab("create:base", (event) => {

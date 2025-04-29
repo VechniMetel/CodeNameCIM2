@@ -34,10 +34,12 @@ StartupEvents.registry("item", (event) => {
 		"antimatter",
 		"coil",
 		"sculk",
-		"colorful"
+		"colorful",
+		"creative"
 	]
 	//仅注册完成状态的构件 没有驱动
 	global.mechanismList = mechanismRegister.concat("pigiron")
+
 	let completeMechanismRegister = [
 		"basic_random",
 		"mechanical_random",
@@ -50,33 +52,15 @@ StartupEvents.registry("item", (event) => {
 	]
 	mechanismRegister.forEach((material) => {
 		event.create(`${global.namespace}:${material}_mechanism`)
-			.texture(`${global.namespace}:item/mechanism/complete/${material}_mechanism`)
+			.texture(`${global.namespace}:item/mechanism/complete/${material}`)
 			.tag("create:mechanisms")
 		event.create(`${global.namespace}:incomplete_${material}_mechanism`, "create:sequenced_assembly")
-			.texture(`${global.namespace}:item/mechanism/incomplete/incomplete_${material}_mechanism`)
+			.texture(`${global.namespace}:item/mechanism/incomplete/${material}`)
 			.tag("create:incomplete_mechanisms")
-		event.create(`${global.namespace}:${material}_force_exe`)
-			.modelJson({
-				"parent": "minecraft:item/generated",
-				"textures": {
-					"layer0": `${global.namespace}:item/mechanism_force_base`,
-					"layer1": `${global.namespace}:item/mechanism/complete/${material}_mechanism`,
-					"layer2": `${global.namespace}:item/mechanism_force_overlay`
-				}
-			})
-		event.create(`${global.namespace}:beta_${material}_force_exe`)
-		.modelJson({
-			"parent": "minecraft:item/generated",
-			"textures": {
-				"layer0": `${global.namespace}:item/beta_mechanism_force_base`,
-				"layer1": `${global.namespace}:item/mechanism/incomplete/incomplete_${material}_mechanism`,
-				"layer2": `${global.namespace}:item/beta_mechanism_force_overlay`
-			}
-		})
 	})
 	completeMechanismRegister.forEach((material) => {
 		event.create(`${global.namespace}:${material}_mechanism`)
-			.texture(`${global.namespace}:item/mechanism/complete/${material}_mechanism`)
+			.texture(`${global.namespace}:item/mechanism/complete/${material}`)
 			.tag("create:mechanisms")
 	})
 })

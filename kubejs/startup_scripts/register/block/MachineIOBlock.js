@@ -51,6 +51,6 @@ StartupEvents.registry("block", (event) => {
 		event.create(`${global.namespace}:${block}`)
 			.textureAll(`${global.namespace}:block/io_debug/${block}`)
 			.soundType(SoundType.METAL)
-			.tagItem("ue_addons:ponder_blocks")
+			.tag(`${global.namespace}:io_debug_block`)
 	})
 })

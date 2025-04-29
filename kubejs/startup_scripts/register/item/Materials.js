@@ -5,6 +5,7 @@ function addMaterial(name, color, level) {
 		color: color,
 		level: level,
 		types: [],
+
 		ingot: function () {
 			this.types.push("ingot")
 			return this
@@ -36,7 +37,7 @@ function addMaterial(name, color, level) {
 		molten: function () {
 			this.types.push("molten")
 			return this
-		},
+		}
 	}
 
 	materials.push(material)
@@ -130,9 +131,10 @@ addMaterial("stainless_steel", 0x708090, "diamond")
 	.molten()
 
 // 铬
-addMaterial("chromium", 0xF1EFEF, "iron")
+addMaterial("chromium", 0xE4DBDC, "iron")
 	.ingot()
 	.plate()
+	.dust()
 	.nugget()
 	.rod()
 	.gear()

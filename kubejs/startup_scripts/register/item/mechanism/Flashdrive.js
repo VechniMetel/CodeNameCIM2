@@ -34,6 +34,7 @@ StartupEvents.registry("item", (event) => {
 		"coil",
 		"sculk",
 		"colorful",
+    "creative",
 		"pigiron",
 		"precision",
 		"redstone"
@@ -42,4 +43,10 @@ StartupEvents.registry("item", (event) => {
         event.create(`${global.namespace}:${material}_mechanism_flashdrive`)
 		.texture(`${global.namespace}:item/boot_medium`)
     })
+  
+	// 空白闪存盘
+	event.create(`${global.namespace}:null_flash_drive`)
+		.texture(`${global.namespace}:item/mechanism/flash_drive/null`)
+		.tag(`${global.namespace}:mechanism_flash_drives`)
+
 })
