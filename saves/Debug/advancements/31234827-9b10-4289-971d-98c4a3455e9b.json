@@ -47719,5 +47719,233 @@
     },
     "done": true
   },
+  "buildcraftsilicon:recipes/misc/plug_gate_nether_brick_and_quartz": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_gold_or_diamond": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_gold_or_no_modifier": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_create_iron_quartz": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_create_nether_brick_no_modifier_blocker": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_iron_or_diamond": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_nether_brick_and_diamond": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_iron_and_no_modifier": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftrobotics:recipes/misc/board_robot_empty": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_nether_brick_or_quartz": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_create_clay_brick_no_modifier_cobblestone": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_nether_brick_or_lapis": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftbuilders:recipes/misc/marker_construction": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_iron_or_quartz": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_iron_and_diamond": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_create_iron_lapis": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_iron_or_no_modifier": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftcore:recipes/misc/marker_volume": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_iron_and_quartz": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_nether_brick_or_diamond": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_create_clay_brick_no_modifier_blocker": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftcore:recipes/misc/marker_path": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_create_iron_no_modifier_blocker": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_iron_and_lapis": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_gold_or_quartz": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_iron_or_lapis": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_nether_brick_and_lapis": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_create_iron_no_modifier_cobblestone": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_nether_brick_or_no_modifier": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_nether_brick_and_no_modifier": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_gold_or_lapis": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/laser": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_gold_and_lapis": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_gold_and_diamond": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_create_nether_brick_no_modifier_cobblestone": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_gold_and_quartz": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:recipes/misc/plug_gate_gold_and_no_modifier": {
+    "criteria": {
+      "has_item": "2025-04-29 09:16:21 +0800"
+    },
+    "done": true
+  },
+  "buildcraftfactory:recipes/misc/water_gel_to_bucket": {
+    "criteria": {
+      "has_item": "2025-04-29 09:38:13 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
