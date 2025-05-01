@@ -47947,5 +47947,23 @@
     },
     "done": true
   },
+  "buildcraftenergy:engine": {
+    "criteria": {
+      "redstone_engine": "2025-05-01 10:36:55 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:laser_power": {
+    "criteria": {
+      "get_laser": "2025-05-01 10:38:10 +0800"
+    },
+    "done": true
+  },
+  "buildcraftsilicon:precision_crafting": {
+    "criteria": {
+      "code_trigger": "2025-05-01 11:08:40 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
