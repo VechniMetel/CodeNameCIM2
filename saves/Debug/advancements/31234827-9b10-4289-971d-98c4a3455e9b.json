@@ -47965,5 +47965,11 @@
     },
     "done": true
   },
+  "buildcraftcore:recipes/misc/decorated_laser_back": {
+    "criteria": {
+      "has_item": "2025-05-03 10:03:17 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
