@@ -1,10 +1,7 @@
 Ponder.registry((event) => {
 	event.create([
 		"tconstruct:seared_melter",
-		"tconstruct:seared_heater",
-		"tconstruct:seared_fuel_tank",
-		"tconstruct:seared_drain",
-		"tconstruct:seared_bricks"
+		"tconstruct:seared_heater"
 	])
 		.tag("ue_addons:tconstruct")
 		.scene("ue_addons:melter", "Melter", "ue_addons:tconstruct/melter", (scene) => {
