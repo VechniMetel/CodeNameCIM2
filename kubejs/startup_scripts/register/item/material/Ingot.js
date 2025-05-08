@@ -5,5 +5,7 @@ StartupEvents.registry("item", (event) => {
 			.color(0, color)
 			.tag("forge:ingots")
 			.tag(`forge:ingots/${name}`)
+
+		console.log(`${name}_ingot已注册!`)
 	}
 })

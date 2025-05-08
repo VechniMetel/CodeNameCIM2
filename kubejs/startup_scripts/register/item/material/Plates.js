@@ -5,5 +5,7 @@ StartupEvents.registry("item", (event) => {
 			.color(0, color)
 			.tag("forge:plates")
 			.tag(`forge:plates/${name}`)
+
+		console.log(`${name}_plate已注册!`)
 	}
 })

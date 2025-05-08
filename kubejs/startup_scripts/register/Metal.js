@@ -144,7 +144,5 @@ addMaterial("chromium", 0xE4DBDC, "iron")
 addMaterial("platinum", 0xE1FFFF, "iron")
 	.ingot()
 	.block()
-
-// 蓝源晶
-addMaterial("source_sapphire", 0X0257F5, "iron")
-	.molten()
+	.nugget()
+	.dust()

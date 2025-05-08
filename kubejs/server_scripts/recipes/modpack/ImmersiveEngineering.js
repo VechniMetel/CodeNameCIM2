@@ -48,23 +48,23 @@ ServerEvents.recipes((event) => {
 	// 熔融铂
 	event.custom({
 		"type": "immersivepetroleum:hydrotreater",
-		"energy": 12000,
+		"energy": 1200,
 		"input": {
-			"amount": 1000,
+			"amount": 100,
 			"tag": "ue_addons:platinum_solution"
 		},
 		"result": {
-			"amount": 2000,
+			"amount": 200,
 			"fluid": "tconstruct:molten_platinum"
 		},
 		"secondary_input": {
-			"amount": 1000,
+			"amount": 100,
 			"tag": "forge:redstone_acid"
 		},
 		"secondary_result": {
 			"chance": "0.02",
-			"item": "ue_addons:platinum_ingot"
+			"item": "ue_addons:platinum_nugget"
 		},
-		"time": 300
+		"time": 30
 	})
 })
