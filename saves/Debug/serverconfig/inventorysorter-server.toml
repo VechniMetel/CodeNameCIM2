@@ -1,0 +1,10 @@
+
+#Inventory sorter blacklists
+[blacklists]
+	#Container blacklist
+	containerBlacklist = []
+	#Slot type blacklist
+	slotBlacklist = []
+	#Abort sorting if first slot is one of these types
+	abortOnFirstSlotTypes = ["SlotIronFurnaceInput"]
+
