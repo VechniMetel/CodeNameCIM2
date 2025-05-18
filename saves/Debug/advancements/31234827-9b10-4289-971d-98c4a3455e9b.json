@@ -2167,6 +2167,13 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox_from_gearbox": {
+    "criteria": {
+      "has_item": "2025-03-17 23:57:41 +0800",
+      "has_the_recipe": "2025-03-17 23:57:41 +0800"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_slab": {
     "criteria": {
       "has_cut_limestone": "2025-03-17 23:57:41 +0800",
@@ -47948,6 +47955,13 @@
     "done": true
   },
   "railways:recipes/misc/crafting/palettes/dyeing_1x/brown_brass_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-05-15 22:15:29 +0800",
+      "has_the_recipe": "2025-05-15 22:15:29 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2025-05-15 22:15:29 +0800",
       "has_the_recipe": "2025-05-15 22:15:29 +0800"
