@@ -52250,5 +52250,11 @@
     },
     "done": true
   },
+  "deepdrilling:recipes/misc/blank_module": {
+    "criteria": {
+      "has_ingredient": "2025-05-22 23:24:57 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
