@@ -52256,5 +52256,117 @@
     },
     "done": true
   },
+  "scannable:recipes/misc/fluid_module": {
+    "criteria": {
+      "has_blank_module": "2025-05-24 22:35:46 +0800",
+      "has_the_recipe": "2025-05-24 22:35:46 +0800"
+    },
+    "done": true
+  },
+  "scannable:recipes/misc/friendly_entity_module": {
+    "criteria": {
+      "has_blank_module": "2025-05-24 22:35:46 +0800",
+      "has_the_recipe": "2025-05-24 22:35:46 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/building_blocks/createdieselgenerators/sign_post_chip_wood": {
+    "criteria": {
+      "has_item": "2025-05-24 22:35:46 +0800",
+      "has_the_recipe": "2025-05-24 22:35:46 +0800"
+    },
+    "done": true
+  },
+  "scannable:recipes/misc/range_module": {
+    "criteria": {
+      "has_blank_module": "2025-05-24 22:35:46 +0800",
+      "has_the_recipe": "2025-05-24 22:35:46 +0800"
+    },
+    "done": true
+  },
+  "deepdrilling:recipes/misc/drill_core": {
+    "criteria": {
+      "has_ingredient": "2025-05-24 22:35:46 +0800",
+      "has_the_recipe": "2025-05-24 22:35:46 +0800"
+    },
+    "done": true
+  },
+  "scannable:recipes/misc/rare_ores_module": {
+    "criteria": {
+      "has_blank_module": "2025-05-24 22:35:46 +0800",
+      "has_the_recipe": "2025-05-24 22:35:46 +0800"
+    },
+    "done": true
+  },
+  "deepdrilling:recipes/misc/collection_filter": {
+    "criteria": {
+      "has_ingredient": "2025-05-24 22:35:46 +0800",
+      "has_the_recipe": "2025-05-24 22:35:46 +0800"
+    },
+    "done": true
+  },
+  "scannable:recipes/misc/hostile_entity_module": {
+    "criteria": {
+      "has_blank_module": "2025-05-24 22:35:46 +0800",
+      "has_the_recipe": "2025-05-24 22:35:46 +0800"
+    },
+    "done": true
+  },
+  "scannable:recipes/misc/common_ores_module": {
+    "criteria": {
+      "has_blank_module": "2025-05-24 22:35:46 +0800",
+      "has_the_recipe": "2025-05-24 22:35:46 +0800"
+    },
+    "done": true
+  },
+  "scannable:recipes/misc/entity_module": {
+    "criteria": {
+      "has_blank_module": "2025-05-24 22:35:46 +0800",
+      "has_the_recipe": "2025-05-24 22:35:46 +0800"
+    },
+    "done": true
+  },
+  "deepdrilling:recipes/misc/drill_overclock": {
+    "criteria": {
+      "has_ingredient": "2025-05-24 22:35:46 +0800",
+      "has_the_recipe": "2025-05-24 22:35:46 +0800"
+    },
+    "done": true
+  },
+  "scannable:recipes/misc/block_module": {
+    "criteria": {
+      "has_blank_module": "2025-05-24 22:35:46 +0800",
+      "has_the_recipe": "2025-05-24 22:35:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/schematic_table": {
+    "criteria": {
+      "has_the_recipe": "2025-05-24 22:35:46 +0800",
+      "has_crafting_table": "2025-05-24 22:35:46 +0800"
+    },
+    "done": true
+  },
+  "scannable:recipes/tools/scanner": {
+    "criteria": {
+      "is_delving": "2025-05-24 22:35:46 +0800",
+      "has_the_recipe": "2025-05-24 22:35:46 +0800"
+    },
+    "done": true
+  },
+  "deepdrilling:recipes/misc/sludge_pump": {
+    "criteria": {
+      "has_ingredient": "2025-05-24 22:35:46 +0800",
+      "has_the_recipe": "2025-05-24 22:35:46 +0800"
+    },
+    "done": true
+  },
+  "scannable:recipes/misc/blank_module": {
+    "criteria": {
+      "has_scanner": "2025-05-24 22:35:46 +0800",
+      "has_the_recipe": "2025-05-24 22:35:46 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
