@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "312348279b104289971d98c4a3455e9b"
+	name: "Qi_Month#31234827"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
