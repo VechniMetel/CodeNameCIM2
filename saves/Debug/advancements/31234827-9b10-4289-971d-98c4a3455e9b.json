@@ -52368,5 +52368,502 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_refill_upgrade": {
+    "criteria": {
+      "has_refill_upgrade": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_deposit_upgrade": {
+    "criteria": {
+      "has_deposit_upgrade": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
+    "criteria": {
+      "has_advanced_pump_upgrade": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
+    "criteria": {
+      "has_pump_upgrade": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_void_upgrade": {
+    "criteria": {
+      "has_void_upgrade": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2025-05-31 11:44:18 +0800",
+      "has_smoking_upgrade": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/alchemy_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_alchemy_upgrade": {
+    "criteria": {
+      "has_alchemy_upgrade": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
+    "criteria": {
+      "has_tool_swapper_upgrade": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_compacting_upgrade": {
+    "criteria": {
+      "has_compacting_upgrade": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2025-05-31 11:44:18 +0800",
+      "has_jukebox_upgrade": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_stack_upgrade_tier_2": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_stack_upgrade_tier_3": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_stack_upgrade_starter_tier": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_restock_upgrade": {
+    "criteria": {
+      "has_restock_upgrade": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2025-05-31 11:44:18 +0800",
+      "has_advanced_pickup_upgrade": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_filter_upgrade": {
+    "criteria": {
+      "has_filter_upgrade": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_omega_tier": {
+    "criteria": {
+      "has_stack_upgrade_tier_4": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-31 11:44:18 +0800",
+      "has_the_recipe": "2025-05-31 11:44:18 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
