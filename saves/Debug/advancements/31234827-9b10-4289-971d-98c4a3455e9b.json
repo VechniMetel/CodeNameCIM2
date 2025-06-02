@@ -52865,5 +52865,728 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_bone_alt": {
+    "criteria": {
+      "has_bone_meal": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800",
+      "has_roots": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/ghasta_with_cream": {
+    "criteria": {
+      "has_ghast": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/soul_nethers_stove_alt0": {
+    "criteria": {
+      "has_stove": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/hotdog_with_nether_salad": {
+    "criteria": {
+      "has_hotdog": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/bread_from_smoking": {
+    "criteria": {
+      "has_dough": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/powdery_fence": {
+    "criteria": {
+      "has_powdery_planks": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/powdery_slab": {
+    "criteria": {
+      "has_powdery_planks": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/red_loin_on_a_stick": {
+    "criteria": {
+      "has_hoglin_loin": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/redstone/crafting/powdery_door": {
+    "criteria": {
+      "has_powdery_planks": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/powdery_plank": {
+    "criteria": {
+      "has_powder_cannon": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/boiled_egg_from_campfire_cooking": {
+    "criteria": {
+      "boiled_egg": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/rock_soup": {
+    "criteria": {
+      "has_magma_cream": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/egg_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/rock_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/hotdog": {
+    "criteria": {
+      "has_sausage": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/deviled_egg": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/stick_alt": {
+    "criteria": {
+      "has_powder_cannon": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/redstone/crafting/powdery_trapdoor": {
+    "criteria": {
+      "has_powdery_planks": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/ghast_dough": {
+    "criteria": {
+      "has_ghast": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/hotdog_with_mixed_salad": {
+    "criteria": {
+      "has_hotdog": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/bread_loaf_from_smelting": {
+    "criteria": {
+      "has_dough": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/stonecutting/red_nether_bricks_cabinet": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/powdery_hanging_sign": {
+    "criteria": {
+      "has_powdery_planks": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/redstone/crafting/powdery_button": {
+    "criteria": {
+      "has_powdery_planks": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/magma_cake_alt": {
+    "criteria": {
+      "has_magma_cream": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/strider_and_grilled_fungus": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/hotcream_bucket": {
+    "criteria": {
+      "has_powder_cannon": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/striderloaf": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 21:02:38 +0800",
+      "has_minced_strider": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/redstone/crafting/powdery_fence_gate": {
+    "criteria": {
+      "has_powdery_planks": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/spicy_skewer": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/mynethersdelight/sign_post_powdery": {
+    "criteria": {
+      "has_item": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/burnt_roll": {
+    "criteria": {
+      "has_magma_cream": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/block_of_powdery_cannon": {
+    "criteria": {
+      "has_powder_cannon": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_cooking": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 21:02:38 +0800",
+      "hoglin_loin": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/nether_burger": {
+    "criteria": {
+      "has_hoglin_loin": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 21:02:38 +0800",
+      "hoglin_loin": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/bread_loaf_from_smoking": {
+    "criteria": {
+      "has_dough": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/crimson_stroganoff": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/nethers_stove_alt0": {
+    "criteria": {
+      "has_soul_stove": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/powdery_mosaic_slab": {
+    "criteria": {
+      "has_powdery_mosaic": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/sugar_alt": {
+    "criteria": {
+      "has_sugar": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/soul_nethers_stove": {
+    "criteria": {
+      "has_soul_campfire": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/hoglin_trophy": {
+    "criteria": {
+      "has_hoglin_hide": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_sausage_from_smoking": {
+    "criteria": {
+      "hoglin_sausage": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/stuffed_pepper": {
+    "criteria": {
+      "has_pepper": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/sausage_and_potatoes": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/zoglin_trophy": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 21:02:38 +0800",
+      "has_hoglin_trophy": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/powdery_torch": {
+    "criteria": {
+      "has_powder_cannon": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mypersonaldelight:recipes/food/crafting/tear_popsicle": {
+    "criteria": {
+      "has_ghast": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/twisted_ghasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/waxed_hoglin_trophy": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 21:02:38 +0800",
+      "has_hoglin_trophy": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/redstone/crafting/powdery_pressure_plate": {
+    "criteria": {
+      "has_powdery_planks": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/stonecutting/blackstone_bricks_cabinet": {
+    "criteria": {
+      "has_blackstone": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/breakfast_sampler": {
+    "criteria": {
+      "has_sausage": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/powdery_mosaic": {
+    "criteria": {
+      "has_powdery_mosaic": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/toast_from_smoking": {
+    "criteria": {
+      "toast": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/bread_from_smelting": {
+    "criteria": {
+      "has_dough": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_sausage_cooking": {
+    "criteria": {
+      "hoglin_sausage": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/chilidog": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/hotcream": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/hot_wings_bucket": {
+    "criteria": {
+      "has_hot_wings": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/scaffolding_alt": {
+    "criteria": {
+      "has_powder_cannon_or_canvas": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/ghast_salad": {
+    "criteria": {
+      "has_ghast": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/boiled_egg_from_smoking": {
+    "criteria": {
+      "boiled_egg": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/hotcream_cone": {
+    "criteria": {
+      "has_powder_cannon": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/stonecutting/nether_bricks_cabinet": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 21:02:38 +0800",
+      "hoglin_loin": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/nethers_stove": {
+    "criteria": {
+      "has_campfire": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_sausage_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_sausage": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/raw_stuffed_hoglin": {
+    "criteria": {
+      "has_hoglin_hide": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/bacon_wrapped_sausage_stick": {
+    "criteria": {
+      "has_sausage": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/sizzling_pudding": {
+    "criteria": {
+      "has_ghasmati": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/powdery_sign": {
+    "criteria": {
+      "has_powdery_planks": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/spicy_cotton": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/magma_cake": {
+    "criteria": {
+      "has_magma_cream": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/ghast_sourdough": {
+    "criteria": {
+      "has_ghast": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
+    "criteria": {
+      "has_hoglin_loin": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/powdery_mosaic_stairs": {
+    "criteria": {
+      "has_powdery_mosaic": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/redstone/crafting/tnt_alt": {
+    "criteria": {
+      "has_powder_cannon": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/fried_hoglin_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/boiled_egg_cooking": {
+    "criteria": {
+      "boiled_egg": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/bleeding_tartar": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 21:02:38 +0800",
+      "has_minced_strider": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/bullet_papper_crate_alt": {
+    "criteria": {
+      "has_pepper": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/basket_alt": {
+    "criteria": {
+      "has_powder_cannon_or_canvas": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/toast_cooking": {
+    "criteria": {
+      "toast": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/bullet_papper_crate": {
+    "criteria": {
+      "has_pepper": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/dried_ghast_with_milk": {
+    "criteria": {
+      "has_ghasmati": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/skoglin_trophy": {
+    "criteria": {
+      "has_skoglin_trophy": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/powdery_stairs": {
+    "criteria": {
+      "has_powdery_planks": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/scotch_eggs": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/block_of_powdery_cabinet": {
+    "criteria": {
+      "has_powdery_planks": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/toast_from_campfire_cooking": {
+    "criteria": {
+      "toast": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/hot_wings": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800",
+      "has_roots": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/hoglin_trophy_cure": {
+    "criteria": {
+      "has_zoglin_trophy": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/strider_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/roast_stuffed_hoglin": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/golden_egg": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/hot_wings_bucket_alt": {
+    "criteria": {
+      "has_hot_wings": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/burn_roll": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_curry": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:02:38 +0800",
+      "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
