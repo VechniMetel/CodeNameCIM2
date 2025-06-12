@@ -41503,12 +41503,6 @@
     },
     "done": true
   },
-  "create:fluid_fuel": {
-    "criteria": {
-      "0": "2025-03-24 17:52:16 +0800"
-    },
-    "done": true
-  },
   "expatternprovider:recipes/misc/ebus_upgrade": {
     "criteria": {
       "has_item": "2025-04-17 14:56:37 +0800",
@@ -52244,12 +52238,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/recycle_schematic": {
-    "criteria": {
-      "has_crafting_table": "2025-05-20 16:25:46 +0800"
-    },
-    "done": true
-  },
   "deepdrilling:recipes/misc/blank_module": {
     "criteria": {
       "has_ingredient": "2025-05-22 23:24:57 +0800"
@@ -52337,13 +52325,6 @@
     "criteria": {
       "has_blank_module": "2025-05-24 22:35:46 +0800",
       "has_the_recipe": "2025-05-24 22:35:46 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/schematic_table": {
-    "criteria": {
-      "has_the_recipe": "2025-05-24 22:35:46 +0800",
-      "has_crafting_table": "2025-05-24 22:35:46 +0800"
     },
     "done": true
   },
@@ -53585,6 +53566,12 @@
     "criteria": {
       "has_any_ingredient": "2025-06-02 21:02:38 +0800",
       "has_the_recipe": "2025-06-02 21:02:38 +0800"
+    },
+    "done": true
+  },
+  "create:fluid_fuel": {
+    "criteria": {
+      "0": "2025-06-12 12:05:58 +0800"
     },
     "done": true
   },
