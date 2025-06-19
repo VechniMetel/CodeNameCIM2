@@ -1,1 +1,0 @@
-ServerEvents.highPriorityData((event) => {})
