@@ -119,7 +119,14 @@ ServerEvents.recipes((event) => {
 		"thermal:device_collector",
 		"thermal:device_xp_condenser",
 		"thermal:device_nullifier",
-		"thermal:device_potion_diffuser"
+		"thermal:device_potion_diffuser",
+		"portality:controller",
+		"portality:frame",
+		"portality:module_energy",
+		"portality:module_fluids",
+		"portality:module_items",
+		"portality:module_interdimensional",
+		"portality:teleportation_token"
 	]
 	removeItemOutputRecipes.forEach((item) => {
 		event.remove({
@@ -285,24 +292,6 @@ ServerEvents.recipes((event) => {
 			}, {
 				type: "tconstruct:ore_melting",
 				input: `#forge:ores/${metal}`,
-			}, {
-				type: "tconstruct:casting_table",
-				output: `#forge:ingots/${metal}`,
-			}, {
-				type: "tconstruct:casting_table",
-				output: `#forge:nuggets/${metal}`,
-			}, {
-				type: "tconstruct:casting_basin",
-				output: `#forge:storage_blocks/${metal}`
-			}, {
-				type: "tconstruct:casting_table",
-				output: `#forge:plates/${metal}`
-			}, {
-				type: "tconstruct:casting_table",
-				output: `#forge:rods/${metal}`
-			}, {
-				type: "tconstruct:casting_table",
-				output: `#forge:gears/${metal}`
 			}
 		])
 	})
