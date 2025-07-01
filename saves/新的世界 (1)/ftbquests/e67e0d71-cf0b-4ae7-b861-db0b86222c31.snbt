@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "e67e0d71cf0b4ae7b861db0b86222c31"
+	name: "UnknownEntity_UE#e67e0d71"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
