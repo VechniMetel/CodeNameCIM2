@@ -24,6 +24,9 @@ StartupEvents.registry("painting_variant", (event) => {
 
 	// 柒
 	addPainting("qi_month", 64, 64)
+	
+	//117458866249（雷批一个）
+	addPainting("i_hate_bvvd", 32, 32)
 
 	function addPainting(name, width, height) {
 		event.create(`${global.namespace}:${name}`)
