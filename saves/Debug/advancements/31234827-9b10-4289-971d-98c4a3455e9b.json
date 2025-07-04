@@ -219,13 +219,6 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/six_way_gearbox": {
-    "criteria": {
-      "has_item": "2025-03-17 23:57:41 +0800",
-      "has_the_recipe": "2025-03-17 23:57:41 +0800"
-    },
-    "done": true
-  },
   "minecraft:husbandry/allay_deliver_item_to_player": {
     "criteria": {
       "allay_deliver_item_to_player": "2025-03-17 23:57:41 +0800"
@@ -6019,13 +6012,6 @@
   "createdeco:recipes/building_blocks/cracked_dean_bricks_from_dean_bricks_blasting": {
     "criteria": {
       "has_dean_bricks": "2025-03-17 23:57:42 +0800",
-      "has_the_recipe": "2025-03-17 23:57:42 +0800"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/large_crank_wheel": {
-    "criteria": {
-      "has_item": "2025-03-17 23:57:42 +0800",
       "has_the_recipe": "2025-03-17 23:57:42 +0800"
     },
     "done": true
@@ -14124,13 +14110,6 @@
   "tconstruct:recipes/decorations/common/gold_bars": {
     "criteria": {
       "has_ingot": "2025-03-17 23:57:42 +0800",
-      "has_the_recipe": "2025-03-17 23:57:42 +0800"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/parallel_gearbox": {
-    "criteria": {
-      "has_item": "2025-03-17 23:57:42 +0800",
       "has_the_recipe": "2025-03-17 23:57:42 +0800"
     },
     "done": true
@@ -39725,13 +39704,6 @@
     "done": true
   },
   "tconstruct:recipes/redstone/smeltery/scorched/channel": {
-    "criteria": {
-      "has_item": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/crafting/copycat_large_cogwheel": {
     "criteria": {
       "has_item": "2025-03-17 23:57:44 +0800",
       "has_the_recipe": "2025-03-17 23:57:44 +0800"
