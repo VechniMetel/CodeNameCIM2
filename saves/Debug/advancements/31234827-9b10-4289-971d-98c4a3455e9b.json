@@ -53575,5 +53575,32 @@
     },
     "done": true
   },
+  "sliceanddice:recipes/misc/slicer": {
+    "criteria": {
+      "has_tool": "2025-06-20 13:16:32 +0800"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/misc/sprinkler": {
+    "criteria": {
+      "has_pipe": "2025-06-20 13:17:46 +0800",
+      "has_the_recipe": "2025-06-20 13:17:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/schematic_table": {
+    "criteria": {
+      "has_the_recipe": "2025-06-20 13:17:46 +0800",
+      "has_crafting_table": "2025-06-20 13:17:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/recycle_schematic": {
+    "criteria": {
+      "has_the_recipe": "2025-06-20 13:17:46 +0800",
+      "has_crafting_table": "2025-06-20 13:17:46 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

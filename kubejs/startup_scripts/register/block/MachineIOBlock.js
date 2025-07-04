@@ -1,5 +1,7 @@
 StartupEvents.registry("block", (event) => {
 	let blockIO = [
+		"gui_block",
+
 		"ponder_thermal_input",
 		"ponder_thermal_output",
 		"ponder_thermal_output_on",
@@ -45,11 +47,41 @@ StartupEvents.registry("block", (event) => {
 		"ponder_thermal_fire",
 		"ponder_thermal_fire_active",
 		"ponder_thermal_sand",
-		"ponder_thermal_glass"
+		"ponder_thermal_glass",
+
+		"slot1",
+		"arrow",
+		"slot2",
+		"patten_slot",
+		"gui",
+		"write",
+		"gui2",
+		"craft_on",
+		"craft_off",
+		"furnace_on",
+		"furnace_off",
+		"smith_on",
+		"smith_off",
+		"cut_on",
+		"cut_off",
+		"tab_on",
+		"tab_off",
+		"patten_blank",
+		"patten_filled",
+		"diamond",
+		"stick",
+		"pickaxe",
+		"pickaxe2",
+		"raw",
+		"cooked",
+		"cooked2",
+		"coal",
+		"iron",
+		"sheet"
 	]
-	blockIO.forEach((block) => {
-		event.create(`${global.namespace}:${block}`)
-			.textureAll(`${global.namespace}:block/io_debug/${block}`)
+	blockIO.forEach((IOBlock) => {
+		event.create(`${global.namespace}:${IOBlock}`)
+			.textureAll(`${global.namespace}:block/io_debug/${IOBlock}`)
 			.soundType(SoundType.METAL)
 			.tag(`${global.namespace}:io_debug_block`)
 	})

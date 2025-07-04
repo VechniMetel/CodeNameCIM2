@@ -35,6 +35,13 @@ ServerEvents.recipes((event) => {
 		"#cmi:steelmaking_raw_materials"
 	]).processingTime(200).superheated()
 
+	// 钢粉
+	create.sequenced_assembly("immersiveengineering:dust_steel", [
+		"#forge:dusts/cast_iron"
+	], [
+		create.pressing("cmi:cast_iron_dust", ["cmi:cast_iron_dust"])
+	]).loops(10).transitionalItem("cmi:cast_iron_dust")
+
 	// 木棍
 	create.cutting([
 		Item.of("minecraft:stick", 4).withChance(1),
@@ -44,10 +51,6 @@ ServerEvents.recipes((event) => {
 	// 木屑
 	create.compacting("cmi:wood_chip_briquette", [
 		"4x createdieselgenerators:wood_chip"
-	])
-
-	create.compacting("cmi:compressed_wood_chip_briquette", [
-		"4x cmi:wood_chip_briquette"
 	])
 
 	create.compacting("cmi:compressed_wood_chip_briquette", [
@@ -70,5 +73,20 @@ ServerEvents.recipes((event) => {
 
 	create.haunting("cmi:magical_mechanism_part", [
 		"cmi:basic_mechanism_part"
+	])
+
+	create.milling([
+		"2x cmi:andesite_dust",
+		Item.of("cmi:andesite_dust", 2).withChance(0.5)
+	], "#create:stone_types/andesite")
+
+	create.crushing("4x cmi:andesite_dust", [
+		"#create:stone_types/andesite"
+	])
+
+	create.mixing("4x cmi:andesite_aggregate", [
+		Fluid.of("minecraft:water", 250),
+		"#forge:dusts/andesite",
+		"#forge:clay"
 	])
 })

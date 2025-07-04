@@ -1,5 +1,6 @@
 StartupEvents.registry("item", (event) => {
 	event.create(`${global.namespace}:single_crystal_silicon`)
+		.texture(`${global.namespace}:item/material/single_crystal_silicon`)
 	event.create(`${global.namespace}:computer_component`)
 
 	event.create(`${global.namespace}:blockstone_source_alpha`)
@@ -18,6 +19,7 @@ StartupEvents.registry("item", (event) => {
 
 	// 黏血球
 	event.create(`${global.namespace}:blood_slime_ball`)
+		.texture(`${global.namespace}:item/material/blood_slime_ball`)
 		.tag("forge:slimeball")
 		.tag("forge:slimeball/blood")
 
@@ -81,4 +83,52 @@ StartupEvents.registry("item", (event) => {
 	event.create(`${global.namespace}:creosote_wood_chip_briquette`)
 		.texture(`${global.namespace}:item/material/wood_chip/done`)
 		.burnTime(16000)
+
+	// 安山岩
+	event.create(`${global.namespace}:andesite_dust`)
+		.texture(`${global.namespace}:item/material/andesite/dust`)
+		.tag("forge:dusts")
+		.tag(`forge:dusts/andesite`)
+
+	event.create(`${global.namespace}:andesite_aggregate`)
+		.texture(`${global.namespace}:item/material/andesite/aggregate`)
+		.tag("forge:bricks")
+
+	//硅处理
+	event.create(`${global.namespace}:small_coal_coke`)
+		.burnTime(400)
+		.texture(`${global.namespace}:item/material/small_coal_coke`)
+
+	event.create(`${global.namespace}:silicon_mixure`)
+		.texture(`${global.namespace}:item/material/silicon/silicon_mixure`)
+
+	// 橡胶板
+	event.create(`${global.namespace}:rubber_plate`)
+		.tag("forge:plates")
+		.tag("forge:plates/rubber")
+
+	// 火箭模版
+	// 模型待定
+	event.create(`${global.namespace}:rocket_patten`)
+
+	//火箭框架1-4
+	// 模型待定
+	event.create(`${global.namespace}:tier_1_rocket_frame`)
+	event.create(`${global.namespace}:tier_2_rocket_frame`)
+	event.create(`${global.namespace}:tier_3_rocket_frame`)
+	event.create(`${global.namespace}:tier_4_rocket_frame`)
+
+	//未完成火箭框架1-4
+	// 模型待定
+	event.create(`${global.namespace}:incomplete_tier_1_rocket_frame`)
+	event.create(`${global.namespace}:incomplete_tier_2_rocket_frame`)
+	event.create(`${global.namespace}:incomplete_tier_3_rocket_frame`)
+	event.create(`${global.namespace}:incomplete_tier_4_rocket_frame`)
+
+	//未完成火箭1-4
+	// 模型待定
+	event.create(`${global.namespace}:incomplete_tier_1_rocket`)
+	event.create(`${global.namespace}:incomplete_tier_2_rocket`)
+	event.create(`${global.namespace}:incomplete_tier_3_rocket`)
+	event.create(`${global.namespace}:incomplete_tier_4_rocket`)
 })

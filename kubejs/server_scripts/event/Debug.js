@@ -39,9 +39,9 @@ PlayerEvents.chat((event) => {
 			"startup_scripts",
 			"textures",
 		]
-		if (message.trim().equalsIgnoreCase("re") && player.username === global.debugUserName[i]) {
-			commandList.forEach((common) => {
-				player.runCommandSilent(`kjs reload ${common}`)
+		if (message.trim().equalsIgnoreCase("-re") && player.username === global.debugUserName[i]) {
+			commandList.forEach((command) => {
+				player.runCommandSilent(`kjs reload ${command}`)
 			})
 			// Reloaded All Scripts!
 			player.tell(Component.translate(`message.${global.namespace}.reload`).green())

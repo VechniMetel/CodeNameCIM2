@@ -52,17 +52,20 @@ ESM
 
 # ShaderPacks
 /shaderpacks/*
-!shaderpacks/§r§lAstra§4§lLex§r§l_(§4§lBSL§r§l_Edit)_By_LexBoosT_§4§lV54.0§r§l.zip
+
+# Docs
+/kubejs/probe/*
+!/kubejs/probe/docs/*
 
 # Config
 /config/*
+!/config/openloader
 !/config/almostunified/
-!/congig/drippyloadingscreen/
+!/config/drippyloadingscreen/
 !/config/fancymenu/
 !/config/ftbquests/
 !/config/jade/
 !/config/jei/
-!/config/inventoryprofilesnext/inventoryprofiles.json
 !/config/cmi*
 !/config/immersiveengineering-client.toml
 !/config/ad_astra.jsonc
@@ -72,3 +75,5 @@ ESM
 !/config/carryon-common.toml
 !/config/cookingforblockheads-common.toml
 !/config/capsule-common.toml
+!/config/nolijium.json5
+!/config/Mekanism/

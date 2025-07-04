@@ -20,19 +20,19 @@
     "previewOverlay": true
   },
   "overlay": {
-    "alpha": 0.7,
+    "alpha": 1.0,
     "iconMode": "CENTERED",
     "animation": true,
     "disappearingDelay": 0.0,
-    "overlaySquare": true,
+    "overlaySquare": false,
     "flipMainHand": false,
     "autoScaleThreshold": 0.4,
     "overlayPosY": 1.0,
     "overlayScale": 1.0,
     "overlayAnchorX": 0.5,
     "overlayAnchorY": 0.0,
-    "activeTheme": "jade:dark",
-    "themesHash": -328442023,
+    "activeTheme": "cmi:stardew_valley",
+    "themesHash": -1255227012,
     "overlayPosX": 0.5
   },
   "formatting": {

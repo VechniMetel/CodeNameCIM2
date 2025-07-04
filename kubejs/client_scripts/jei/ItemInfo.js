@@ -1,10 +1,11 @@
 JEIEvents.information((event) => {
 	function addJEIInfo(name) {
-		event.addItem(name, Component.translate(`jei.info.${name}`.replace(":", ".")))
+		let itemInfoTranslateKey = `jei.info.${name}`.replace(":", ".")
+		event.addItem(name, Component.translate(itemInfoTranslateKey))
 	}
 
+	addJEIInfo("minecraft:andesite")
 	addJEIInfo("cookingforblockheads:sink")
-	addJEIInfo("cmi:water_pump")
 	addJEIInfo("ad_astra:cryo_fuel_bucket")
 	addJEIInfo("ad_astra:ice_shard")
 	addJEIInfo("cmi:bucket")

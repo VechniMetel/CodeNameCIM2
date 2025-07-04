@@ -1,5 +1,5 @@
 ServerEvents.recipes((event) => {
-	let { kubejs } = event.recipes
+	let { kubejs, minecraft } = event.recipes
 
 	// 催生器
 	kubejs.shaped("cmi:the_accelerator_of_mechanism_power", [
@@ -74,4 +74,33 @@ ServerEvents.recipes((event) => {
 		B: "#forge:plates/cast_iron",
 		C: "minecraft:blast_furnace"
 	}).id("immersiveindustry:crafting/burning_chamber")
+
+	// 丐版离心机
+	kubejs.shaped("cmi:simple_centrifuge", [
+		"ABA",
+		"CDC",
+		"EFE"
+	], {
+		A: "#forge:ingots/andesite_alloy",
+		B: "cmi:andesite_mechanism",
+		C: "#create:shaft",
+		D: "create:andesite_casing",
+		E: "#vintageimprovements:springs/andesite",
+		F: "minecraft:bucket"
+	})
+
+	// 安山岩
+	addSmeltingRecipe(event, "2x minecraft:andesite", "cmi:andesite_aggregate")
+
+	// IOBlock
+	kubejs.shapeless("cmi:gui_block", [
+		"minecraft:dirt"
+	])
+
+	Ingredient.of("#cmi:io_debug_block")
+		.getItemIds()
+		.forEach((id) => {
+			minecraft.stonecutting(id, "cmi:gui_block")
+			minecraft.stonecutting(id, "#cmi:io_debug_block")
+		})
 })
