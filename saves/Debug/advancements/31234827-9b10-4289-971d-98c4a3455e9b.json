@@ -16605,6 +16605,7 @@
       "enderslime_vine": "2025-03-17 23:57:42 +0800",
       "rock": "2025-03-17 23:57:42 +0800",
       "scorched_stone": "2025-03-17 23:57:42 +0800",
+      "weeping_vine": "2025-07-07 17:28:47 +0800",
       "copper": "2025-03-17 23:57:42 +0800",
       "necrotic_bone": "2025-03-17 23:57:42 +0800",
       "wood": "2025-03-17 23:57:42 +0800",
@@ -16619,6 +16620,8 @@
       "hepatizon": "2025-03-17 23:57:42 +0800",
       "leather": "2025-03-17 23:57:42 +0800",
       "bamboo": "2025-03-17 23:57:42 +0800",
+      "twisting_vine": "2025-07-07 17:28:47 +0800",
+      "slimeskin": "2025-07-07 17:28:47 +0800",
       "pig_iron": "2025-03-17 23:57:42 +0800",
       "flint": "2025-03-17 23:57:42 +0800",
       "iron": "2025-03-17 23:57:42 +0800",
@@ -35642,6 +35645,7 @@
       "reach": "2025-03-17 23:57:44 +0800",
       "springing": "2025-03-17 23:57:44 +0800",
       "reflecting": "2025-03-17 23:57:44 +0800",
+      "brushing": "2025-07-07 17:28:47 +0800",
       "spitting": "2025-03-17 23:57:44 +0800",
       "bouncy": "2025-03-17 23:57:44 +0800",
       "flamewake": "2025-03-17 23:57:44 +0800",
@@ -35679,7 +35683,6 @@
       "boundless": "2025-03-17 23:57:44 +0800",
       "firestarter": "2025-03-17 23:57:44 +0800",
       "crafting_table": "2025-03-17 23:57:44 +0800",
-      "zoom": "2025-03-17 23:57:44 +0800",
       "bulk_quiver": "2025-03-17 23:57:44 +0800",
       "glowing": "2025-03-17 23:57:44 +0800",
       "splashing": "2025-03-17 23:57:44 +0800",
@@ -36834,13 +36837,6 @@
   "immersiveengineering:recipes/misc/crafting/sheetmetal_silver_from_slab": {
     "criteria": {
       "has_sheetmetal_silver": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/misc/tools/modifiers/wither_bone_conversion": {
-    "criteria": {
-      "has_bone": "2025-03-17 23:57:44 +0800",
       "has_the_recipe": "2025-03-17 23:57:44 +0800"
     },
     "done": true
@@ -53571,6 +53567,83 @@
     "criteria": {
       "has_the_recipe": "2025-06-20 13:17:46 +0800",
       "has_crafting_table": "2025-06-20 13:17:46 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox": {
+    "criteria": {
+      "has_item": "2025-07-07 17:28:47 +0800",
+      "has_the_recipe": "2025-07-07 17:28:47 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/gauge": {
+    "criteria": {
+      "has_item": "2025-07-07 17:28:47 +0800",
+      "has_the_recipe": "2025-07-07 17:28:47 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/fluid_cannon": {
+    "criteria": {
+      "has_item": "2025-07-07 17:28:47 +0800",
+      "has_the_recipe": "2025-07-07 17:28:47 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/large_crank_wheel": {
+    "criteria": {
+      "has_item": "2025-07-07 17:28:47 +0800",
+      "has_the_recipe": "2025-07-07 17:28:47 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/gauge": {
+    "criteria": {
+      "has_item": "2025-07-07 17:28:47 +0800",
+      "has_the_recipe": "2025-07-07 17:28:47 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/food/gadgets/cake/ichor": {
+    "criteria": {
+      "has_slime": "2025-07-07 17:28:47 +0800",
+      "has_the_recipe": "2025-07-07 17:28:47 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/parallel_gearbox": {
+    "criteria": {
+      "has_item": "2025-07-07 17:28:47 +0800",
+      "has_the_recipe": "2025-07-07 17:28:47 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/seared_casting_tank": {
+    "criteria": {
+      "has_item": "2025-07-07 17:28:47 +0800",
+      "has_the_recipe": "2025-07-07 17:28:47 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/fluid_cannon": {
+    "criteria": {
+      "has_item": "2025-07-07 17:28:47 +0800",
+      "has_the_recipe": "2025-07-07 17:28:47 +0800"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_large_cogwheel": {
+    "criteria": {
+      "has_item": "2025-07-07 17:28:47 +0800",
+      "has_the_recipe": "2025-07-07 17:28:47 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/proxy_tank": {
+    "criteria": {
+      "has_item": "2025-07-07 17:28:47 +0800",
+      "has_the_recipe": "2025-07-07 17:28:47 +0800"
     },
     "done": true
   },
