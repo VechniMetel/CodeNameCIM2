@@ -16625,7 +16625,7 @@
       "nahuatl": "2025-03-17 23:57:42 +0800",
       "chorus": "2025-03-17 23:57:42 +0800"
     },
-    "done": true
+    "done": false
   },
   "create:recipes/building_blocks/small_deepslate_brick_slab_recycling": {
     "criteria": {
@@ -35679,14 +35679,13 @@
       "boundless": "2025-03-17 23:57:44 +0800",
       "firestarter": "2025-03-17 23:57:44 +0800",
       "crafting_table": "2025-03-17 23:57:44 +0800",
-      "zoom": "2025-03-17 23:57:44 +0800",
       "bulk_quiver": "2025-03-17 23:57:44 +0800",
       "glowing": "2025-03-17 23:57:44 +0800",
       "splashing": "2025-03-17 23:57:44 +0800",
       "parrying": "2025-03-17 23:57:44 +0800",
       "tool_belt": "2025-03-17 23:57:44 +0800"
     },
-    "done": true
+    "done": false
   },
   "immersiveengineering:recipes/misc/crafting/ingot_nickel_to_storage_nickel": {
     "criteria": {
@@ -36834,13 +36833,6 @@
   "immersiveengineering:recipes/misc/crafting/sheetmetal_silver_from_slab": {
     "criteria": {
       "has_sheetmetal_silver": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/misc/tools/modifiers/wither_bone_conversion": {
-    "criteria": {
-      "has_bone": "2025-03-17 23:57:44 +0800",
       "has_the_recipe": "2025-03-17 23:57:44 +0800"
     },
     "done": true
