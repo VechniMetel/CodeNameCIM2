@@ -2026,21 +2026,111 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/iron_catwalk_stairs_from_stonecutting": {
+  "create:recipes/misc/crafting/kinetics/nozzle": {
     "criteria": {
-      "has_item": "2025-07-08 17:02:20 +0800"
+      "has_item": "2025-07-08 16:28:04 +0800"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/waterwheel_segment": {
+  "create:encased_fan": {
     "criteria": {
-      "has_treated_planks": "2025-07-08 16:56:58 +0800"
+      "0": "2025-07-08 16:28:23 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_helmet": {
+  "create:recipes/misc/smelting/scoria": {
     "criteria": {
-      "has_iron_ingot": "2025-07-08 17:02:20 +0800"
+      "has_item": "2025-07-08 16:28:38 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cage": {
+    "criteria": {
+      "has_iron_bars": "2025-07-08 16:29:02 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel": {
+    "criteria": {
+      "has_item": "2025-07-08 16:29:45 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-07-08 16:29:45 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/item_silo": {
+    "criteria": {
+      "has_item": "2025-07-08 16:29:45 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-07-08 16:29:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-08 16:30:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-08 16:35:01 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-07-08 16:35:01 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-07-08 16:35:01 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-07-08 16:35:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_wood_slab": "2025-07-08 16:35:01 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-07-08 16:35:01 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-07-08 16:35:01 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-07-08 16:35:01 +0800"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2025-07-08 16:36:15 +0800"
     },
     "done": true
   },
@@ -2050,15 +2140,381 @@
     },
     "done": true
   },
-  "supplementaries:recipes/candle_holders/candle_holder_gray": {
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
     "criteria": {
-      "has_iron_ingot": "2025-07-08 17:02:20 +0800"
+      "has_item": "2025-07-08 16:37:44 +0800"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/printer": {
+    "criteria": {
+      "has_item": "2025-07-08 16:37:44 +0800"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/disenchanter": {
+    "criteria": {
+      "has_item": "2025-07-08 16:37:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-07-08 16:37:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2025-07-08 16:37:44 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_rod": {
+    "criteria": {
+      "has_iron_rod": "2025-07-08 16:44:07 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-07-08 16:44:07 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-07-08 16:44:07 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_factory_block": {
+    "criteria": {
+      "has_iron_factory_block": "2025-07-08 16:44:07 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/etrionic_blast_furnace": {
+    "criteria": {
+      "has_etrionic_blast_furnace": "2025-07-08 16:44:07 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_panel": {
+    "criteria": {
+      "has_iron_panel": "2025-07-08 16:44:07 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-07-08 16:44:07 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/encased_iron_block": {
+    "criteria": {
+      "has_encased_iron_block": "2025-07-08 16:44:07 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/wrench": {
+    "criteria": {
+      "has_wrench": "2025-07-08 16:44:07 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_iron": {
+    "criteria": {
+      "has_plate": "2025-07-08 16:44:07 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_placer": {
+    "criteria": {
+      "has_iron_plate": "2025-07-08 16:44:07 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-07-08 16:44:07 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plating": {
+    "criteria": {
+      "has_iron_plating": "2025-07-08 16:44:07 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plateblock": {
+    "criteria": {
+      "has_iron_plateblock": "2025-07-08 16:44:07 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_pipe": {
+    "criteria": {
+      "has_iron_plate": "2025-07-08 16:44:07 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/gas_tank": {
+    "criteria": {
+      "has_gas_tank": "2025-07-08 16:44:07 +0800"
+    },
+    "done": true
+  },
+  "create:saw_processing": {
+    "criteria": {
+      "0": "2025-07-08 16:45:11 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bubble_blower": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-08 16:46:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-08 16:46:14 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/iron_gate": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-08 16:46:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-08 16:46:14 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-08 16:46:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-08 16:46:14 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-08 16:46:14 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/goblet": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-08 16:46:14 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-08 16:46:14 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/waterwheel_segment": {
+    "criteria": {
+      "has_treated_planks": "2025-07-08 16:56:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/windmill_blade": {
+    "criteria": {
+      "has_treated_planks": "2025-07-08 16:56:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/craftingtable": {
+    "criteria": {
+      "has_treated_planks": "2025-07-08 16:56:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_lv": {
+    "criteria": {
+      "has_treated_planks": "2025-07-08 16:56:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_mv": {
+    "criteria": {
+      "has_treated_planks": "2025-07-08 16:56:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_hv": {
+    "criteria": {
+      "has_treated_planks": "2025-07-08 16:56:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_fence": {
+    "criteria": {
+      "has_treated_planks": "2025-07-08 16:56:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_treated": {
+    "criteria": {
+      "has_treated_planks": "2025-07-08 16:56:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_treatedwood": {
+    "criteria": {
+      "has_item": "2025-07-08 16:56:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/reinforced_crate": {
+    "criteria": {
+      "has_treated_planks": "2025-07-08 16:56:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal_from_slab": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2025-07-08 16:56:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/crate": {
+    "criteria": {
+      "has_treated_planks": "2025-07-08 16:56:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wooden_barrel": {
+    "criteria": {
+      "has_treated_planks": "2025-07-08 16:56:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/workbench": {
+    "criteria": {
+      "has_treated_planks": "2025-07-08 16:56:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_vertical_from_horizontal": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2025-07-08 16:56:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wallmount": {
+    "criteria": {
+      "has_treated_planks": "2025-07-08 16:56:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stairs_treated_wood_horizontal": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2025-07-08 16:56:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal_to_slab": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2025-07-08 16:56:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_scaffold": {
+    "criteria": {
+      "has_treated_planks": "2025-07-08 16:56:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_post": {
+    "criteria": {
+      "has_treated_fence": "2025-07-08 16:57:30 +0800"
     },
     "done": true
   },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-07-08 17:01:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-07-08 17:01:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-07-08 17:01:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-07-08 17:01:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-07-08 17:01:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-08 17:01:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-07-08 17:01:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-07-08 17:01:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-08 17:01:43 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_catwalk_stairs_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-08 17:02:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-08 17:02:20 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_gray": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-08 17:02:20 +0800"
     },
     "done": true
   },
@@ -2080,45 +2536,15 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/windmill_blade": {
-    "criteria": {
-      "has_treated_planks": "2025-07-08 16:56:58 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/craftingtable": {
-    "criteria": {
-      "has_treated_planks": "2025-07-08 16:56:58 +0800"
-    },
-    "done": true
-  },
   "tconstruct:recipes/decorations/common/iron_platform": {
     "criteria": {
       "has_bars": "2025-07-08 17:02:20 +0800"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/capacitor_lv": {
-    "criteria": {
-      "has_treated_planks": "2025-07-08 16:56:58 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 17:02:20 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/capacitor_mv": {
-    "criteria": {
-      "has_treated_planks": "2025-07-08 16:56:58 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/capacitor_hv": {
-    "criteria": {
-      "has_treated_planks": "2025-07-08 16:56:58 +0800"
     },
     "done": true
   },
@@ -2134,12 +2560,6 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/iron_rod": {
-    "criteria": {
-      "has_iron_rod": "2025-07-08 16:44:07 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 17:02:20 +0800"
@@ -2149,12 +2569,6 @@
   "supplementaries:recipes/candle_holders/candle_holder_red": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 17:02:20 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/bubble_blower": {
-    "criteria": {
-      "has_iron_nugget": "2025-07-08 16:46:14 +0800"
     },
     "done": true
   },
@@ -2170,39 +2584,9 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/fluid_vessel": {
-    "criteria": {
-      "has_item": "2025-07-08 16:29:45 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/propeller": {
-    "criteria": {
-      "has_item": "2025-07-08 16:44:07 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-07-08 17:01:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 17:02:20 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_fence": {
-    "criteria": {
-      "has_treated_planks": "2025-07-08 16:56:58 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/nozzle": {
-    "criteria": {
-      "has_item": "2025-07-08 16:28:04 +0800"
     },
     "done": true
   },
@@ -2215,36 +2599,6 @@
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 17:02:20 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/encased_fan": {
-    "criteria": {
-      "has_item": "2025-07-08 16:44:07 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/iron_factory_block": {
-    "criteria": {
-      "has_iron_factory_block": "2025-07-08 16:44:07 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-07-08 16:46:14 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-07-08 17:01:43 +0800"
-    },
-    "done": true
-  },
-  "create:encased_fan": {
-    "criteria": {
-      "0": "2025-07-08 16:28:23 +0800"
     },
     "done": true
   },
@@ -2284,18 +2638,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-07-08 16:35:01 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/etrionic_blast_furnace": {
-    "criteria": {
-      "has_etrionic_blast_furnace": "2025-07-08 16:44:07 +0800"
-    },
-    "done": true
-  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-08 17:02:20 +0800"
@@ -2326,39 +2668,15 @@
     },
     "done": true
   },
-  "supplementaries:recipes/bamboo_spikes": {
-    "criteria": {
-      "minecraft:wooden_slabs": "2025-07-08 16:35:01 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2025-07-08 17:01:43 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2025-07-08 17:02:20 +0800"
     },
     "done": true
   },
-  "supplementaries:recipes/blackboard": {
-    "criteria": {
-      "minecraft:wooden_slabs": "2025-07-08 16:35:01 +0800"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_brown": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 17:02:20 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/stick_treated": {
-    "criteria": {
-      "has_treated_planks": "2025-07-08 16:56:58 +0800"
     },
     "done": true
   },
@@ -2374,33 +2692,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-07-08 17:01:43 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/iron_gate": {
-    "criteria": {
-      "has_iron_nugget": "2025-07-08 16:46:14 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 17:02:20 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/iron_panel": {
-    "criteria": {
-      "has_iron_panel": "2025-07-08 16:44:07 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:main/craft_treatedwood": {
-    "criteria": {
-      "has_item": "2025-07-08 16:56:58 +0800"
     },
     "done": true
   },
@@ -2413,12 +2707,6 @@
   "supplementaries:recipes/candle_holders/candle_holder_black": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 17:02:20 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/reinforced_crate": {
-    "criteria": {
-      "has_treated_planks": "2025-07-08 16:56:58 +0800"
     },
     "done": true
   },
@@ -2446,24 +2734,6 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal_from_slab": {
-    "criteria": {
-      "has_treated_wood_horizontal": "2025-07-08 16:56:58 +0800"
-    },
-    "done": true
-  },
-  "create:water_supply": {
-    "criteria": {
-      "0": "2025-07-08 16:36:15 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/crate": {
-    "criteria": {
-      "has_treated_planks": "2025-07-08 16:56:58 +0800"
-    },
-    "done": true
-  },
   "ad_astra:recipes/misc/compressor": {
     "criteria": {
       "has_compressor": "2025-07-08 17:02:20 +0800"
@@ -2485,30 +2755,6 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 17:02:20 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2025-07-08 17:01:43 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
-    "criteria": {
-      "has_item": "2025-07-08 16:37:44 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wooden_barrel": {
-    "criteria": {
-      "has_treated_planks": "2025-07-08 16:56:58 +0800"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:recipes/printer": {
-    "criteria": {
-      "has_item": "2025-07-08 16:37:44 +0800"
     },
     "done": true
   },
@@ -2536,27 +2782,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/super_glue": {
-    "criteria": {
-      "has_item": "2025-07-08 16:44:07 +0800"
-    },
-    "done": true
-  },
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 17:02:20 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/encased_iron_block": {
-    "criteria": {
-      "has_encased_iron_block": "2025-07-08 16:44:07 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/wrench": {
-    "criteria": {
-      "has_wrench": "2025-07-08 16:44:07 +0800"
     },
     "done": true
   },
@@ -2572,27 +2800,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/chute_iron": {
-    "criteria": {
-      "has_plate": "2025-07-08 16:44:07 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 17:02:20 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/cage": {
-    "criteria": {
-      "has_iron_bars": "2025-07-08 16:29:02 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/workbench": {
-    "criteria": {
-      "has_treated_planks": "2025-07-08 16:56:58 +0800"
     },
     "done": true
   },
@@ -2614,12 +2824,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2025-07-08 17:01:43 +0800"
-    },
-    "done": true
-  },
   "supplementaries:recipes/bomb": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 17:02:20 +0800"
@@ -2632,39 +2836,9 @@
     },
     "done": true
   },
-  "create_enchantment_industry:recipes/disenchanter": {
-    "criteria": {
-      "has_item": "2025-07-08 16:37:44 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_wood_vertical_from_horizontal": {
-    "criteria": {
-      "has_treated_wood_horizontal": "2025-07-08 16:56:58 +0800"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 17:02:20 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lantern": {
-    "criteria": {
-      "has_iron_nugget": "2025-07-08 16:46:14 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/ornate_iron_window": {
-    "criteria": {
-      "has_ingredient": "2025-07-08 16:46:14 +0800"
-    },
-    "done": true
-  },
-  "create:saw_processing": {
-    "criteria": {
-      "0": "2025-07-08 16:45:11 +0800"
     },
     "done": true
   },
@@ -2692,51 +2866,15 @@
     },
     "done": true
   },
-  "supplementaries:recipes/item_shelf": {
-    "criteria": {
-      "minecraft:wooden_slabs": "2025-07-08 16:35:01 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 17:02:20 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_wood_slab": "2025-07-08 16:35:01 +0800"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/connector_hv_relay": {
     "criteria": {
       "has_aluminum_ingot": "2025-07-08 17:02:20 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/fluid_placer": {
-    "criteria": {
-      "has_iron_plate": "2025-07-08 16:44:07 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/copper_door": {
-    "criteria": {
-      "has_item": "2025-07-08 16:37:44 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/whisk": {
-    "criteria": {
-      "has_item": "2025-07-08 16:44:07 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/iron_plating": {
-    "criteria": {
-      "has_iron_plating": "2025-07-08 16:44:07 +0800"
     },
     "done": true
   },
@@ -2758,30 +2896,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/smelting/scoria": {
-    "criteria": {
-      "has_item": "2025-07-08 16:28:38 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/iron_plateblock": {
-    "criteria": {
-      "has_iron_plateblock": "2025-07-08 16:44:07 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_wallmount": {
-    "criteria": {
-      "has_treated_planks": "2025-07-08 16:56:58 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/stairs_treated_wood_horizontal": {
-    "criteria": {
-      "has_treated_wood_horizontal": "2025-07-08 16:56:58 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 17:02:20 +0800"
@@ -2800,18 +2914,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chain": {
-    "criteria": {
-      "has_iron_nugget": "2025-07-08 16:46:14 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sconce": {
-    "criteria": {
-      "has_iron_nugget": "2025-07-08 16:46:14 +0800"
-    },
-    "done": true
-  },
   "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_ingot": {
     "criteria": {
       "has_item": "2025-07-08 17:02:20 +0800"
@@ -2824,57 +2926,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/bellows": {
-    "criteria": {
-      "minecraft:wooden_slabs": "2025-07-08 16:35:01 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/fluid_pipe": {
-    "criteria": {
-      "has_iron_plate": "2025-07-08 16:44:07 +0800"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-07-08 16:30:46 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2025-07-08 17:01:43 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/gas_tank": {
-    "criteria": {
-      "has_gas_tank": "2025-07-08 16:44:07 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2025-07-08 17:01:43 +0800"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/toolbox": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 17:02:20 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal_to_slab": {
-    "criteria": {
-      "has_treated_wood_horizontal": "2025-07-08 16:56:58 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/goblet": {
-    "criteria": {
-      "has_iron_nugget": "2025-07-08 16:46:14 +0800"
     },
     "done": true
   },
@@ -2884,33 +2938,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/treated_scaffold": {
-    "criteria": {
-      "has_treated_planks": "2025-07-08 16:56:58 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/item_drain": {
-    "criteria": {
-      "has_item": "2025-07-08 16:37:44 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_tank": {
-    "criteria": {
-      "has_item": "2025-07-08 16:29:45 +0800"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/hammer": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 17:02:20 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_post": {
-    "criteria": {
-      "has_treated_fence": "2025-07-08 16:57:30 +0800"
     },
     "done": true
   },
@@ -2920,39 +2950,99 @@
     },
     "done": true
   },
-  "supplementaries:recipes/jar": {
-    "criteria": {
-      "minecraft:wooden_slabs": "2025-07-08 16:35:01 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pulley": {
-    "criteria": {
-      "minecraft:wooden_slabs": "2025-07-08 16:35:01 +0800"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/item_silo": {
-    "criteria": {
-      "has_item": "2025-07-08 16:29:45 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sconce_soul": {
-    "criteria": {
-      "has_iron_nugget": "2025-07-08 16:46:14 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/item_vault": {
-    "criteria": {
-      "has_item": "2025-07-08 16:29:45 +0800"
-    },
-    "done": true
-  },
   "rechiseled:recipes/misc/chisel": {
     "criteria": {
       "recipe_condition": "2025-07-08 17:02:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-07-11 13:10:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-07-11 13:10:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-07-11 13:10:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-07-11 13:10:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-07-11 13:10:55 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_copper": {
+    "criteria": {
+      "has_plate": "2025-07-11 13:11:20 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-07-11 13:11:41 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2025-07-11 13:11:50 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox": {
+    "criteria": {
+      "has_item": "2025-07-11 15:23:00 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/large_crank_wheel": {
+    "criteria": {
+      "has_item": "2025-07-11 15:23:00 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_hull": {
+    "criteria": {
+      "has_item": "2025-07-11 15:20:10 +0800"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-07-11 15:23:04 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-11 15:20:10 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/parallel_gearbox": {
+    "criteria": {
+      "has_item": "2025-07-11 15:23:00 +0800"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_large_cogwheel": {
+    "criteria": {
+      "has_item": "2025-07-11 15:23:00 +0800"
     },
     "done": true
   },
