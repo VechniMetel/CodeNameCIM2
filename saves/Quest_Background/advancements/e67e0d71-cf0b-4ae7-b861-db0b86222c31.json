@@ -1,10 +1,4 @@
 {
-  "tconstruct:tools/materials_and_you": {
-    "criteria": {
-      "crafted_book": "2025-07-13 20:37:45 +0800"
-    },
-    "done": true
-  },
   "create_connected:recipes/crafting/kinetics/six_way_gearbox": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
@@ -23,21 +17,9 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/orange_industrial_lamp": {
-    "criteria": {
-      "has_orange_industrial_lamp": "2025-07-13 22:26:37 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/small_orange_industrial_lamp": {
-    "criteria": {
-      "has_small_orange_industrial_lamp": "2025-07-13 22:26:37 +0800"
     },
     "done": true
   },
@@ -50,12 +32,6 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/smart_chute": {
-    "criteria": {
-      "has_item": "2025-07-13 22:34:56 +0800"
     },
     "done": true
   },
@@ -95,18 +71,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/candle_holders/candle_holder_brown_dye": {
-    "criteria": {
-      "forge:dyes/brown": "2025-07-13 22:26:30 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_candle": {
-    "criteria": {
-      "has_yellow_dye": "2025-07-13 22:28:01 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/industrial_iron_hull_from_stonecutting": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
@@ -116,12 +80,6 @@
   "supplementaries:recipes/candle_holders/candle_holder_gray": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2025-07-13 20:37:45 +0800"
     },
     "done": true
   },
@@ -137,39 +95,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2025-07-13 22:19:02 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2025-07-13 22:17:51 +0800"
-    },
-    "done": true
-  },
-  "mekanism:root": {
-    "criteria": {
-      "automatic": "2025-07-13 20:37:30 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gearbox": {
-    "criteria": {
-      "has_item": "2025-07-13 22:29:07 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/iron_catwalk_from_stonecutting": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_orange_dye": {
-    "criteria": {
-      "forge:dyes/orange": "2025-07-13 22:26:37 +0800"
     },
     "done": true
   },
@@ -197,12 +125,6 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/yellow_placard_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-07-13 22:28:01 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
@@ -212,12 +134,6 @@
   "immersiveengineering:recipes/misc/crafting/windmill_blade": {
     "criteria": {
       "has_treated_planks": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/small_black_industrial_lamp": {
-    "criteria": {
-      "has_small_black_industrial_lamp": "2025-07-13 22:27:01 +0800"
     },
     "done": true
   },
@@ -236,12 +152,6 @@
   "tconstruct:recipes/decorations/common/iron_platform": {
     "criteria": {
       "has_bars": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_brown": {
-    "criteria": {
-      "has_dyes/black": "2025-07-13 22:26:30 +0800"
     },
     "done": true
   },
@@ -281,12 +191,6 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/brown_placard_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-07-13 22:26:30 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/yellow_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
@@ -296,12 +200,6 @@
   "create_connected:recipes/crafting/kinetics/large_crank_wheel": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2025-07-13 22:19:02 +0800"
     },
     "done": true
   },
@@ -323,21 +221,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
-    "criteria": {
-      "has_yellow_dye": "2025-07-13 22:28:01 +0800"
-    },
-    "done": true
-  },
   "railways:recipes/misc/crafting/track_switch_andesite": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_orange_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-07-13 22:26:37 +0800"
     },
     "done": true
   },
@@ -365,18 +251,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/candle_holders/candle_holder_yellow_dye": {
-    "criteria": {
-      "forge:dyes/yellow": "2025-07-13 22:28:01 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_orange": {
-    "criteria": {
-      "has_dyes/black": "2025-07-13 22:26:37 +0800"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/coil_mv": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 20:37:29 +0800"
@@ -389,12 +263,6 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/glass_yellow": {
-    "criteria": {
-      "has_dyes/black": "2025-07-13 22:28:01 +0800"
-    },
-    "done": true
-  },
   "ae2wtlib:recipes/wireless_pattern_access_terminal": {
     "criteria": {
       "has_wt": "2025-07-13 20:37:29 +0800"
@@ -404,30 +272,6 @@
   "create_connected:recipes/crafting/kinetics/fluid_vessel": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2025-07-13 22:19:02 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-07-13 22:28:01 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/turn_table": {
-    "criteria": {
-      "minecraft:planks": "2025-07-13 22:19:02 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_yellow_dye": "2025-07-13 22:28:01 +0800"
     },
     "done": true
   },
@@ -461,21 +305,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-07-13 22:17:51 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-07-13 22:20:36 +0800"
     },
     "done": true
   },
@@ -491,21 +323,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_smart_orange": {
-    "criteria": {
-      "has_dyes/black": "2025-07-13 22:26:37 +0800"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_brown": {
-    "criteria": {
-      "has_dyes/black": "2025-07-13 22:26:30 +0800"
     },
     "done": true
   },
@@ -521,33 +341,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-07-13 22:17:51 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_candle": {
-    "criteria": {
-      "has_orange_dye": "2025-07-13 22:26:37 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_black": {
-    "criteria": {
-      "has_dyes/black": "2025-07-13 22:27:01 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-13 22:19:02 +0800"
     },
     "done": true
   },
@@ -593,12 +389,6 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/orange_placard_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-07-13 22:26:37 +0800"
-    },
-    "done": true
-  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-13 20:37:29 +0800"
@@ -608,18 +398,6 @@
   "supplementaries:recipes/candle_holders/candle_holder_white": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "create:wrench_goggles": {
-    "criteria": {
-      "0": "2025-07-13 22:27:30 +0800"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/bed_from_feather_block": {
-    "criteria": {
-      "minecraft:planks": "2025-07-13 22:19:02 +0800"
     },
     "done": true
   },
@@ -647,12 +425,6 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/yellow_industrial_lamp": {
-    "criteria": {
-      "has_yellow_industrial_lamp": "2025-07-13 22:28:01 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/gantry_carriage": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
@@ -671,12 +443,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_orange_dye": "2025-07-13 22:26:37 +0800"
-    },
-    "done": true
-  },
   "create_connected:recipes/crafting/kinetics/parallel_gearbox": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
@@ -686,12 +452,6 @@
   "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
     "criteria": {
       "has_wt": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2025-07-13 22:17:51 +0800"
     },
     "done": true
   },
@@ -737,12 +497,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-07-13 22:17:51 +0800"
-    },
-    "done": true
-  },
   "supplementaries:recipes/iron_gate": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 20:37:29 +0800"
@@ -779,21 +533,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/notice_board": {
-    "criteria": {
-      "minecraft:planks": "2025-07-13 22:19:02 +0800"
-    },
-    "done": true
-  },
   "crystal_clear:recipes/decorations/crafting/glass_casing/copper_clear_glass_casing": {
     "criteria": {
       "has_valve": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_orange": {
-    "criteria": {
-      "has_dyes/black": "2025-07-13 22:26:37 +0800"
     },
     "done": true
   },
@@ -809,27 +551,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_black_dye": "2025-07-13 22:27:01 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-13 22:19:02 +0800"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_orange_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-07-13 22:26:37 +0800"
     },
     "done": true
   },
@@ -839,39 +563,9 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/brown_industrial_lamp": {
-    "criteria": {
-      "has_brown_industrial_lamp": "2025-07-13 22:26:30 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
-    "criteria": {
-      "has_small_yellow_industrial_lamp": "2025-07-13 22:28:01 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-07-13 22:26:30 +0800"
-    },
-    "done": true
-  },
   "crystal_clear:recipes/decorations/crafting/glass_casing/brass_clear_glass_casing": {
     "criteria": {
       "has_valve": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_brown_dye": "2025-07-13 22:26:30 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_yellow": {
-    "criteria": {
-      "has_dyes/black": "2025-07-13 22:28:01 +0800"
     },
     "done": true
   },
@@ -911,12 +605,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
-    "criteria": {
-      "has_black_dye": "2025-07-13 22:27:01 +0800"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/crate": {
     "criteria": {
       "has_treated_planks": "2025-07-13 20:37:29 +0800"
@@ -926,18 +614,6 @@
   "ad_astra:recipes/misc/compressor": {
     "criteria": {
       "has_compressor": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "copycats:recipes/crafting/copycat_cogwheel": {
-    "criteria": {
-      "has_item": "2025-07-13 22:29:07 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-07-13 22:28:01 +0800"
     },
     "done": true
   },
@@ -983,27 +659,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/candle_holders/candle_holder_black_dye": {
-    "criteria": {
-      "forge:dyes/black": "2025-07-13 22:27:01 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2025-07-13 22:17:51 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/mechanical_saw": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
-    "criteria": {
-      "has_item": "2025-07-13 22:29:07 +0800"
     },
     "done": true
   },
@@ -1016,12 +674,6 @@
   "createdeco:recipes/decorations/pink_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-07-13 22:26:30 +0800"
     },
     "done": true
   },
@@ -1043,18 +695,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_planks": "2025-07-13 22:19:02 +0800"
-    },
-    "done": true
-  },
-  "capsule:recipes/tools/capsule_wood": {
-    "criteria": {
-      "has_plankWood": "2025-07-13 22:19:02 +0800"
-    },
-    "done": true
-  },
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 20:37:29 +0800"
@@ -1064,12 +704,6 @@
   "ae2:recipes/misc/decorative/light_detector": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_brown": {
-    "criteria": {
-      "has_dyes/black": "2025-07-13 22:26:30 +0800"
     },
     "done": true
   },
@@ -1103,12 +737,6 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/black_industrial_lamp": {
-    "criteria": {
-      "has_black_industrial_lamp": "2025-07-13 22:27:01 +0800"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/connector_hv": {
     "criteria": {
       "has_aluminum_ingot": "2025-07-13 20:37:29 +0800"
@@ -1118,12 +746,6 @@
   "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/andesite_catwalk_stairs": {
-    "criteria": {
-      "has_item": "2025-07-13 22:24:39 +0800"
     },
     "done": true
   },
@@ -1145,21 +767,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-07-13 22:28:01 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_brown": {
-    "criteria": {
-      "has_dyes/black": "2025-07-13 22:26:30 +0800"
     },
     "done": true
   },
@@ -1172,12 +782,6 @@
   "createdeco:recipes/decorations/iron_mesh_fence_from_stonecutting": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2025-07-13 22:17:51 +0800"
     },
     "done": true
   },
@@ -1196,12 +800,6 @@
   "createdeco:recipes/decorations/magenta_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/small_brown_industrial_lamp": {
-    "criteria": {
-      "has_small_brown_industrial_lamp": "2025-07-13 22:26:30 +0800"
     },
     "done": true
   },
@@ -1229,45 +827,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_black_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-07-13 22:27:01 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-07-13 22:26:30 +0800"
-    },
-    "done": true
-  },
   "create_connected:recipes/crafting/kinetics/item_silo_from_conversion": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
-    "criteria": {
-      "has_dyes/black": "2025-07-13 22:28:01 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-07-13 22:27:01 +0800"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "create:track_0": {
-    "criteria": {
-      "0": "2025-07-13 22:21:52 +0800"
     },
     "done": true
   },
@@ -1316,18 +884,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-13 22:19:02 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-07-13 22:20:36 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 20:37:29 +0800"
@@ -1352,12 +908,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/clock_block": {
-    "criteria": {
-      "minecraft:planks": "2025-07-13 22:19:02 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/iron_catwalk_railing_from_stonecutting": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
@@ -1367,18 +917,6 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_black_dye": "2025-07-13 22:27:01 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2025-07-13 22:19:02 +0800"
     },
     "done": true
   },
@@ -1400,21 +938,9 @@
     },
     "done": true
   },
-  "create:belt": {
-    "criteria": {
-      "0": "2025-07-13 22:18:34 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/copper_door": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-07-13 22:20:36 +0800"
     },
     "done": true
   },
@@ -1486,12 +1012,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_orange_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-07-13 22:26:37 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/gray_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
@@ -1510,33 +1030,15 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_covered_black": {
-    "criteria": {
-      "has_dyes/black": "2025-07-13 22:27:01 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/iron_support_wedge_from_stonecutting": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-13 22:19:02 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2025-07-13 22:19:02 +0800"
     },
     "done": true
   },
@@ -1558,39 +1060,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/speaker_block": {
-    "criteria": {
-      "minecraft:planks": "2025-07-13 22:19:02 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_candle": {
-    "criteria": {
-      "has_brown_dye": "2025-07-13 22:26:30 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/black_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2025-07-13 22:17:51 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_orange": {
-    "criteria": {
-      "has_dyes/black": "2025-07-13 22:26:37 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2025-07-13 22:17:51 +0800"
     },
     "done": true
   },
@@ -1612,21 +1084,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
-    "criteria": {
-      "has_planks": "2025-07-13 22:19:02 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/iron_support": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "tconstruct:internal/starting_book": {
-    "criteria": {
-      "tick": "2025-07-13 20:37:45 +0800"
     },
     "done": true
   },
@@ -1654,21 +1114,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_smart_black": {
-    "criteria": {
-      "has_dyes/black": "2025-07-13 22:27:01 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/item_drain": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/black_placard_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-07-13 22:27:01 +0800"
     },
     "done": true
   },
@@ -1690,12 +1138,6 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/crank_wheel": {
-    "criteria": {
-      "has_item": "2025-07-13 22:29:07 +0800"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/hammer": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 20:37:29 +0800"
@@ -1714,21 +1156,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
-    "criteria": {
-      "has_dyes/black": "2025-07-13 22:28:01 +0800"
-    },
-    "done": true
-  },
   "copycats:recipes/crafting/copycat_large_cogwheel": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
-    "criteria": {
-      "has_item": "2025-07-13 22:29:07 +0800"
     },
     "done": true
   },
@@ -1744,12 +1174,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/oak_window": {
-    "criteria": {
-      "has_ingredient": "2025-07-13 22:19:02 +0800"
-    },
-    "done": true
-  },
   "crystal_clear:recipes/decorations/crafting/glass_casing/andesite_clear_glass_casing": {
     "criteria": {
       "has_valve": "2025-07-13 20:37:29 +0800"
@@ -1762,18 +1186,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2025-07-13 20:37:46 +0800"
-    },
-    "done": false
-  },
-  "ae2:recipes/misc/network/cables/smart_black": {
-    "criteria": {
-      "has_dyes/black": "2025-07-13 22:27:01 +0800"
-    },
-    "done": true
-  },
   "supplementaries:recipes/pulley": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 20:37:29 +0800"
@@ -1783,12 +1195,6 @@
   "create_connected:recipes/crafting/kinetics/item_silo": {
     "criteria": {
       "has_item": "2025-07-13 20:37:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_candle": {
-    "criteria": {
-      "has_black_dye": "2025-07-13 22:27:01 +0800"
     },
     "done": true
   },
@@ -1810,9 +1216,603 @@
     },
     "done": true
   },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-07-13 20:37:30 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2025-07-13 20:37:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-07-13 20:37:45 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2025-07-13 20:37:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-07-13 20:37:46 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-07-13 22:17:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-07-13 22:17:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-07-13 22:17:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-07-13 22:17:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-07-13 22:17:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-13 22:17:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-07-13 22:17:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-07-13 22:17:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-13 22:17:51 +0800"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-07-13 22:18:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-07-13 22:19:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-13 22:19:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-13 22:19:02 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/turn_table": {
+    "criteria": {
+      "minecraft:planks": "2025-07-13 22:19:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-13 22:19:02 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bed_from_feather_block": {
+    "criteria": {
+      "minecraft:planks": "2025-07-13 22:19:02 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "minecraft:planks": "2025-07-13 22:19:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-13 22:19:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-13 22:19:02 +0800"
+    },
+    "done": true
+  },
+  "capsule:recipes/tools/capsule_wood": {
+    "criteria": {
+      "has_plankWood": "2025-07-13 22:19:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-13 22:19:02 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/clock_block": {
+    "criteria": {
+      "minecraft:planks": "2025-07-13 22:19:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-07-13 22:19:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-13 22:19:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-13 22:19:02 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "minecraft:planks": "2025-07-13 22:19:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-13 22:19:02 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-13 22:19:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-13 22:20:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-07-13 22:20:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-13 22:20:36 +0800"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-07-13 22:21:52 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_catwalk_stairs": {
+    "criteria": {
+      "has_item": "2025-07-13 22:24:39 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_brown_dye": {
+    "criteria": {
+      "forge:dyes/brown": "2025-07-13 22:26:30 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_brown": {
+    "criteria": {
+      "has_dyes/black": "2025-07-13 22:26:30 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brown_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-13 22:26:30 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_brown": {
+    "criteria": {
+      "has_dyes/black": "2025-07-13 22:26:30 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/brown_industrial_lamp": {
+    "criteria": {
+      "has_brown_industrial_lamp": "2025-07-13 22:26:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-13 22:26:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_brown_dye": "2025-07-13 22:26:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-13 22:26:30 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_brown": {
+    "criteria": {
+      "has_dyes/black": "2025-07-13 22:26:30 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_brown": {
+    "criteria": {
+      "has_dyes/black": "2025-07-13 22:26:30 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_brown_industrial_lamp": {
+    "criteria": {
+      "has_small_brown_industrial_lamp": "2025-07-13 22:26:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-13 22:26:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2025-07-13 22:26:30 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/orange_industrial_lamp": {
+    "criteria": {
+      "has_orange_industrial_lamp": "2025-07-13 22:26:37 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_orange_industrial_lamp": {
+    "criteria": {
+      "has_small_orange_industrial_lamp": "2025-07-13 22:26:37 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_orange_dye": {
+    "criteria": {
+      "forge:dyes/orange": "2025-07-13 22:26:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-13 22:26:37 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-07-13 22:26:37 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-07-13 22:26:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-07-13 22:26:37 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/orange_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-13 22:26:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_orange_dye": "2025-07-13 22:26:37 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-07-13 22:26:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-13 22:26:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-13 22:26:37 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-07-13 22:26:37 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_black_industrial_lamp": {
+    "criteria": {
+      "has_small_black_industrial_lamp": "2025-07-13 22:27:01 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2025-07-13 22:27:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-07-13 22:27:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-07-13 22:27:01 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_black_dye": {
+    "criteria": {
+      "forge:dyes/black": "2025-07-13 22:27:01 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/black_industrial_lamp": {
+    "criteria": {
+      "has_black_industrial_lamp": "2025-07-13 22:27:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-13 22:27:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-13 22:27:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-07-13 22:27:01 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2025-07-13 22:27:01 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-07-13 22:27:01 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/black_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-13 22:27:01 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-07-13 22:27:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-07-13 22:27:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2025-07-13 22:27:01 +0800"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-07-13 22:27:30 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-13 22:28:01 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-13 22:28:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-13 22:28:01 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_yellow_dye": {
+    "criteria": {
+      "forge:dyes/yellow": "2025-07-13 22:28:01 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-07-13 22:28:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-13 22:28:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-13 22:28:01 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/yellow_industrial_lamp": {
+    "criteria": {
+      "has_yellow_industrial_lamp": "2025-07-13 22:28:01 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
+    "criteria": {
+      "has_small_yellow_industrial_lamp": "2025-07-13 22:28:01 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-07-13 22:28:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-13 22:28:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-13 22:28:01 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-07-13 22:28:01 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-07-13 22:28:01 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-07-13 22:29:07 +0800"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_cogwheel": {
+    "criteria": {
+      "has_item": "2025-07-13 22:29:07 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
+    "criteria": {
+      "has_item": "2025-07-13 22:29:07 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/crank_wheel": {
+    "criteria": {
+      "has_item": "2025-07-13 22:29:07 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-07-13 22:29:07 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2025-07-13 22:34:56 +0800"
     },
     "done": true
   },
