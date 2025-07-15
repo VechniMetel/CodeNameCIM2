@@ -1,5 +1,5 @@
 ServerEvents.recipes((event) => {
-	let { tconstruct, farmersdelight, create, vintageimprovements } = event.recipes
+	let { tconstruct, farmersdelight, create, ratatouille } = event.recipes
 
 	// 橡胶板
 	create.pressing("cmi:rubber_plate", [
@@ -12,6 +12,12 @@ ServerEvents.recipes((event) => {
 	], [
 		"thermal:rubber"
 	], "#forge:tools/knives")
+
+	// 橡胶
+	ratatouille.squeezing("2x thermal:rubber", [
+		Fluid.of("thermal:latex", 500),
+		"ratatouille:sausage_casing"
+	])
 
 	// 二氧化硫(硫化剂)
 	event.custom({
@@ -38,4 +44,7 @@ ServerEvents.recipes((event) => {
 	tconstruct.casting_table("thermal:cured_rubber")
 		.fluid(Fluid.of("cmi:cured_rubber", 250))
 		.cooling_time(20)
+
+	//硫粉
+	create.milling("thermal:sulfur_dust","#forge:gems/sulfur")
 })
