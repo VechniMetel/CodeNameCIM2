@@ -1342,81 +1342,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/waterwheel_segment": {
-    "criteria": {
-      "has_treated_planks": "2025-07-16 15:18:30 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/certus_quartz_bricks": {
-    "criteria": {
-      "has_cut_quartz_block": "2025-07-16 15:15:57 +0800"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/track_switch_brass": {
-    "criteria": {
-      "has_item": "2025-07-16 15:14:13 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-07-16 14:47:17 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_light_gray": {
-    "criteria": {
-      "has_dyes/black": "2025-07-16 14:46:57 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/dense_smart_white": {
     "criteria": {
       "has_dyes/black": "2025-07-16 14:46:56 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/pink_industrial_lamp": {
-    "criteria": {
-      "has_pink_industrial_lamp": "2025-07-16 14:47:22 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_candle": {
-    "criteria": {
-      "has_pink_dye": "2025-07-16 14:47:22 +0800"
     },
     "done": true
   },
@@ -1426,165 +1354,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/small_magenta_industrial_lamp": {
-    "criteria": {
-      "has_small_magenta_industrial_lamp": "2025-07-16 14:47:17 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/windmill_blade": {
-    "criteria": {
-      "has_treated_planks": "2025-07-16 15:18:30 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/craftingtable": {
-    "criteria": {
-      "has_treated_planks": "2025-07-16 15:18:30 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/tables/scorched_anvil": {
-    "criteria": {
-      "has_item": "2025-07-16 15:09:59 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/capacitor_lv": {
-    "criteria": {
-      "has_treated_planks": "2025-07-16 15:18:30 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/capacitor_mv": {
-    "criteria": {
-      "has_treated_planks": "2025-07-16 15:18:30 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2025-07-16 14:46:56 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/capacitor_hv": {
-    "criteria": {
-      "has_treated_planks": "2025-07-16 15:18:30 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-07-16 15:15:58 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_deepslate_stairs": {
-    "criteria": {
-      "has_polished_cut_deepslate": "2025-07-16 15:08:08 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-07-16 14:46:57 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_ochrum_brick_slab": {
-    "criteria": {
-      "has_small_ochrum_bricks": "2025-07-16 15:07:46 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_pink": {
-    "criteria": {
-      "has_dyes/black": "2025-07-16 14:47:22 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/block_cutter/walls/cut_quartz_wall": {
-    "criteria": {
-      "has_cut_quartz_block": "2025-07-16 15:15:57 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/chiseled_quartz_block_from_stonecutting": {
-    "criteria": {
-      "has_cut_quartz_block": "2025-07-16 15:15:57 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_candle": {
-    "criteria": {
-      "has_light_gray_dye": "2025-07-16 14:46:57 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_ochrum_stairs": {
-    "criteria": {
-      "has_polished_cut_ochrum": "2025-07-16 15:07:49 +0800"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/light_gray_placard_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-07-16 14:46:57 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_fence": {
-    "criteria": {
-      "has_treated_planks": "2025-07-16 15:18:30 +0800"
     },
     "done": true
   },
@@ -1594,177 +1366,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_ochrum_brick_stairs": {
-    "criteria": {
-      "has_small_ochrum_bricks": "2025-07-16 15:07:46 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_ochrum_slab": {
-    "criteria": {
-      "has_polished_cut_ochrum": "2025-07-16 15:07:49 +0800"
-    },
-    "done": true
-  },
-  "create:burner": {
-    "criteria": {
-      "0": "2025-07-16 15:13:00 +0800"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/brass_hull": {
-    "criteria": {
-      "has_item": "2025-07-16 15:09:59 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/shaped/slabs/cut_quartz_block": {
-    "criteria": {
-      "has_cut_quartz_block": "2025-07-16 15:15:57 +0800"
-    },
-    "done": true
-  },
-  "deepdrilling:recipes/misc/drill_core": {
-    "criteria": {
-      "has_ingredient": "2025-07-16 15:14:13 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/brass_ingot_from_decompacting": {
-    "criteria": {
-      "has_item": "2025-07-16 15:09:59 +0800"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/tables/tinkers_anvil": {
-    "criteria": {
-      "has_item": "2025-07-16 15:09:59 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_deepslate_slab": {
-    "criteria": {
-      "has_polished_cut_deepslate": "2025-07-16 15:08:08 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/block_cutter/stairs/quartz_brick_stairs": {
-    "criteria": {
-      "has_quartz_bricks": "2025-07-16 15:16:58 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/shaped/walls/quartz_bricks": {
-    "criteria": {
-      "has_quartz_bricks": "2025-07-16 15:16:58 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-07-16 15:15:58 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_pink": {
-    "criteria": {
-      "has_dyes/black": "2025-07-16 14:47:22 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_magenta_dye": {
-    "criteria": {
-      "forge:dyes/magenta": "2025-07-16 14:47:17 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_light_gray": {
-    "criteria": {
-      "has_dyes/black": "2025-07-16 14:46:57 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_magenta": {
-    "criteria": {
-      "has_dyes/black": "2025-07-16 14:47:17 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
-    "criteria": {
-      "has_quartz_block": "2025-07-16 15:15:58 +0800"
-    },
-    "done": true
-  },
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "supplementaries:blackboard_white": "2025-07-16 14:46:56 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_pink_dye": "2025-07-16 14:47:22 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/stick_treated": {
-    "criteria": {
-      "has_treated_planks": "2025-07-16 15:18:30 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:main/craft_treatedwood": {
-    "criteria": {
-      "has_item": "2025-07-16 15:18:30 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/block_cutter/stairs/cut_quartz_stairs": {
-    "criteria": {
-      "has_cut_quartz_block": "2025-07-16 15:15:57 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/reinforced_crate": {
-    "criteria": {
-      "has_treated_planks": "2025-07-16 15:18:30 +0800"
     },
     "done": true
   },
@@ -1774,51 +1378,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_magenta_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-07-16 14:47:17 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/block_cutter/walls/quartz_brick_wall": {
-    "criteria": {
-      "has_quartz_bricks": "2025-07-16 15:16:58 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/shaped/stairs/quartz_bricks": {
-    "criteria": {
-      "has_quartz_bricks": "2025-07-16 15:16:58 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_magenta": {
-    "criteria": {
-      "has_dyes/black": "2025-07-16 14:47:17 +0800"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/glass_white": {
     "criteria": {
       "has_dyes/black": "2025-07-16 14:46:56 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
     },
     "done": true
   },
@@ -1828,105 +1390,81 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal_from_slab": {
-    "criteria": {
-      "has_treated_wood_horizontal": "2025-07-16 15:18:30 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/crate": {
-    "criteria": {
-      "has_treated_planks": "2025-07-16 15:18:30 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/shaped/walls/cut_quartz_block": {
-    "criteria": {
-      "has_cut_quartz_block": "2025-07-16 15:15:57 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_stairs": {
-    "criteria": {
-      "has_polished_cut_calcite": "2025-07-16 14:58:44 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/smooth_quartz_block": {
-    "criteria": {
-      "has_cut_quartz_block": "2025-07-16 15:15:57 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wooden_barrel": {
-    "criteria": {
-      "has_treated_planks": "2025-07-16 15:18:30 +0800"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/tables/scorched_forge": {
-    "criteria": {
-      "has_item": "2025-07-16 15:09:59 +0800"
-    },
-    "done": true
-  },
   "ad_astra:recipes/misc/small_white_industrial_lamp": {
     "criteria": {
       "has_small_white_industrial_lamp": "2025-07-16 14:46:56 +0800"
     },
     "done": true
   },
-  "ae2:recipes/misc/misc/deconstruction_certus_quartz_bricks": {
+  "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
-      "has_quartz_bricks": "2025-07-16 15:16:58 +0800"
+      "has_needed_dye": "2025-07-16 14:46:56 +0800"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_calcite_slab": {
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
-      "has_polished_cut_calcite": "2025-07-16 14:58:44 +0800"
+      "has_white_dye": "2025-07-16 14:46:56 +0800"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+  "ae2:recipes/misc/network/cables/smart_white": {
     "criteria": {
-      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
+      "has_dyes/black": "2025-07-16 14:46:56 +0800"
     },
     "done": true
   },
-  "createdeco:recipes/decorations/andesite_catwalk_stairs": {
+  "minecraft:recipes/decorations/white_candle": {
     "criteria": {
-      "has_item": "2025-07-16 14:48:46 +0800"
+      "has_white_dye": "2025-07-16 14:46:56 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_white": {
+    "criteria": {
+      "has_dyes/black": "2025-07-16 14:46:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-07-16 14:46:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-16 14:46:56 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_light_gray": {
+    "criteria": {
+      "has_dyes/black": "2025-07-16 14:46:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-16 14:46:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-07-16 14:46:57 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_gray_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-16 14:46:57 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_light_gray": {
+    "criteria": {
+      "has_dyes/black": "2025-07-16 14:46:57 +0800"
     },
     "done": true
   },
@@ -1942,51 +1480,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_pink_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-07-16 14:47:22 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/workbench": {
-    "criteria": {
-      "has_treated_planks": "2025-07-16 15:18:30 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/misc/deconstruction_cut_certus_quartz_block": {
-    "criteria": {
-      "has_cut_quartz_block": "2025-07-16 15:15:57 +0800"
-    },
-    "done": true
-  },
   "ad_astra:recipes/misc/small_light_gray_industrial_lamp": {
     "criteria": {
       "has_small_light_gray_industrial_lamp": "2025-07-16 14:46:57 +0800"
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst": {
+  "supplementaries:recipes/candle_holders/candle_holder_light_gray_dye": {
     "criteria": {
-      "has_item": "2025-07-16 15:09:59 +0800"
+      "forge:dyes/light_gray": "2025-07-16 14:46:57 +0800"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_covered_pink": {
+  "ad_astra:recipes/misc/light_gray_industrial_lamp": {
     "criteria": {
-      "has_dyes/black": "2025-07-16 14:47:22 +0800"
+      "has_light_gray_industrial_lamp": "2025-07-16 14:46:57 +0800"
     },
     "done": true
   },
-  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
     "criteria": {
-      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+      "has_needed_dye": "2025-07-16 14:46:57 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_light_gray": {
+    "criteria": {
+      "has_dyes/black": "2025-07-16 14:46:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-16 14:46:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-16 14:47:17 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_magenta_industrial_lamp": {
+    "criteria": {
+      "has_small_magenta_industrial_lamp": "2025-07-16 14:47:17 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_magenta_dye": {
+    "criteria": {
+      "forge:dyes/magenta": "2025-07-16 14:47:17 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_magenta": {
+    "criteria": {
+      "has_dyes/black": "2025-07-16 14:47:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-16 14:47:17 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_magenta": {
+    "criteria": {
+      "has_dyes/black": "2025-07-16 14:47:17 +0800"
     },
     "done": true
   },
@@ -1996,9 +1558,195 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_white_bed": {
+  "ad_astra:recipes/misc/magenta_industrial_lamp": {
     "criteria": {
-      "has_needed_dye": "2025-07-16 14:46:56 +0800"
+      "has_magenta_industrial_lamp": "2025-07-16 14:47:17 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_magenta": {
+    "criteria": {
+      "has_dyes/black": "2025-07-16 14:47:17 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/magenta_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-16 14:47:17 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_magenta": {
+    "criteria": {
+      "has_dyes/black": "2025-07-16 14:47:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-16 14:47:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2025-07-16 14:47:17 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/pink_industrial_lamp": {
+    "criteria": {
+      "has_pink_industrial_lamp": "2025-07-16 14:47:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-07-16 14:47:22 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_pink": {
+    "criteria": {
+      "has_dyes/black": "2025-07-16 14:47:22 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_pink": {
+    "criteria": {
+      "has_dyes/black": "2025-07-16 14:47:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_pink_dye": "2025-07-16 14:47:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-16 14:47:22 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_pink": {
+    "criteria": {
+      "has_dyes/black": "2025-07-16 14:47:22 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_pink_industrial_lamp": {
+    "criteria": {
+      "has_small_pink_industrial_lamp": "2025-07-16 14:47:22 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/pink_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-16 14:47:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-16 14:47:22 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_pink_dye": {
+    "criteria": {
+      "forge:dyes/pink": "2025-07-16 14:47:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-16 14:47:22 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_pink": {
+    "criteria": {
+      "has_dyes/black": "2025-07-16 14:47:22 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_catwalk_stairs": {
+    "criteria": {
+      "has_item": "2025-07-16 14:48:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs": {
+    "criteria": {
+      "has_polished_cut_calcite": "2025-07-16 14:58:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab": {
+    "criteria": {
+      "has_polished_cut_calcite": "2025-07-16 14:58:44 +0800"
     },
     "done": true
   },
@@ -2008,9 +1756,123 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/magenta_industrial_lamp": {
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
-      "has_magenta_industrial_lamp": "2025-07-16 14:47:17 +0800"
+      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall": {
+    "criteria": {
+      "has_polished_cut_calcite": "2025-07-16 14:58:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_slab": {
+    "criteria": {
+      "has_small_ochrum_bricks": "2025-07-16 15:07:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_stairs": {
+    "criteria": {
+      "has_small_ochrum_bricks": "2025-07-16 15:07:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
     },
     "done": true
   },
@@ -2020,9 +1882,75 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/treated_wood_vertical_from_horizontal": {
+  "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
-      "has_treated_wood_horizontal": "2025-07-16 15:18:30 +0800"
+      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_wall": {
+    "criteria": {
+      "has_small_ochrum_bricks": "2025-07-16 15:07:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_stairs": {
+    "criteria": {
+      "has_polished_cut_ochrum": "2025-07-16 15:07:49 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_slab": {
+    "criteria": {
+      "has_polished_cut_ochrum": "2025-07-16 15:07:49 +0800"
     },
     "done": true
   },
@@ -2032,15 +1960,273 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/decorative/certus_quartz_bricks_from_stonecutting": {
+  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs": {
+    "criteria": {
+      "has_polished_cut_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab": {
+    "criteria": {
+      "has_polished_cut_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_wall": {
+    "criteria": {
+      "has_polished_cut_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/scorched_anvil": {
+    "criteria": {
+      "has_item": "2025-07-16 15:09:59 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_hull": {
+    "criteria": {
+      "has_item": "2025-07-16 15:09:59 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-07-16 15:09:59 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/tinkers_anvil": {
+    "criteria": {
+      "has_item": "2025-07-16 15:09:59 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/scorched_forge": {
+    "criteria": {
+      "has_item": "2025-07-16 15:09:59 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst": {
+    "criteria": {
+      "has_item": "2025-07-16 15:09:59 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-16 15:09:59 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/tinkers_forge": {
+    "criteria": {
+      "has_item": "2025-07-16 15:09:59 +0800"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-07-16 15:13:00 +0800"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/misc/slicer": {
+    "criteria": {
+      "has_mixer": "2025-07-16 15:13:08 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/track_switch_brass": {
+    "criteria": {
+      "has_item": "2025-07-16 15:14:13 +0800"
+    },
+    "done": true
+  },
+  "deepdrilling:recipes/misc/drill_core": {
+    "criteria": {
+      "has_ingredient": "2025-07-16 15:14:13 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/remote_lens": {
+    "criteria": {
+      "has_item": "2025-07-16 15:14:13 +0800"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-07-16 15:14:13 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/certus_quartz_bricks": {
     "criteria": {
       "has_cut_quartz_block": "2025-07-16 15:15:57 +0800"
     },
     "done": true
   },
-  "ad_astra:recipes/misc/small_pink_industrial_lamp": {
+  "ae2:recipes/misc/block_cutter/walls/cut_quartz_wall": {
     "criteria": {
-      "has_small_pink_industrial_lamp": "2025-07-16 14:47:22 +0800"
+      "has_cut_quartz_block": "2025-07-16 15:15:57 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/chiseled_quartz_block_from_stonecutting": {
+    "criteria": {
+      "has_cut_quartz_block": "2025-07-16 15:15:57 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/cut_quartz_block": {
+    "criteria": {
+      "has_cut_quartz_block": "2025-07-16 15:15:57 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/cut_quartz_stairs": {
+    "criteria": {
+      "has_cut_quartz_block": "2025-07-16 15:15:57 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/cut_quartz_block": {
+    "criteria": {
+      "has_cut_quartz_block": "2025-07-16 15:15:57 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/smooth_quartz_block": {
+    "criteria": {
+      "has_cut_quartz_block": "2025-07-16 15:15:57 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/deconstruction_cut_certus_quartz_block": {
+    "criteria": {
+      "has_cut_quartz_block": "2025-07-16 15:15:57 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/certus_quartz_bricks_from_stonecutting": {
+    "criteria": {
+      "has_cut_quartz_block": "2025-07-16 15:15:57 +0800"
     },
     "done": true
   },
@@ -2062,57 +2248,27 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/block_cutter/slabs/quartz_brick_slab": {
+  "ae2:recipes/misc/decorative/certus_quartz_pillar_from_stonecutting": {
     "criteria": {
-      "has_quartz_bricks": "2025-07-16 15:16:58 +0800"
+      "has_cut_quartz_block": "2025-07-16 15:15:57 +0800"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
     "criteria": {
-      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+      "has_quartz_block": "2025-07-16 15:15:58 +0800"
     },
     "done": true
   },
-  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
     "criteria": {
-      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
+      "has_quartz_block": "2025-07-16 15:15:58 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
     "criteria": {
-      "has_white_dye": "2025-07-16 14:46:56 +0800"
-    },
-    "done": true
-  },
-  "sliceanddice:recipes/misc/slicer": {
-    "criteria": {
-      "has_mixer": "2025-07-16 15:13:08 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_light_gray_dye": {
-    "criteria": {
-      "forge:dyes/light_gray": "2025-07-16 14:46:57 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/light_gray_industrial_lamp": {
-    "criteria": {
-      "has_light_gray_industrial_lamp": "2025-07-16 14:46:57 +0800"
+      "has_quartz_block": "2025-07-16 15:15:58 +0800"
     },
     "done": true
   },
@@ -2122,111 +2278,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_magenta": {
-    "criteria": {
-      "has_dyes/black": "2025-07-16 14:47:17 +0800"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/shaped/stairs/quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-07-16 15:15:58 +0800"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/magenta_placard_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-07-16 14:47:17 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_white": {
-    "criteria": {
-      "has_dyes/black": "2025-07-16 14:46:56 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-07-16 14:46:57 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_wallmount": {
-    "criteria": {
-      "has_treated_planks": "2025-07-16 15:18:30 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/certus_quartz_pillar_from_stonecutting": {
-    "criteria": {
-      "has_cut_quartz_block": "2025-07-16 15:15:57 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/stairs_treated_wood_horizontal": {
-    "criteria": {
-      "has_treated_wood_horizontal": "2025-07-16 15:18:30 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/brass_hull_from_stonecutting": {
-    "criteria": {
-      "has_item": "2025-07-16 15:09:59 +0800"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/pink_placard_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-07-16 14:47:22 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
     },
     "done": true
   },
@@ -2242,198 +2296,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_pink_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-07-16 14:47:22 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_candle": {
-    "criteria": {
-      "has_white_dye": "2025-07-16 14:46:56 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_light_gray": {
-    "criteria": {
-      "has_dyes/black": "2025-07-16 14:46:57 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/ochrum_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_pink_dye": {
-    "criteria": {
-      "forge:dyes/pink": "2025-07-16 14:47:22 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-07-16 14:47:22 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_white": {
-    "criteria": {
-      "has_dyes/black": "2025-07-16 14:46:56 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_pink": {
-    "criteria": {
-      "has_dyes/black": "2025-07-16 14:47:22 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_magenta": {
-    "criteria": {
-      "has_dyes/black": "2025-07-16 14:47:17 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_white_dye": "2025-07-16 14:46:56 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal_to_slab": {
-    "criteria": {
-      "has_treated_wood_horizontal": "2025-07-16 15:18:30 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-07-16 14:46:57 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_scaffold": {
-    "criteria": {
-      "has_treated_planks": "2025-07-16 15:18:30 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_wall": {
-    "criteria": {
-      "has_polished_cut_calcite": "2025-07-16 14:58:44 +0800"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/remote_lens": {
-    "criteria": {
-      "has_item": "2025-07-16 15:14:13 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_deepslate_wall": {
-    "criteria": {
-      "has_polished_cut_deepslate": "2025-07-16 15:08:08 +0800"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/tables/tinkers_forge": {
-    "criteria": {
-      "has_item": "2025-07-16 15:09:59 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/shaped/slabs/quartz_bricks": {
-    "criteria": {
-      "has_quartz_bricks": "2025-07-16 15:16:58 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-07-16 14:58:44 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-07-16 14:47:17 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_post": {
-    "criteria": {
-      "has_treated_fence": "2025-07-16 15:18:28 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-07-16 14:46:56 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_ochrum_brick_wall": {
-    "criteria": {
-      "has_small_ochrum_bricks": "2025-07-16 15:07:46 +0800"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/decorative/cut_quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-07-16 15:15:58 +0800"
@@ -2446,27 +2308,165 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+  "ae2:recipes/misc/block_cutter/stairs/quartz_brick_stairs": {
     "criteria": {
-      "has_stone_types_deepslate": "2025-07-16 15:08:08 +0800"
+      "has_quartz_bricks": "2025-07-16 15:16:58 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+  "ae2:recipes/misc/shaped/walls/quartz_bricks": {
     "criteria": {
-      "has_magenta_dye": "2025-07-16 14:47:17 +0800"
+      "has_quartz_bricks": "2025-07-16 15:16:58 +0800"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+  "ae2:recipes/misc/block_cutter/walls/quartz_brick_wall": {
     "criteria": {
-      "has_stone_types_ochrum": "2025-07-16 15:07:46 +0800"
+      "has_quartz_bricks": "2025-07-16 15:16:58 +0800"
     },
     "done": true
   },
-  "create:precision_mechanism": {
+  "ae2:recipes/misc/shaped/stairs/quartz_bricks": {
     "criteria": {
-      "0": "2025-07-16 15:14:13 +0800"
+      "has_quartz_bricks": "2025-07-16 15:16:58 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/deconstruction_certus_quartz_bricks": {
+    "criteria": {
+      "has_quartz_bricks": "2025-07-16 15:16:58 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/quartz_brick_slab": {
+    "criteria": {
+      "has_quartz_bricks": "2025-07-16 15:16:58 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/quartz_bricks": {
+    "criteria": {
+      "has_quartz_bricks": "2025-07-16 15:16:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_post": {
+    "criteria": {
+      "has_treated_fence": "2025-07-16 15:18:28 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/waterwheel_segment": {
+    "criteria": {
+      "has_treated_planks": "2025-07-16 15:18:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/windmill_blade": {
+    "criteria": {
+      "has_treated_planks": "2025-07-16 15:18:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/craftingtable": {
+    "criteria": {
+      "has_treated_planks": "2025-07-16 15:18:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_lv": {
+    "criteria": {
+      "has_treated_planks": "2025-07-16 15:18:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_mv": {
+    "criteria": {
+      "has_treated_planks": "2025-07-16 15:18:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_hv": {
+    "criteria": {
+      "has_treated_planks": "2025-07-16 15:18:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_fence": {
+    "criteria": {
+      "has_treated_planks": "2025-07-16 15:18:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_treated": {
+    "criteria": {
+      "has_treated_planks": "2025-07-16 15:18:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_treatedwood": {
+    "criteria": {
+      "has_item": "2025-07-16 15:18:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/reinforced_crate": {
+    "criteria": {
+      "has_treated_planks": "2025-07-16 15:18:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal_from_slab": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2025-07-16 15:18:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/crate": {
+    "criteria": {
+      "has_treated_planks": "2025-07-16 15:18:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wooden_barrel": {
+    "criteria": {
+      "has_treated_planks": "2025-07-16 15:18:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/workbench": {
+    "criteria": {
+      "has_treated_planks": "2025-07-16 15:18:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_vertical_from_horizontal": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2025-07-16 15:18:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wallmount": {
+    "criteria": {
+      "has_treated_planks": "2025-07-16 15:18:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stairs_treated_wood_horizontal": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2025-07-16 15:18:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal_to_slab": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2025-07-16 15:18:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_scaffold": {
+    "criteria": {
+      "has_treated_planks": "2025-07-16 15:18:30 +0800"
     },
     "done": true
   },
