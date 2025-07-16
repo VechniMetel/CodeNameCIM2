@@ -2470,6 +2470,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/rose_quartz_tilesfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-07-16 21:43:39 +0800"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/orange_industrial_lamp": {
     "criteria": {
       "has_orange_industrial_lamp": "2025-07-16 21:57:08 +0800"
@@ -2488,27 +2494,9 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/red_industrial_lamp": {
-    "criteria": {
-      "has_red_industrial_lamp": "2025-07-16 21:58:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_light_blue_dye": "2025-07-16 21:57:11 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_orange_bed": {
     "criteria": {
       "has_needed_dye": "2025-07-16 21:57:08 +0800"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/red_placard_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-07-16 21:58:04 +0800"
     },
     "done": true
   },
@@ -2530,21 +2518,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/glass_light_blue": {
-    "criteria": {
-      "has_dyes/black": "2025-07-16 21:57:11 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/orange_placard_from_dyeing": {
     "criteria": {
       "has_dye": "2025-07-16 21:57:08 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-07-16 21:58:04 +0800"
     },
     "done": true
   },
@@ -2560,15 +2536,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
     "criteria": {
-      "has_needed_dye": "2025-07-16 21:57:11 +0800"
+      "has_needed_dye": "2025-07-16 21:57:08 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_candle": {
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
     "criteria": {
-      "has_red_dye": "2025-07-16 21:58:04 +0800"
+      "has_needed_dye": "2025-07-16 21:57:08 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-07-16 21:57:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_blue_dye": "2025-07-16 21:57:11 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_light_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-07-16 21:57:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-16 21:57:11 +0800"
     },
     "done": true
   },
@@ -2584,51 +2584,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_orange_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-07-16 21:57:08 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/rose_quartz_tilesfrom_conversion": {
-    "criteria": {
-      "has_item": "2025-07-16 21:43:39 +0800"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/dense_covered_light_blue": {
     "criteria": {
       "has_dyes/black": "2025-07-16 21:57:11 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
-    "criteria": {
-      "forge:dyes/red": "2025-07-16 21:58:04 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_red": {
-    "criteria": {
-      "has_dyes/black": "2025-07-16 21:58:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-07-16 21:58:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-07-16 21:58:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_red_dye": "2025-07-16 21:58:04 +0800"
     },
     "done": true
   },
@@ -2662,15 +2620,75 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_smart_red": {
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-16 21:57:11 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_light_blue_industrial_lamp": {
+    "criteria": {
+      "has_small_light_blue_industrial_lamp": "2025-07-16 21:57:11 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/red_industrial_lamp": {
+    "criteria": {
+      "has_red_industrial_lamp": "2025-07-16 21:58:04 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-16 21:58:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-16 21:58:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-07-16 21:58:04 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
+    "criteria": {
+      "forge:dyes/red": "2025-07-16 21:58:04 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_red": {
     "criteria": {
       "has_dyes/black": "2025-07-16 21:58:04 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+  "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
-      "has_needed_dye": "2025-07-16 21:57:08 +0800"
+      "has_needed_dye": "2025-07-16 21:58:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-16 21:58:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-07-16 21:58:04 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_red": {
+    "criteria": {
+      "has_dyes/black": "2025-07-16 21:58:04 +0800"
     },
     "done": true
   },
@@ -2686,33 +2704,15 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_covered_orange": {
-    "criteria": {
-      "has_dyes/black": "2025-07-16 21:57:08 +0800"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/toolbox": {
     "criteria": {
       "has_red_dye": "2025-07-16 21:58:04 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-07-16 21:57:11 +0800"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/glass_red": {
     "criteria": {
       "has_dyes/black": "2025-07-16 21:58:04 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/small_light_blue_industrial_lamp": {
-    "criteria": {
-      "has_small_light_blue_industrial_lamp": "2025-07-16 21:57:11 +0800"
     },
     "done": true
   },
