@@ -4692,231 +4692,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-07-17 22:12:09 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-17 21:41:57 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/connector_mv_relay": {
-    "criteria": {
-      "has_electrum_ingot": "2025-07-17 21:25:04 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/storage_electrum_from_slab": {
-    "criteria": {
-      "has_storage_electrum": "2025-07-17 20:38:30 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/plate_lead_hammering": {
-    "criteria": {
-      "has_lead_ingot": "2025-07-17 21:12:58 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/conveyor_dropper": {
-    "criteria": {
-      "has_conveyor": "2025-07-17 21:11:13 +0800"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "chorus_flower": "2025-07-17 21:51:04 +0800"
-    },
-    "done": false
-  },
-  "immersiveengineering:recipes/misc/smelting/lead_red": {
-    "criteria": {
-      "has_lead": "2025-07-17 21:12:58 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap_block_uncrafting": {
-    "criteria": {
-      "has_soap_block": "2025-07-17 22:11:59 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/storage_lead_to_ingot_lead": {
-    "criteria": {
-      "has_storage_lead": "2025-07-17 21:12:58 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-17 21:41:57 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_purpur_block": "2025-07-17 22:12:09 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-07-17 22:12:09 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/conveyor_extract": {
-    "criteria": {
-      "has_conveyor": "2025-07-17 21:11:13 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_purpur_block": "2025-07-17 22:12:09 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/ingot_lead_to_storage_lead": {
-    "criteria": {
-      "has_ingot_lead": "2025-07-17 21:12:58 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-07-17 22:12:09 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/conveyor_vertical": {
-    "criteria": {
-      "has_conveyor": "2025-07-17 21:11:13 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_slab": {
-    "criteria": {
-      "has_purpur_block": "2025-07-17 22:12:09 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-07-17 21:41:57 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-07-17 21:45:53 +0800"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/brake": {
-    "criteria": {
-      "has_item": "2025-07-17 21:44:19 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/lapis_brick_wall": {
-    "criteria": {
-      "has_lapis_bricks": "2025-07-17 22:11:53 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-07-17 21:44:19 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/survey_tools": {
-    "criteria": {
-      "has_hammer": "2025-07-17 21:11:29 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wire_lead": {
-    "criteria": {
-      "has_lead_ingot": "2025-07-17 21:12:58 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/item_batcher": {
-    "criteria": {
-      "has_conveyor_basic": "2025-07-17 21:11:13 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-17 21:41:57 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:multiblocks/mb_metalpress": {
-    "criteria": {
-      "form_multiblock": "2025-07-17 21:11:33 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/conveyor_splitter": {
-    "criteria": {
-      "has_conveyor": "2025-07-17 21:11:13 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/connector_mv": {
-    "criteria": {
-      "has_electrum_ingot": "2025-07-17 21:25:04 +0800"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/sheetmetal_electrum_to_slab": {
     "criteria": {
       "has_sheetmetal_electrum": "2025-07-17 20:37:33 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/cog_block": {
-    "criteria": {
-      "has_redstone_block": "2025-07-17 21:45:53 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/end_stone_lamp": {
-    "criteria": {
-      "has_end_stone": "2025-07-17 21:41:57 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wire_electrum": {
-    "criteria": {
-      "has_electrum_ingot": "2025-07-17 21:25:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-07-17 20:42:19 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_pillar": {
-    "criteria": {
-      "has_purpur_block": "2025-07-17 22:12:09 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-07-17 21:55:55 +0800"
     },
     "done": true
   },
@@ -4926,63 +4704,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/drill": {
+  "immersiveengineering:recipes/misc/crafting/storage_electrum_from_slab": {
     "criteria": {
-      "has_heavy_engineering": "2025-07-17 21:16:51 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/conveyor_basic_covered": {
-    "criteria": {
-      "has_vertical_conveyor": "2025-07-17 21:11:13 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap/piston": {
-    "criteria": {
-      "has_sticky_piston": "2025-07-17 21:45:52 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/stonecutting/lapis_brick_stairs_from_bricks": {
-    "criteria": {
-      "has_lapis_bricks": "2025-07-17 22:11:53 +0800"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-07-17 21:44:19 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:main/craft_hammer": {
-    "criteria": {
-      "has_item": "2025-07-17 21:11:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_stairs": {
-    "criteria": {
-      "has_purpur_block": "2025-07-17 22:12:09 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wirecoil_electrum": {
-    "criteria": {
-      "has_electrum_ingot": "2025-07-17 21:25:04 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sorter": {
-    "criteria": {
-      "has_conveyor_basic": "2025-07-17 21:11:13 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-07-17 22:12:09 +0800"
+      "has_storage_electrum": "2025-07-17 20:38:30 +0800"
     },
     "done": true
   },
@@ -4992,9 +4716,141 @@
     },
     "done": true
   },
-  "supplementaries:recipes/lapis_brick_slab": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "has_lapis_bricks": "2025-07-17 22:11:53 +0800"
+      "has_redstone_torch": "2025-07-17 20:42:19 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/conveyor_dropper": {
+    "criteria": {
+      "has_conveyor": "2025-07-17 21:11:13 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/conveyor_extract": {
+    "criteria": {
+      "has_conveyor": "2025-07-17 21:11:13 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/conveyor_vertical": {
+    "criteria": {
+      "has_conveyor": "2025-07-17 21:11:13 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/item_batcher": {
+    "criteria": {
+      "has_conveyor_basic": "2025-07-17 21:11:13 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/conveyor_splitter": {
+    "criteria": {
+      "has_conveyor": "2025-07-17 21:11:13 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/conveyor_basic_covered": {
+    "criteria": {
+      "has_vertical_conveyor": "2025-07-17 21:11:13 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sorter": {
+    "criteria": {
+      "has_conveyor_basic": "2025-07-17 21:11:13 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/conveyor_redstone": {
+    "criteria": {
+      "has_conveyor": "2025-07-17 21:11:13 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/place_conveyor": {
+    "criteria": {
+      "conveyor_basic": "2025-07-17 21:11:15 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/survey_tools": {
+    "criteria": {
+      "has_hammer": "2025-07-17 21:11:29 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2025-07-17 21:11:29 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/mb_metalpress": {
+    "criteria": {
+      "form_multiblock": "2025-07-17 21:11:33 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_lead_hammering": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-17 21:12:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/lead_red": {
+    "criteria": {
+      "has_lead": "2025-07-17 21:12:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_lead_to_ingot_lead": {
+    "criteria": {
+      "has_storage_lead": "2025-07-17 21:12:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_lead_to_storage_lead": {
+    "criteria": {
+      "has_ingot_lead": "2025-07-17 21:12:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_lead": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-17 21:12:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/drill": {
+    "criteria": {
+      "has_heavy_engineering": "2025-07-17 21:16:51 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_mv_relay": {
+    "criteria": {
+      "has_electrum_ingot": "2025-07-17 21:25:04 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_mv": {
+    "criteria": {
+      "has_electrum_ingot": "2025-07-17 21:25:04 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_electrum": {
+    "criteria": {
+      "has_electrum_ingot": "2025-07-17 21:25:04 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_electrum": {
+    "criteria": {
+      "has_electrum_ingot": "2025-07-17 21:25:04 +0800"
     },
     "done": true
   },
@@ -5004,21 +4860,117 @@
     },
     "done": true
   },
-  "supplementaries:recipes/lapis_brick_stairs": {
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-17 21:41:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-17 21:41:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-07-17 21:41:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-17 21:41:57 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_end_stone": "2025-07-17 21:41:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-17 21:41:57 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/brake": {
+    "criteria": {
+      "has_item": "2025-07-17 21:44:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-07-17 21:44:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-17 21:44:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-17 21:44:19 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-07-17 21:45:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-17 21:45:53 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_redstone_block": "2025-07-17 21:45:53 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "chorus_flower": "2025-07-17 21:51:04 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-07-17 21:55:55 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_brick_wall": {
     "criteria": {
       "has_lapis_bricks": "2025-07-17 22:11:53 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+  "supplementaries:recipes/stonecutting/lapis_brick_stairs_from_bricks": {
     "criteria": {
-      "has_end_stone_brick": "2025-07-17 22:12:09 +0800"
+      "has_lapis_bricks": "2025-07-17 22:11:53 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+  "supplementaries:recipes/lapis_brick_slab": {
     "criteria": {
-      "has_end_stone_brick": "2025-07-17 22:12:09 +0800"
+      "has_lapis_bricks": "2025-07-17 22:11:53 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_brick_stairs": {
+    "criteria": {
+      "has_lapis_bricks": "2025-07-17 22:11:53 +0800"
     },
     "done": true
   },
@@ -5034,9 +4986,75 @@
     },
     "done": true
   },
-  "immersiveengineering:main/place_conveyor": {
+  "supplementaries:recipes/soap_block_uncrafting": {
     "criteria": {
-      "conveyor_basic": "2025-07-17 21:11:15 +0800"
+      "has_soap_block": "2025-07-17 22:11:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-07-17 22:12:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-17 22:12:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-07-17 22:12:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-17 22:12:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-07-17 22:12:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-07-17 22:12:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-07-17 22:12:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-07-17 22:12:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-07-17 22:12:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-07-17 22:12:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-07-17 22:12:09 +0800"
     },
     "done": true
   },
@@ -5046,21 +5064,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "has_obsidian": "2025-07-17 21:44:19 +0800"
+      "killed_something": "2025-07-17 23:00:48 +0800"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/conveyor_redstone": {
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
-      "has_conveyor": "2025-07-17 21:11:13 +0800"
+      "has_any_ingredient": "2025-07-17 23:00:49 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
-      "has_end_stone": "2025-07-17 21:41:57 +0800"
+      "has_cod": "2025-07-17 23:00:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-07-17 23:00:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-07-17 23:00:49 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-17 23:00:49 +0800"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2025-07-17 23:01:08 +0800"
     },
     "done": true
   },
