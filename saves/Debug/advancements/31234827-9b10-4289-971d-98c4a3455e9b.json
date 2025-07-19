@@ -53653,5 +53653,11 @@
     },
     "done": true
   },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-07-20 00:12:59 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
