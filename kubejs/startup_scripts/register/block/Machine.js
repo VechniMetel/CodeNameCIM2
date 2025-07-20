@@ -12,6 +12,8 @@ StartupEvents.registry("block", (event) => {
 	addCustomMachine("steam_boiler")
 })
 
+/*
+
 MMEvents.registerControllers((event) => {
 	function addMMController(id) {
 		event.create(id)
@@ -40,3 +42,5 @@ MMEvents.registerPorts((event) => {
 				.columns(1)
 		})
 })
+
+*/

@@ -1,0 +1,11 @@
+{
+    "id": "large_steam_boiler_fluid",
+    "controllerIds": "mm:large_steam_boiler",
+    "name": " ",
+    "type": "mm:fluid",
+    "config": {
+      "rows": 1,
+      "columns": 1,
+      "slotCapacity": 10000
+    }
+  }

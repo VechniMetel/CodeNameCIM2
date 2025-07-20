@@ -1,0 +1,10 @@
+{
+    "id": "large_steam_boiler_item",
+    "controllerIds": "mm:large_steam_boiler",
+    "name": " ",
+    "type": "mm:item",
+    "config": {
+      "rows": 1,
+      "columns": 1
+    }
+  }
