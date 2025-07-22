@@ -53659,5 +53659,11 @@
     },
     "done": true
   },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2025-07-22 21:53:58 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
