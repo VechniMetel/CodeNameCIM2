@@ -46,7 +46,7 @@
 			],
 			"render_type": "minecraft:translucent",
 			"textures": {
-				"overlay": "cmi:block/machine/large_steam_bolier/fluid_o"
+				"overlay": "cmi:block/machine/output"
 			}
 		}
 	},
@@ -93,6 +93,6 @@
 	"loader": "forge:composite",
 	"textures": {
 		"all": "cmi:block/casing/bronze/block",
-		"particle": "cmi:block/machine/large_steam_bolier/fluid_o"
+		"particle": "cmi:block/machine/output"
 	}
 }
