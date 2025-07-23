@@ -29,6 +29,9 @@ StartupEvents.registry("painting_variant", (event) => {
 	// ⑨Dropper_QWQ⑨
 	addPainting("sacabambaspis", 32, 32)
 
+	//1174
+	addPainting("wt_aa", 64, 64)
+
 	//UE
 	addPainting("ue_sit", 32, 32)
 	addPainting("couple", 48, 48)
