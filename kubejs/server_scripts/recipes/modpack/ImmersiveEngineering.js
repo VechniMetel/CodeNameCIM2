@@ -109,6 +109,24 @@ ServerEvents.recipes((event) => {
 		"time": 300
 	})
 
+	// 聚烯烃
+	event.custom({
+		"type": "immersiveindustry:chemical",
+		"input_fluids": [
+			{
+				"tag": "forge:ethene",
+				"amount": 1000
+			}
+		],
+		"outputs": [
+			{
+				"item": "mekanism:hdpe_sheet",
+				"count": 1
+			}
+		],
+		"time": 200
+	})
+
 	// 钢锭
 	immersiveengineering.arc_furnace("#forge:ingots/steel")
 		.input("#forge:ingots/iron")
