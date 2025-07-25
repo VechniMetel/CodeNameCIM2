@@ -1,8 +1,0 @@
-{
-	"parent": "cmi:custom/am",
-	"textures": {
-		"all": "cmi:block/machine/ue/andesite_machine",
-		"particle": "create:block/andesite_casing",
-		"6": "cmi:block/machine/ue/andesite_machine"
-	}
-}

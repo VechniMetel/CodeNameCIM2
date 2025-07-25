@@ -187,6 +187,7 @@ ClientEvents.lang("zh_cn", (event) => {
 	addBlockLanguage("crucible_tuyere", "风口")
 	addBlockLanguage("bronze_casing", "青铜外壳")
 	addBlockLanguage("pressure_resistance_casing", "耐压外壳")
+	addBlockLanguage("usb_port", "USB接口")
 
 	for (let i = 1; i <= 14; i++) {
 		addPaintingLanguage(`rr${i}`, `Aleegos(${i})`, "Aleegos Reality Redemption")
@@ -196,6 +197,7 @@ ClientEvents.lang("zh_cn", (event) => {
 	addPaintingLanguage("random_mechanism", "随机构件", "随机构件")
 	addPaintingLanguage("qi_month", "榛名柒月", "榛名柒月")
 	addPaintingLanguage("sacabambaspis", "萨卡班甲鱼", "⑨Dropper_QWQ⑨")
+	addPaintingLanguage("attack_the_d_point", "进攻D点", "117458866249")
 
 	addAloneLanguage(`message.${global.namespace}.food.andesite_alloy_noodle`, "不咸不淡, 味道好极了")
 	addAloneLanguage(`jade.theme.${global.namespace}.stardew_valley`, "星露谷物语")
