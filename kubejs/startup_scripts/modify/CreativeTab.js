@@ -12,6 +12,7 @@ StartupEvents.modifyCreativeTab("kubejs:tab", (event) => {
 	event.remove("#create:incomplete_mechanisms")
 	event.remove(`#${global.namespace}:mechanism_parts`)
 	event.remove(`#${global.namespace}:mechanism_flash_drives`)
+	event.remove(`#${global.namespace}:usb_port`)
 	event.remove("#tconstruct:casts")
 	event.remove(`#${global.namespace}:metals`)
 	event.remove(`#${global.namespace}:ores`)

@@ -143,7 +143,4 @@ StartupEvents.registry("block", (event) => {
 		.tagBlock(global.toolType["pickaxe"])
 		.tagBlock("create:wrench_pickup")
 
-	//usb口
-	event.create(`${global.namespace}:usb_port`,"cardinal")
-		.soundType(SoundType.METAL)
 })

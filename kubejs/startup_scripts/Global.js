@@ -90,7 +90,8 @@ global.mechanismGroup = [
 	"colorful",
 	"creative",
 	"pigiron",
-	"potion"
+	"potion",
+	"bronze"
 ]
 // 所有金属(用于兼容性配方)
 global.metalGroup = [

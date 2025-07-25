@@ -1,7 +1,0 @@
-{
-	"parent": "minecraft:block/cube_column",
-	"textures": {
-		"end": "cmi:block/crucible/top",
-		"side": "cmi:block/crucible/tuyere"
-	}
-}
