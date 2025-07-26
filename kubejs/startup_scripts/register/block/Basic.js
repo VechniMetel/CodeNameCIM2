@@ -59,8 +59,10 @@ StartupEvents.registry("block", (event) => {
 		"precision",
 		"redstone"
 	]
+	//构件机器
 	machineBlockRegister.forEach((type) => {
 		event.create(`${global.namespace}:${type}_machine`, "cardinal")
+			.model(`${global.namespace}:block/machine/${type}_machine`)
 			.soundType(SoundType.METAL)
 			.model(`${global.namespace}:block/machine_block/${type}`)
 			.tagBlock(global.toolType["pickaxe"])
@@ -142,4 +144,5 @@ StartupEvents.registry("block", (event) => {
 		.resistance(5)
 		.tagBlock(global.toolType["pickaxe"])
 		.tagBlock("create:wrench_pickup")
+
 })

@@ -1,0 +1,9 @@
+{
+	"parent": "cmi:custom/em",
+	"textures": {
+		"all": "cmi:block/machine/ue/smart_machine",
+		"particle": "ae2:block/controller",
+		"1": "cmi:block/machine/ue/smart_machine"
+	},
+	"render_type": "cutout"
+}
