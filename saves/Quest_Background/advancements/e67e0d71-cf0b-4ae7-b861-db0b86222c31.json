@@ -6306,81 +6306,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "has_wool": "2025-07-19 14:59:17 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
-    "criteria": {
-      "has_wool": "2025-07-19 14:59:17 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/cyan_flag": {
-    "criteria": {
-      "has_cyan_flag": "2025-07-19 14:59:30 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_bed": {
-    "criteria": {
-      "has_cyan_wool": "2025-07-19 14:59:30 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_banner": {
-    "criteria": {
-      "has_cyan_wool": "2025-07-19 14:59:30 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-07-19 14:59:18 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_black": {
-    "criteria": {
-      "has_black_wool": "2025-07-19 14:59:47 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_carpet": {
-    "criteria": {
-      "has_yellow_wool": "2025-07-19 14:59:19 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_banner": {
-    "criteria": {
-      "has_blue_wool": "2025-07-19 14:59:17 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_white": {
-    "criteria": {
-      "has_white_wool": "2025-07-19 14:59:48 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/red_flag": {
-    "criteria": {
-      "has_red_flag": "2025-07-19 14:59:18 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
-    "criteria": {
-      "has_wool": "2025-07-19 14:59:17 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
-    "criteria": {
-      "has_wool": "2025-07-19 14:59:17 +0800"
+      "avoid_vibration": "2025-07-19 14:01:26 +0800"
     },
     "done": true
   },
@@ -6396,15 +6324,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_bed": {
+  "supplementaries:recipes/item_shelf": {
     "criteria": {
-      "has_yellow_wool": "2025-07-19 14:59:19 +0800"
+      "minecraft:wooden_slabs": "2025-07-19 14:48:55 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_bed": {
+  "supplementaries:recipes/jar": {
     "criteria": {
-      "has_lime_wool": "2025-07-19 14:59:33 +0800"
+      "minecraft:wooden_slabs": "2025-07-19 14:48:55 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-07-19 14:59:17 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-07-19 14:59:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-07-19 14:59:17 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-07-19 14:59:17 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-07-19 14:59:17 +0800"
     },
     "done": true
   },
@@ -6414,27 +6372,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2025-07-19 14:59:18 +0800"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2025-07-19 14:59:17 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_carpet": {
-    "criteria": {
-      "has_lime_wool": "2025-07-19 14:59:33 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_cyan": {
-    "criteria": {
-      "has_cyan_wool": "2025-07-19 14:59:30 +0800"
     },
     "done": true
   },
@@ -6444,39 +6384,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-07-19 14:01:26 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_red": {
-    "criteria": {
-      "has_red_wool": "2025-07-19 14:59:18 +0800"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/torch": {
     "criteria": {
       "has_wool": "2025-07-19 14:59:17 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-07-19 14:59:47 +0800"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2025-07-19 14:59:17 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-07-19 14:59:47 +0800"
     },
     "done": true
   },
@@ -6492,12 +6408,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/item_shelf": {
-    "criteria": {
-      "minecraft:wooden_slabs": "2025-07-19 14:48:55 +0800"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2025-07-19 14:59:17 +0800"
@@ -6507,30 +6417,6 @@
   "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2025-07-19 14:59:17 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_banner": {
-    "criteria": {
-      "has_lime_wool": "2025-07-19 14:59:33 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2025-07-19 14:59:48 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/lime_flag": {
-    "criteria": {
-      "has_lime_flag": "2025-07-19 14:59:33 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_bed": {
-    "criteria": {
-      "has_red_wool": "2025-07-19 14:59:18 +0800"
     },
     "done": true
   },
@@ -6552,39 +6438,9 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/yellow_flag": {
-    "criteria": {
-      "has_yellow_flag": "2025-07-19 14:59:19 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/white_flag": {
-    "criteria": {
-      "has_white_flag": "2025-07-19 14:59:48 +0800"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2025-07-19 14:59:17 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-07-19 14:59:47 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_carpet": {
-    "criteria": {
-      "has_cyan_wool": "2025-07-19 14:59:30 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2025-07-19 14:59:48 +0800"
     },
     "done": true
   },
@@ -6600,39 +6456,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2025-07-19 14:59:48 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_yellow": {
-    "criteria": {
-      "has_yellow_wool": "2025-07-19 14:59:19 +0800"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-07-19 14:59:17 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_banner": {
-    "criteria": {
-      "has_yellow_wool": "2025-07-19 14:59:19 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/black_flag": {
-    "criteria": {
-      "has_black_flag": "2025-07-19 14:59:47 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/jar": {
-    "criteria": {
-      "minecraft:wooden_slabs": "2025-07-19 14:48:55 +0800"
     },
     "done": true
   },
@@ -6648,9 +6474,309 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-07-19 14:59:18 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/red_flag": {
+    "criteria": {
+      "has_red_flag": "2025-07-19 14:59:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-07-19 14:59:18 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_red": {
+    "criteria": {
+      "has_red_wool": "2025-07-19 14:59:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-07-19 14:59:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-07-19 14:59:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-07-19 14:59:19 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/yellow_flag": {
+    "criteria": {
+      "has_yellow_flag": "2025-07-19 14:59:19 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2025-07-19 14:59:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-07-19 14:59:19 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/cyan_flag": {
+    "criteria": {
+      "has_cyan_flag": "2025-07-19 14:59:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-07-19 14:59:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-07-19 14:59:30 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-07-19 14:59:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-07-19 14:59:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2025-07-19 14:59:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2025-07-19 14:59:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2025-07-19 14:59:33 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/lime_flag": {
+    "criteria": {
+      "has_lime_flag": "2025-07-19 14:59:33 +0800"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_lime": {
     "criteria": {
       "has_lime_wool": "2025-07-19 14:59:33 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_black": {
+    "criteria": {
+      "has_black_wool": "2025-07-19 14:59:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-07-19 14:59:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-07-19 14:59:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-07-19 14:59:47 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/black_flag": {
+    "criteria": {
+      "has_black_flag": "2025-07-19 14:59:47 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-19 14:59:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-19 14:59:48 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/white_flag": {
+    "criteria": {
+      "has_white_flag": "2025-07-19 14:59:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-19 14:59:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-19 14:59:48 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/raw_cobalt_from_raw_block": {
+    "criteria": {
+      "has_item": "2025-07-26 21:51:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-26 22:28:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-26 22:28:04 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:ti_69": {
+    "criteria": {
+      "has_ti_69": "2025-07-26 22:30:56 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:tier_1_rocket": {
+    "criteria": {
+      "has_tier_1_rocket": "2025-07-26 22:31:09 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/nasa_workbench/nasa_workbench/tier_1_rocket_from_nasa_workbench": {
+    "criteria": {
+      "has_item": "2025-07-26 22:31:43 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:rocket_science": {
+    "criteria": {
+      "has_nasa_workbench": "2025-07-26 22:31:43 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/nasa_workbench/nasa_workbench/tier_2_rocket_from_nasa_workbench": {
+    "criteria": {
+      "has_item": "2025-07-26 22:31:43 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/nasa_workbench/nasa_workbench/tier_3_rocket_from_nasa_workbench": {
+    "criteria": {
+      "has_item": "2025-07-26 22:31:43 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/nasa_workbench/nasa_workbench/tier_4_rocket_from_nasa_workbench": {
+    "criteria": {
+      "has_item": "2025-07-26 22:31:43 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_pillar": {
+    "criteria": {
+      "has_iron_pillar": "2025-07-26 22:32:05 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plating_button": {
+    "criteria": {
+      "has_iron_plating_button": "2025-07-26 22:32:05 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plating_stairs": {
+    "criteria": {
+      "has_iron_plating_stairs": "2025-07-26 22:32:05 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plating_pressure_plate": {
+    "criteria": {
+      "has_iron_plating_pressure_plate": "2025-07-26 22:32:05 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plating_slab": {
+    "criteria": {
+      "has_iron_plating_slab": "2025-07-26 22:32:05 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_sliding_door": {
+    "criteria": {
+      "has_iron_sliding_door": "2025-07-26 22:32:05 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:ad_astra": {
+    "criteria": {
+      "has_coal_generator": "2025-07-26 23:15:27 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:carbon_footprint": {
+    "criteria": {
+      "has_coal_generator": "2025-07-26 23:15:27 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:under_pressure": {
+    "criteria": {
+      "has_compressor": "2025-07-26 23:15:28 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/alloying/alloying/steel_ingot_from_alloying_iron_ingot_and_coals": {
+    "criteria": {
+      "has_item": "2025-07-26 23:15:30 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:smart_blasting": {
+    "criteria": {
+      "has_etrionic_blast_furnace": "2025-07-26 23:15:30 +0800"
     },
     "done": true
   },
