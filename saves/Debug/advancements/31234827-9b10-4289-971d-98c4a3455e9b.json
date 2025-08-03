@@ -53665,5 +53665,11 @@
     },
     "done": true
   },
+  "constructionwand:recipes/misc/core_destruction": {
+    "criteria": {
+      "has_item": "2025-08-03 12:19:18 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
