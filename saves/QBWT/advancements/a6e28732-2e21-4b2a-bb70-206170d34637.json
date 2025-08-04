@@ -1481,15 +1481,27 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_smart_light_gray": {
+  "ad_astra:recipes/compressing/compressing/desh_plate_from_compressing_desh_blocks": {
     "criteria": {
-      "has_dyes/black": "2025-08-03 20:44:13 +0800"
+      "has_item": "2025-08-03 20:27:58 +0800"
     },
     "done": true
   },
-  "ad_astra:recipes/misc/glowing_ostrum_pillar": {
+  "ad_astra:recipes/misc/desh_ingot_from_desh_block": {
     "criteria": {
-      "has_glowing_ostrum_pillar": "2025-08-03 21:05:44 +0800"
+      "has_desh_ingot": "2025-08-03 20:27:58 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/glowing_desh_pillar": {
+    "criteria": {
+      "has_glowing_desh_pillar": "2025-08-03 20:28:18 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_light_gray": {
+    "criteria": {
+      "has_dyes/black": "2025-08-03 20:44:13 +0800"
     },
     "done": true
   },
@@ -1505,63 +1517,15 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/ostrum_plating_pressure_plate": {
-    "criteria": {
-      "has_ostrum_plating_pressure_plate": "2025-08-03 21:05:47 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/ostrum_plating_stairs": {
-    "criteria": {
-      "has_ostrum_plating_stairs": "2025-08-03 21:05:47 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/light_gray_placard_from_dyeing": {
     "criteria": {
       "has_dye": "2025-08-03 20:44:13 +0800"
     },
     "done": true
   },
-  "createdeco:recipes/decorations/copper_catwalk_stairs": {
-    "criteria": {
-      "has_item": "2025-08-03 20:48:32 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/glowing_desh_pillar": {
-    "criteria": {
-      "has_glowing_desh_pillar": "2025-08-03 20:28:18 +0800"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/brass_catwalk_stairs": {
-    "criteria": {
-      "has_item": "2025-08-03 20:51:15 +0800"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/smart_light_gray": {
     "criteria": {
       "has_dyes/black": "2025-08-03 20:44:13 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/compressing/compressing/ostrum_plate_from_compressing_ostrum_blocks": {
-    "criteria": {
-      "has_item": "2025-08-03 21:05:33 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/compressing/compressing/desh_plate_from_compressing_desh_blocks": {
-    "criteria": {
-      "has_item": "2025-08-03 20:27:58 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/ostrum_pillar": {
-    "criteria": {
-      "has_ostrum_pillar": "2025-08-03 21:05:47 +0800"
     },
     "done": true
   },
@@ -1589,21 +1553,9 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/ostrum_plating_slab": {
-    "criteria": {
-      "has_ostrum_plating_slab": "2025-08-03 21:05:47 +0800"
-    },
-    "done": true
-  },
   "ad_astra:recipes/misc/light_gray_industrial_lamp": {
     "criteria": {
       "has_light_gray_industrial_lamp": "2025-08-03 20:44:13 +0800"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/ostrum_ingot_from_ostrum_block": {
-    "criteria": {
-      "has_ostrum_ingot": "2025-08-03 21:05:33 +0800"
     },
     "done": true
   },
@@ -1619,21 +1571,177 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-03 20:44:13 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_stairs": {
+    "criteria": {
+      "has_item": "2025-08-03 20:48:32 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_catwalk_stairs": {
+    "criteria": {
+      "has_item": "2025-08-03 20:51:15 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/ostrum_plate_from_compressing_ostrum_blocks": {
+    "criteria": {
+      "has_item": "2025-08-03 21:05:33 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/ostrum_ingot_from_ostrum_block": {
+    "criteria": {
+      "has_ostrum_ingot": "2025-08-03 21:05:33 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/glowing_ostrum_pillar": {
+    "criteria": {
+      "has_glowing_ostrum_pillar": "2025-08-03 21:05:44 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/ostrum_plating_pressure_plate": {
+    "criteria": {
+      "has_ostrum_plating_pressure_plate": "2025-08-03 21:05:47 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/ostrum_plating_stairs": {
+    "criteria": {
+      "has_ostrum_plating_stairs": "2025-08-03 21:05:47 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/ostrum_pillar": {
+    "criteria": {
+      "has_ostrum_pillar": "2025-08-03 21:05:47 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/ostrum_plating_slab": {
+    "criteria": {
+      "has_ostrum_plating_slab": "2025-08-03 21:05:47 +0800"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/ostrum_plating_button": {
     "criteria": {
       "has_ostrum_plating_button": "2025-08-03 21:05:47 +0800"
     },
     "done": true
   },
-  "ad_astra:recipes/misc/desh_ingot_from_desh_block": {
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_desh_ingot": "2025-08-03 20:27:58 +0800"
+      "has_purple_dye": "2025-08-04 11:40:15 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+  "minecraft:recipes/decorations/purple_candle": {
     "criteria": {
-      "has_needed_dye": "2025-08-03 20:44:13 +0800"
+      "has_purple_dye": "2025-08-04 11:40:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-08-04 11:40:15 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/glowing_calorite_pillar": {
+    "criteria": {
+      "has_glowing_calorite_pillar": "2025-08-04 11:34:57 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_purple_industrial_lamp": {
+    "criteria": {
+      "has_small_purple_industrial_lamp": "2025-08-04 11:40:15 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/purple_industrial_lamp": {
+    "criteria": {
+      "has_purple_industrial_lamp": "2025-08-04 11:40:15 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-08-04 11:40:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-04 11:40:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-04 11:40:15 +0800"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-08-04 13:01:09 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-08-04 11:40:15 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/calorite_plate_from_compressing_calorite_blocks": {
+    "criteria": {
+      "has_item": "2025-08-04 11:35:00 +0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/calorite_ingot_from_calorite_block": {
+    "criteria": {
+      "has_calorite_ingot": "2025-08-04 11:35:00 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/purple_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-04 11:40:15 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-08-04 11:40:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-04 11:40:15 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-08-04 11:40:15 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_purple_dye": {
+    "criteria": {
+      "forge:dyes/purple": "2025-08-04 11:40:15 +0800"
     },
     "done": true
   },
