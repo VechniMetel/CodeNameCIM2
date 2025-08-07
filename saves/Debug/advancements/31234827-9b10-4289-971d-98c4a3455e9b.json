@@ -53671,5 +53671,47 @@
     },
     "done": true
   },
+  "constructionwand:recipes/tools/stone_wand": {
+    "criteria": {
+      "has_item": "2025-08-07 15:58:45 +0800",
+      "has_the_recipe": "2025-08-07 15:58:45 +0800"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2025-08-07 15:58:45 +0800",
+      "has_the_recipe": "2025-08-07 15:58:45 +0800"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/iron_wand": {
+    "criteria": {
+      "has_item": "2025-08-07 15:58:45 +0800",
+      "has_the_recipe": "2025-08-07 15:58:45 +0800"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-08-07 15:58:45 +0800",
+      "has_compass": "2025-08-07 15:58:45 +0800"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/infinity_wand": {
+    "criteria": {
+      "has_item": "2025-08-07 15:58:45 +0800",
+      "has_the_recipe": "2025-08-07 15:58:45 +0800"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2025-08-07 15:58:45 +0800",
+      "has_the_recipe": "2025-08-07 15:58:45 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
