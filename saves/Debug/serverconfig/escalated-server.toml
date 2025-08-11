@@ -1,0 +1,17 @@
+#.
+#[in blocks]
+#Range: 3 ~ 1024
+maxWalkwayLength = 128
+#.
+#[in blocks]
+#Range: 2 ~ 1024
+maxEscalatorHeight = 32
+#.
+#[in blocks]
+#Range: 1 ~ 256
+maxWalkwayWidth = 10
+#.
+#[in blocks]
+#Range: 1 ~ 256
+maxEscalatorWidth = 10
+
