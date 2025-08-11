@@ -54,7 +54,7 @@ BlockEvents.rightClicked("cmi:the_accelerator_of_mechanism_power", (event) => {
 					} else if (rand <= 0.25) {
 						event.level.getBlock(pos).set("ad_astra:moon_ice_shard_ore")
 					} else if (rand <= 0.3) {
-						event.level.getBlock(pos).set("ad_astra:moon_desh_ore")
+						event.level.getBlock(pos).set("thermal:steel_block")
 					}
 				} else if (block === "minecraft:deepslate") {
 					rand = Math.random()
@@ -63,7 +63,7 @@ BlockEvents.rightClicked("cmi:the_accelerator_of_mechanism_power", (event) => {
 					} else if (rand <= 0.25) {
 						event.level.getBlock(pos).set("minecraft:deepslate_iron_ore")
 					} else if (rand <= 0.35) {
-						event.level.getBlock(pos).set("create:deepslate_silver_ore")
+						event.level.getBlock(pos).set("thermal:deepslate_silver_ore")
 					}
 				}
 			}
