@@ -1,0 +1,9 @@
+#.
+#The Speed of a Package Delivery Drone in Blocks per Second. Default: 6
+#Range: > 1
+droneSpeed = 6
+#.
+#The Speed of the rotation of a Package Delivery Drone in degrees per Second. Default: 45
+#Range: > 1
+droneRotationSpeed = 45
+
