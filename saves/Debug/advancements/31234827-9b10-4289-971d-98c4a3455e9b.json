@@ -49974,15 +49974,15 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
-    "criteria": {
-      "has_item": "2025-08-19 17:43:08 +0800"
-    },
-    "done": true
-  },
   "cmi:start": {
     "criteria": {
       "0": "2025-08-19 17:41:37 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
+    "criteria": {
+      "has_item": "2025-08-19 17:43:08 +0800"
     },
     "done": true
   },
@@ -49991,6 +49991,18 @@
       "has_item": "2025-08-19 17:43:08 +0800"
     },
     "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-08-20 17:05:38 +0800"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-08-20 17:04:11 +0800"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
