@@ -50004,5 +50004,23 @@
     },
     "done": true
   },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-08-22 02:18:40 +0800"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/misc/sprinkler": {
+    "criteria": {
+      "has_pipe": "2025-08-22 02:19:31 +0800"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-08-22 02:19:31 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
