@@ -15309,9 +15309,10 @@
       "flint": "2025-03-17 23:57:42 +0800",
       "iron": "2025-03-17 23:57:42 +0800",
       "nahuatl": "2025-03-17 23:57:42 +0800",
+      "ichorskin": "2025-08-22 04:06:27 +0800",
       "chorus": "2025-03-17 23:57:42 +0800"
     },
-    "done": false
+    "done": true
   },
   "tconstruct:recipes/decorations/common/glass/yellow_clear_stained_glass_pane": {
     "criteria": {
@@ -49994,9 +49995,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2025-08-20 17:04:11 +0800"
+      "0": "2025-08-20 17:04:11 +0800",
+      "1": "2025-08-22 04:06:27 +0800"
     },
-    "done": false
+    "done": true
   },
   "create:shifting_gears": {
     "criteria": {
@@ -50019,6 +50021,3684 @@
   "copycats:recipes/crafting/copycat_fluid_pipe": {
     "criteria": {
       "has_item": "2025-08-22 02:19:31 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_slab_recycling": {
+    "criteria": {
+      "has_small_ochrum_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:great_publisher": {
+    "criteria": {
+      "book_copied": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_stairs": {
+    "criteria": {
+      "has_cut_deepslate_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs": {
+    "criteria": {
+      "has_cut_andesite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_acacia": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:clockwork_bearing": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/weathered_copper_shingle_slab_from_weathered_copper_shingles_stonecutting": {
+    "criteria": {
+      "has_weathered_copper_shingles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_wall": {
+    "criteria": {
+      "has_cut_diorite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_wall": {
+    "criteria": {
+      "has_cut_ochrum": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs": {
+    "criteria": {
+      "has_cut_diorite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/building_blocks/createdieselgenerators/sign_post_chip_wood": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_stairs": {
+    "criteria": {
+      "has_cut_scoria": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_wall": {
+    "criteria": {
+      "has_polished_cut_crimsite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_oxidized_copper_tile_slab_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_copper_tile_stairs_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_weathered_copper_shingles_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_exposed_copper_shingle_stairs_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oxidized_copper_shingle_stairs": {
+    "criteria": {
+      "has_oxidized_copper_shingles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:train_crash_backwards": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/exposed_copper_tile_stairs": {
+    "criteria": {
+      "has_exposed_copper_tiles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/link_and_pin": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox_from_gearbox": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_slab": {
+    "criteria": {
+      "has_cut_limestone": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:potato_cannon": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_recycling": {
+    "criteria": {
+      "has_small_tuff_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:chained_drain": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall": {
+    "criteria": {
+      "has_small_tuff_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_crimsite_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/building_blocks/ad_astra/sign_post_glacian": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_slab": {
+    "criteria": {
+      "has_cut_andesite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/weathered_copper_shingle_stairs": {
+    "criteria": {
+      "has_weathered_copper_shingles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/weathered_copper_shingle_slab": {
+    "criteria": {
+      "has_weathered_copper_shingles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_exposed_copper_shingle_slab_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_crimsite_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_slab": {
+    "criteria": {
+      "has_cut_scorchia_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oxidized_copper_tile_slab_from_oxidized_copper_tiles_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_oxidized_copper_tiles": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_slab": {
+    "criteria": {
+      "has_polished_cut_scoria": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs": {
+    "criteria": {
+      "has_small_granite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_slab": {
+    "criteria": {
+      "has_small_dripstone_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall": {
+    "criteria": {
+      "has_polished_cut_granite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_crimson": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_stairs": {
+    "criteria": {
+      "has_small_veridium_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:potato_cannon_collide": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_slab": {
+    "criteria": {
+      "has_cut_asurine": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/content_observer": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall": {
+    "criteria": {
+      "has_polished_cut_dripstone": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs": {
+    "criteria": {
+      "has_cut_calcite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/display_link": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:train_portal": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_stairs": {
+    "criteria": {
+      "has_polished_cut_scoria": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_wall": {
+    "criteria": {
+      "has_cut_crimsite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_dripstone_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:windmill_maxed": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_from_tiled_glass": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs": {
+    "criteria": {
+      "has_polished_cut_deepslate": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_wall": {
+    "criteria": {
+      "has_small_crimsite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/track_switch_andesite": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:fist_bump": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/orange_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_wall": {
+    "criteria": {
+      "has_cut_ochrum_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_deepslate_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_stairs": {
+    "criteria": {
+      "has_cut_asurine_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_stairs": {
+    "criteria": {
+      "has_cut_diorite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_recycler": {
+    "criteria": {
+      "experience_recycled": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall": {
+    "criteria": {
+      "has_cut_andesite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_stairs": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_cut_veridium": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_slab": {
+    "criteria": {
+      "has_small_ochrum_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_wall": {
+    "criteria": {
+      "has_polished_cut_asurine": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_oxidized_copper_shingles_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/tconstruct/sign_post_bloodshroom": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_stairs": {
+    "criteria": {
+      "has_small_crimsite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_dripstone_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_slab_recycling": {
+    "criteria": {
+      "has_cut_scoria_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_oxidized_copper_tile_stairs_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_ochrum_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs": {
+    "criteria": {
+      "has_cut_veridium_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_stairs": {
+    "criteria": {
+      "has_small_scorchia_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_stairs": {
+    "criteria": {
+      "has_polished_cut_limestone": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/purple_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_stairs": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_polished_cut_ochrum": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_stairs": {
+    "criteria": {
+      "has_cut_crimsite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_polished_cut_veridium": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:gone_with_the_foil": {
+    "criteria": {
+      "builtin": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/tconstruct/sign_post_skyroot": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:blazes_new_job": {
+    "criteria": {
+      "builtin": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall": {
+    "criteria": {
+      "has_cut_granite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/train_trapdoor": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/misc/industrial_iron_ingot_from_industrial_iron_block": {
+    "criteria": {
+      "has_industrial_iron_block": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab_recycling": {
+    "criteria": {
+      "has_cut_diorite_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall": {
+    "criteria": {
+      "has_cut_calcite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_recycling": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_polished_cut_andesite_slab": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_stairs": {
+    "criteria": {
+      "has_small_ochrum_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_slab_recycling": {
+    "criteria": {
+      "has_small_scoria_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_wall": {
+    "criteria": {
+      "has_cut_crimsite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_polished_cut_ochrum": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_wall": {
+    "criteria": {
+      "has_cut_granite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:track_crafting_factory": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs": {
+    "criteria": {
+      "has_polished_cut_dripstone": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_tuff_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_stairs": {
+    "criteria": {
+      "has_cut_scorchia": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/handcar": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/portable_fuel_interface": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:ejector_maxed": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs": {
+    "criteria": {
+      "has_polished_cut_andesite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:diving_suit": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab": {
+    "criteria": {
+      "has_polished_cut_deepslate": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_stairs": {
+    "criteria": {
+      "has_cut_deepslate": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_recycling": {
+    "criteria": {
+      "has_small_granite_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_pane_from_vertical_framed_glass_pane": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/inverted_gearshift_from_conversion": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:honey_drain": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_cherry": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:self_deploying": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:steam_engine_maxed": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_stairs": {
+    "criteria": {
+      "has_cut_andesite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_stairs": {
+    "criteria": {
+      "has_cut_limestone_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_weathered_copper_shingle_slab_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/building_blocks/ad_astra/sign_post_strophar": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_cut_calcite_bricks": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_slab_recycling": {
+    "criteria": {
+      "has_small_diorite_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_pane_from_framed_glass_pane": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_stairs": {
+    "criteria": {
+      "has_cut_ochrum": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall": {
+    "criteria": {
+      "has_small_andesite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/cyan_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_slab": {
+    "criteria": {
+      "has_cut_ochrum_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_slab": {
+    "criteria": {
+      "has_cut_scorchia": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_cut_calcite_bricks": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:train_roadkill": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oxidized_copper_tile_stairs_from_oxidized_copper_tiles_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_oxidized_copper_tiles": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_warped": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_wall": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_cut_veridium": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/mynethersdelight/sign_post_powdery": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_veridium_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_pane_from_horizontal_framed_glass_pane": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab": {
+    "criteria": {
+      "has_cut_dripstone": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/stressometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall": {
+    "criteria": {
+      "has_polished_cut_tuff": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall": {
+    "criteria": {
+      "has_cut_tuff": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:stressometer_maxed": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_stairs": {
+    "criteria": {
+      "has_cut_limestone": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:crafter_lazy_000": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingle_stairs": {
+    "criteria": {
+      "has_copper_shingles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_signal": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_wall": {
+    "criteria": {
+      "has_cut_limestone_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_granite_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_wall": {
+    "criteria": {
+      "has_polished_cut_limestone": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:fluid_fuel": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:hose_pulley": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_wall": {
+    "criteria": {
+      "has_small_asurine_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_table": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs": {
+    "criteria": {
+      "has_polished_cut_tuff": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:backtank": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_wall": {
+    "criteria": {
+      "has_small_scorchia_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_asurine_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/building_blocks/ad_astra/sign_post_aeronos": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_calcite_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_weathered_copper_shingle_stairs_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:arm_many_targets": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs": {
+    "criteria": {
+      "has_small_dripstone_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:red_signal": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/brass_gearbox": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/controls": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brown_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_recycling": {
+    "criteria": {
+      "has_cut_granite_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:long_travel": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/verdant_bricks": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/mangrove_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_oxidized_copper_shingle_slab_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab": {
+    "criteria": {
+      "has_small_tuff_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_slab": {
+    "criteria": {
+      "has_cut_diorite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_contact": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_slab_recycling": {
+    "criteria": {
+      "has_cut_scorchia_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_slab_recycling": {
+    "criteria": {
+      "has_small_deepslate_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/scarlet_bricks": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_recycling": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_cut_veridium_slab": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_cut_tuff_bricks": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab_recycling": {
+    "criteria": {
+      "has_cut_dripstone_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:emerging_brand": {
+    "criteria": {
+      "builtin": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_stairs": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_small_scoria_bricks": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_slab": {
+    "criteria": {
+      "has_cut_deepslate_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:arm_blaze_burner": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_copper_shingle_stairs_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oxidized_copper_shingle_stairs_from_oxidized_copper_shingles_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper_shingles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oxidized_copper_tile_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_oxidized_copper_tiles": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/warped_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab": {
+    "criteria": {
+      "has_cut_veridium_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_recycling": {
+    "criteria": {
+      "has_small_andesite_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_slab": {
+    "criteria": {
+      "has_cut_deepslate": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab": {
+    "criteria": {
+      "has_polished_cut_dripstone": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_slab_recycling": {
+    "criteria": {
+      "has_cut_limestone_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_trapdoor_from_conversion": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:copiable_mystery": {
+    "criteria": {
+      "builtin": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_slab_recycling": {
+    "criteria": {
+      "has_small_limestone_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_diorite_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab": {
+    "criteria": {
+      "has_polished_cut_diorite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_wall": {
+    "criteria": {
+      "has_small_limestone_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall": {
+    "criteria": {
+      "has_small_calcite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/small_buffer": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:pipe_organ": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz_tilesfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_slab": {
+    "criteria": {
+      "has_polished_cut_asurine": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_cut_dripstone_bricks": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_cut_scoria_bricks": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_wall": {
+    "criteria": {
+      "has_small_veridium_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_from_horizontal_framed_glass": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_deepslate_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_exposed_copper_tile_slab_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:train_casing_00": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_recycling": {
+    "criteria": {
+      "has_cut_calcite_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/exposed_copper_shingle_stairs": {
+    "criteria": {
+      "has_exposed_copper_shingles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/filter_clear": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_polished_cut_calcite": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab": {
+    "criteria": {
+      "has_small_granite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_slab": {
+    "criteria": {
+      "has_small_crimsite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/transportation/conductor_vent_from_industrial_iron_block_stonecutting": {
+    "criteria": {
+      "has_industrial_iron_block": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/lime_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/thermal/sign_post_rubberwood": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_slab_recycling": {
+    "criteria": {
+      "has_cut_asurine_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_wall": {
+    "criteria": {
+      "has_cut_asurine_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/white_sailfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:a_shower_experience": {
+    "criteria": {
+      "builtin": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab": {
+    "criteria": {
+      "has_small_veridium_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/pink_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_cut_tuff_bricks": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_weathered_copper_tiles_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oxidized_copper_shingle_slab_from_oxidized_copper_shingles_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper_shingles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/printer": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab": {
+    "criteria": {
+      "has_cut_andesite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:black_as_ink": {
+    "criteria": {
+      "have_bucket_of_ink": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_polished_cut_calcite": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/exposed_copper_tile_slab": {
+    "criteria": {
+      "has_exposed_copper_tiles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:extendo_grip": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_stairs": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_cut_scoria_bricks": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_wall": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_cut_scoria_bricks": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_slab": {
+    "criteria": {
+      "has_small_deepslate_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_polished_cut_veridium": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall": {
+    "criteria": {
+      "has_cut_veridium_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_small_scoria_bricks": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/exposed_copper_shingle_slab": {
+    "criteria": {
+      "has_exposed_copper_shingles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_slab": {
+    "criteria": {
+      "has_cut_crimsite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/umber_bricks": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/centrifugal_clutch": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_stairs": {
+    "criteria": {
+      "has_cut_crimsite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_limestone_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oxidized_copper_shingle_slab": {
+    "criteria": {
+      "has_oxidized_copper_shingles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_wall": {
+    "criteria": {
+      "has_cut_scorchia": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_wall": {
+    "criteria": {
+      "has_polished_cut_diorite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/schedule_clear": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/tconstruct/sign_post_greenheart": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:extendo_grip_dual": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/furnace_minecart_from_contraption_cart": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_slab": {
+    "criteria": {
+      "has_cut_asurine_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_cut_dripstone_bricks": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_slab_recycling": {
+    "criteria": {
+      "has_small_crimsite_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_slab_recycling": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_cut_ochrum_brick_slab": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_slab_recycling": {
+    "criteria": {
+      "has_small_asurine_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_stairs": {
+    "criteria": {
+      "has_polished_cut_granite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/magenta_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_bamboo": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:cart_pickup": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_copper_shingle_slab_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/weathered_copper_shingle_stairs_from_weathered_copper_shingles_stonecutting": {
+    "criteria": {
+      "has_weathered_copper_shingles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab": {
+    "criteria": {
+      "has_cut_granite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_limestone_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_blue_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/disenchanter": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_slab_from_steps": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_slab": {
+    "criteria": {
+      "has_small_limestone_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:long_train": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/item_silo_from_conversion": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_slab": {
+    "criteria": {
+      "has_cut_crimsite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab_recycling": {
+    "criteria": {
+      "has_small_veridium_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_wall": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_polished_cut_ochrum": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_granite_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_stairs": {
+    "criteria": {
+      "has_cut_dripstone": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tile_stairs": {
+    "criteria": {
+      "has_copper_tiles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_slab_recycling": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_cut_scorchia_brick_slab": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/minecart_from_contraption_cart": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_diorite_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_slab_recycling": {
+    "criteria": {
+      "has_cut_crimsite_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_oxidized_copper_shingle_stairs_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_stairs": {
+    "criteria": {
+      "has_cut_scorchia_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_weathered_copper_tile_slab_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:display_link": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tile_slab_from_copper_tiles_stonecutting": {
+    "criteria": {
+      "has_copper_tiles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab": {
+    "criteria": {
+      "has_cut_tuff": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:saw_processing": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimson_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/misc/slicer": {
+    "criteria": {
+      "has_tool": "2025-08-22 04:06:27 +0800",
+      "has_mixer": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/inverted_clutch_from_conversion": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_stairs": {
+    "criteria": {
+      "has_small_calcite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_recycling": {
+    "criteria": {
+      "has_small_calcite_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tile_slab": {
+    "criteria": {
+      "has_copper_tiles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_cut_tuff_bricks": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_stairs": {
+    "criteria": {
+      "has_small_deepslate_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:haunted_bell": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab": {
+    "criteria": {
+      "has_cut_diorite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_slab": {
+    "criteria": {
+      "has_polished_cut_crimsite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_slab_recycling": {
+    "criteria": {
+      "has_cut_andesite_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/dusk_bricks": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/clipboard_clear": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_andesite_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_observer": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_tuff_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "rechiseledcreate:recipes/misc/mechanical_chisel": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "recipe_condition": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_slab": {
+    "criteria": {
+      "has_small_asurine_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_wall": {
+    "criteria": {
+      "has_polished_cut_scorchia": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs": {
+    "criteria": {
+      "has_cut_granite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_copper_tiles_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_stairs": {
+    "criteria": {
+      "has_small_asurine_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_wall": {
+    "criteria": {
+      "has_cut_scoria": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_cut_veridium": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_mangrove": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:train_whistle": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_wall": {
+    "criteria": {
+      "has_cut_limestone": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs": {
+    "criteria": {
+      "has_polished_cut_diorite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall": {
+    "criteria": {
+      "has_polished_cut_andesite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/weathered_copper_tile_slab": {
+    "criteria": {
+      "has_weathered_copper_tiles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab": {
+    "criteria": {
+      "has_polished_cut_granite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/weathered_copper_tile_slab_from_weathered_copper_tiles_stonecutting": {
+    "criteria": {
+      "has_weathered_copper_tiles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_slab": {
+    "criteria": {
+      "has_cut_ochrum": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/exposed_copper_shingle_slab_from_exposed_copper_shingles_stonecutting": {
+    "criteria": {
+      "has_exposed_copper_shingles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall": {
+    "criteria": {
+      "has_cut_dripstone": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/attribute_filter_clear": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_wall": {
+    "criteria": {
+      "has_cut_scorchia_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:lava_wheel_00000": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "vintageimprovements:belt_grinder_skin_change": {
+    "criteria": {
+      "belt_grinder": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_calcite_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_asurine_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_wall": {
+    "criteria": {
+      "has_polished_cut_scoria": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_small_diorite_bricks": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_scoria_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_wall": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_small_diorite_bricks": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_vertical_step_from_conversion": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:hose_pulley_lava": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingle_slab": {
+    "criteria": {
+      "has_copper_shingles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_oxidized_copper_tiles_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_link": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/exposed_copper_shingle_stairs_from_exposed_copper_shingles_stonecutting": {
+    "criteria": {
+      "has_exposed_copper_shingles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:pulley_maxed": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:chocolate_bucket": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_wall": {
+    "criteria": {
+      "has_cut_deepslate": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mysterious_cuckoo_clock": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_stairs": {
+    "criteria": {
+      "has_small_andesite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:relic_restoration": {
+    "criteria": {
+      "builtin": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_cut_dripstone_bricks": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/white_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_station": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_wall": {
+    "criteria": {
+      "has_cut_diorite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/gray_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_wall": {
+    "criteria": {
+      "has_cut_deepslate_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/track_coupler": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:anvil_plough": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_veridium_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_exposed_copper_tiles_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab": {
+    "criteria": {
+      "has_polished_cut_andesite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:train": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/encased_chain_cogwheel": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs": {
+    "criteria": {
+      "has_small_tuff_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/weathered_copper_tile_stairs": {
+    "criteria": {
+      "has_weathered_copper_tiles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_exposed_copper_shingles_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tile_stairs_from_copper_tiles_stonecutting": {
+    "criteria": {
+      "has_copper_tiles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab": {
+    "criteria": {
+      "has_cut_granite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:cross_streams": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_exposed_copper_tile_stairs_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/blue_bricks": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/train_door": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_slab_recycling": {
+    "criteria": {
+      "has_cut_deepslate_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_stairs": {
+    "criteria": {
+      "has_polished_cut_crimsite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs": {
+    "criteria": {
+      "has_cut_tuff": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:display_board_0": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:steam_whistle": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experimental": {
+    "criteria": {
+      "builtin": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_gray_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oxidized_copper_tile_stairs": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_oxidized_copper_tiles": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:crusher_maxed_0000": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/black_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_slab_recycling": {
+    "criteria": {
+      "has_small_scorchia_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_stairs": {
+    "criteria": {
+      "has_cut_ochrum_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_slab": {
+    "criteria": {
+      "has_cut_scoria": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_pane_from_tiled_glass_pane": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_stairs": {
+    "criteria": {
+      "has_polished_cut_scorchia": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_wall": {
+    "criteria": {
+      "has_small_granite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_door": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_recycling": {
+    "criteria": {
+      "has_cut_tuff_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:belt_funnel_kiss": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab": {
+    "criteria": {
+      "has_cut_calcite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:linked_controller": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab": {
+    "criteria": {
+      "has_small_calcite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_stairs": {
+    "criteria": {
+      "has_polished_cut_asurine": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/linked_transmitter_from_conversion": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_recycling": {
+    "criteria": {
+      "has_small_dripstone_brick_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stockpile_switch": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_polished_cut_calcite": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:train_crash": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sequenced_gearshift": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_slab": {
+    "criteria": {
+      "has_polished_cut_limestone": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_wall": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_small_scoria_bricks": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_small_diorite_bricks": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_wall": {
+    "criteria": {
+      "has_cut_asurine": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_wall": {
+    "criteria": {
+      "has_polished_cut_deepslate": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab": {
+    "criteria": {
+      "has_small_andesite_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/exposed_copper_tile_slab_from_exposed_copper_tiles_stonecutting": {
+    "criteria": {
+      "has_exposed_copper_tiles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:track_signal": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_observer_from_other_plates": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/small_rose_quartz_tilesfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:musical_arm": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_slab": {
+    "criteria": {
+      "has_polished_cut_scorchia": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:spirit_taking": {
+    "criteria": {
+      "builtin": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab": {
+    "criteria": {
+      "has_polished_cut_tuff": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_wall": {
+    "criteria": {
+      "has_cut_andesite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:diving_suit_lava": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:cuckoo_clock": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_weathered_copper_tile_stairs_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:drain": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_slab_recycling": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_polished_cut_scoria_slab": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_wall": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_polished_cut_veridium": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall": {
+    "criteria": {
+      "has_small_dripstone_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/weathered_copper_tile_stairs_from_weathered_copper_tiles_stonecutting": {
+    "criteria": {
+      "has_weathered_copper_tiles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/pearl_bricks": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_wall": {
+    "criteria": {
+      "has_small_ochrum_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_cut_calcite_bricks": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_copper_shingles_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_slab": {
+    "criteria": {
+      "has_small_scorchia_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/dean_bricks": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_wall": {
+    "criteria": {
+      "has_small_deepslate_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:foods": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_slab_from_panels": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nixie_tube": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_from_vertical_framed_glass": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_slab_recycling": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_cut_ochrum_slab": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:conductor": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:copiable_masterpiece": {
+    "criteria": {
+      "builtin": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingle_slab_from_copper_shingles_stonecutting": {
+    "criteria": {
+      "has_copper_shingles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_stairs": {
+    "criteria": {
+      "has_small_limestone_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/tconstruct/sign_post_enderbark": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/exposed_copper_tile_stairs_from_exposed_copper_tiles_stonecutting": {
+    "criteria": {
+      "has_exposed_copper_tiles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_stairs": {
+    "criteria": {
+      "has_cut_granite": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingle_stairs_from_copper_shingles_stonecutting": {
+    "criteria": {
+      "has_copper_shingles": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_slab": {
+    "criteria": {
+      "has_cut_limestone_bricks": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_stairs": {
+    "criteria": {
+      "has_cut_asurine": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_copper_tile_slab_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2025-08-22 04:06:27 +0800",
+      "has_unwaxed": "2025-08-22 04:06:27 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_scorchia_slab": "2025-08-22 04:06:27 +0800",
+      "has_the_recipe": "2025-08-22 04:06:27 +0800"
     },
     "done": true
   },
