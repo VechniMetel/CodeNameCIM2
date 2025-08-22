@@ -50024,6 +50024,78 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/content_observer": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/display_link": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_contact": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_link": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_door": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stockpile_switch": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sequenced_gearshift": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nixie_tube": {
+    "criteria": {
+      "has_item": "2025-08-22 03:52:50 +0800"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_ochrum_brick_slab_recycling": {
     "criteria": {
       "has_small_ochrum_brick_slab": "2025-08-22 04:06:27 +0800",
@@ -50426,12 +50498,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/content_observer": {
-    "criteria": {
-      "has_item": "2025-08-22 03:52:50 +0800"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_dripstone_wall": {
     "criteria": {
       "has_polished_cut_dripstone": "2025-08-22 04:06:27 +0800",
@@ -50443,12 +50509,6 @@
     "criteria": {
       "has_cut_calcite": "2025-08-22 04:06:27 +0800",
       "has_the_recipe": "2025-08-22 04:06:27 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/display_link": {
-    "criteria": {
-      "has_item": "2025-08-22 03:52:50 +0800"
     },
     "done": true
   },
@@ -51458,12 +51518,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/redstone_contact": {
-    "criteria": {
-      "has_item": "2025-08-22 03:52:50 +0800"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_scorchia_slab_recycling": {
     "criteria": {
       "has_cut_scorchia_slab": "2025-08-22 04:06:27 +0800",
@@ -51626,12 +51680,6 @@
     "criteria": {
       "has_polished_cut_diorite_slab": "2025-08-22 04:06:27 +0800",
       "has_the_recipe": "2025-08-22 04:06:27 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
-    "criteria": {
-      "has_item": "2025-08-22 03:52:50 +0800"
     },
     "done": true
   },
@@ -51847,12 +51895,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
-    "criteria": {
-      "has_item": "2025-08-22 03:52:50 +0800"
-    },
-    "done": true
-  },
   "create_enchantment_industry:a_shower_experience": {
     "criteria": {
       "builtin": "2025-08-22 04:06:27 +0800"
@@ -51992,12 +52034,6 @@
     "criteria": {
       "has_item": "2025-08-22 04:06:27 +0800",
       "has_the_recipe": "2025-08-22 04:06:27 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
-    "criteria": {
-      "has_item": "2025-08-22 03:52:50 +0800"
     },
     "done": true
   },
@@ -52836,12 +52872,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
-    "criteria": {
-      "has_item": "2025-08-22 03:52:50 +0800"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_diorite_brick_wall": {
     "criteria": {
       "has_the_recipe": "2025-08-22 04:06:27 +0800",
@@ -52873,12 +52903,6 @@
     "criteria": {
       "has_the_recipe": "2025-08-22 04:06:27 +0800",
       "has_unwaxed": "2025-08-22 04:06:27 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/redstone_link": {
-    "criteria": {
-      "has_item": "2025-08-22 03:52:50 +0800"
     },
     "done": true
   },
@@ -53225,12 +53249,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/brass_door": {
-    "criteria": {
-      "has_item": "2025-08-22 03:52:50 +0800"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_tuff_slab_recycling": {
     "criteria": {
       "has_cut_tuff_slab": "2025-08-22 04:06:27 +0800",
@@ -53292,12 +53310,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/stockpile_switch": {
-    "criteria": {
-      "has_item": "2025-08-22 03:52:50 +0800"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/birch_window_pane": {
     "criteria": {
       "has_ingredient": "2025-08-22 04:06:27 +0800",
@@ -53322,12 +53334,6 @@
   "create:train_crash": {
     "criteria": {
       "0": "2025-08-22 04:06:27 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/sequenced_gearshift": {
-    "criteria": {
-      "has_item": "2025-08-22 03:52:50 +0800"
     },
     "done": true
   },
@@ -53578,12 +53584,6 @@
     "criteria": {
       "has_item": "2025-08-22 04:06:27 +0800",
       "has_the_recipe": "2025-08-22 04:06:27 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/nixie_tube": {
-    "criteria": {
-      "has_item": "2025-08-22 03:52:50 +0800"
     },
     "done": true
   },
