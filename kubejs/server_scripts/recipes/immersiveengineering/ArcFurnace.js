@@ -1,24 +1,33 @@
 ServerEvents.recipes((event) => {
-	let { immersiveengineering } = event.recipes
 
 	// 不锈钢
-	immersiveengineering.arc_furnace("#forge:ingots/stainless_steel")
-		.input("#forge:ingots/steel")
-		.slag("#forge:slag")
-		.additives([
-			"#forge:ingots/chromium",
-			"#forge:ingots/invar"
-		])
-		.time(100)
-		.energy(8000)
+	event.custom({
+        type: 'immersiveengineering:arc_furnace',
+        additives: [
+            { "tag": "forge:ingots/chromium" },
+            { "tag": "forge:ingots/invar" }
+        ],
+        input: { "tag": "forge:ingots/steel" },
+        slag: { "tag": "forge:slag" },
+        results: [
+            { "tag": "forge:ingots/stainless_steel" }
+        ],
+        time: 400,
+        energy: 8000 
+    });
 
 	// 钢
-	immersiveengineering.arc_furnace("#forge:ingots/steel")
-		.input("#forge:ingots/iron")
-		.slag("#forge:slag")
-		.additives([
-			"#forge:coal_coke",
-		])
-		.time(400)
-		.energy(8000)
-})
+	event.custom({
+        type: 'immersiveengineering:arc_furnace',
+        additives: [
+            { "tag": "forge:coal_coke" }
+        ],
+        input: { "tag": "forge:ingots/iron" },
+        slag: { "tag": "forge:slag" },
+        results: [
+            { "tag": "forge:ingots/steel" }
+        ],
+        time: 400,
+        energy: 8000
+    });
+});
