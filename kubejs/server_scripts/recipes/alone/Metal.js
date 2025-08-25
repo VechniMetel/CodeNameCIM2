@@ -14,7 +14,8 @@ ServerEvents.recipes((event) => {
 
     const addTconMelting = (event, tconFluid, tag, amount, time) => {
         if (!tagIsEmpty(tag)) {
-            event.recipes.tconstruct.melting({
+            event.custom({
+                type: "tconstruct:melting",
                 ingredient: { tag: tag.replace('#', '') },
                 result: { fluid: tconFluid, amount: amount },
                 temperature: TEMPERATURE,
@@ -23,34 +24,41 @@ ServerEvents.recipes((event) => {
         }
     };
 
+    // --- 核心修正点 #1 ---
     const addTconCastingTable = (event, outputTag, castTag, tconFluid, amount, time) => {
         if (!tagIsEmpty(outputTag)) {
             const outputItem = getFirstItem(outputTag);
-            if (!outputItem.isEmpty()) {
-                event.recipes.tconstruct.casting_table({
+            // 增加对 outputItem.id 的检查，确保它不是 null 或 undefined
+            if (!outputItem.isEmpty() && outputItem.id) {
+                event.custom({
+                    type: "tconstruct:casting_table",
                     cast: { tag: castTag.replace('#', '') },
                     fluid: { name: tconFluid, amount: amount },
-                    result: outputItem.id,
+                    result: { item: outputItem.id },
                     cooling_time: time
                 });
-                event.recipes.tconstruct.casting_table({
+                event.custom({
+                    type: "tconstruct:casting_table",
                     cast: { tag: castTag.replace('#', '').replace('multi_use', 'single_use') },
                     cast_consumed: true,
                     fluid: { name: tconFluid, amount: amount },
-                    result: outputItem.id,
+                    result: { item: outputItem.id },
                     cooling_time: time
                 });
             }
         }
     };
     
+    // --- 核心修正点 #2 ---
     const addTconCastingBasin = (event, outputTag, tconFluid, amount, time) => {
         if (!tagIsEmpty(outputTag)) {
             const outputItem = getFirstItem(outputTag);
-            if(!outputItem.isEmpty()){
-                event.recipes.tconstruct.casting_basin({
+            // 增加对 outputItem.id 的检查
+            if(!outputItem.isEmpty() && outputItem.id){
+                event.custom({
+                    type: "tconstruct:casting_basin",
                     fluid: { name: tconFluid, amount: amount },
-                    result: outputItem.id,
+                    result: { item: outputItem.id },
                     cooling_time: time
                 });
             }
@@ -69,16 +77,20 @@ ServerEvents.recipes((event) => {
             });
         }
     };
+    
+    const fluidMods = ["cmi", "thermalconstruct", "tconstruct"];
 
     uniqueMetalGroup.forEach((metal) => {
-        if (!metal) return;
+        if (!metal || typeof metal !== 'string' || metal.trim() === '') return;
 
         let tconFluid = "";
-        ["cmi", "thermalconstruct", "tconstruct"].forEach((modid) => {
-            if (Fluid.exists(`${modid}:molten_${metal}`)) {
-                tconFluid = `${modid}:molten_${metal}`;
+        for (const modid of fluidMods) {
+            let fluidId = `${modid}:molten_${metal}`;
+            if (Fluid.exists(fluidId)) {
+                tconFluid = fluidId;
+                break;
             }
-        });
+        }
 
         if (tconFluid) {
             addTconMelting(event, tconFluid, `#forge:ingots/${metal}`, 90, 60);
@@ -117,7 +129,7 @@ ServerEvents.recipes((event) => {
             let nugget = getFirstItem(`#forge:nuggets/${metal}`);
             if(!nugget.isEmpty()){
                 event.shapeless(ingot, [Item.of(nugget, 9)]);
-                event.shaped(ingot, ["AAA", "AAA", "AAA"], { A: nugget });
+                event.shaped(nugget.withCount(9), [ingot]); // 修正：之前这里是锭合成锭
             }
         }
         if (!tagIsEmpty(`#forge:ores/${metal}`)) {
