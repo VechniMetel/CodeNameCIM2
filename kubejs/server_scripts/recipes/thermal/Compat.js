@@ -1,8 +1,5 @@
 ServerEvents.recipes((event) => {
 
-    // 为Thermal的离心机添加对TConstruct物品的兼容性配方
-    // 使用 event.custom() 以确保配方结构符合最新标准，避免解析错误
-
     event.custom({
         "type": "thermal:crucible",
         "ingredient": {
@@ -34,7 +31,7 @@ ServerEvents.recipes((event) => {
     event.custom({
         "type": "thermal:crucible",
         "ingredient": {
-            "tag": "minecraft:soul_fire_base_blocks" // 输入是标签，所以用tag
+            "tag": "minecraft:soul_fire_base_blocks"
         },
         "result": [
             {
@@ -67,10 +64,10 @@ ServerEvents.recipes((event) => {
         "result": [
             {
                 "fluid": "tconstruct:liquid_soul",
-                "amount": 250 // 注意: 玻璃板通常产出较少流体，原作者设为250是合理的
+                "amount": 250
             }
         ],
-        "energy": 500 // 熔炼玻璃板的能量消耗通常也较低
+        "energy": 500 
     }).id('kubejs:thermal/crucible/soul_glass_pane_to_liquid_soul');
 
 });
