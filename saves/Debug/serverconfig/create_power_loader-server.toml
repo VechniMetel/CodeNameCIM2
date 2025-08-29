@@ -1,0 +1,91 @@
+
+#.
+#Configure the Andesite Chunk Loader
+[andesite]
+	#.
+	#.
+	#Number of ticks between chunk loading checks. Does not affect contraptions
+	#Range: 0 ~ 200
+	chunkUpdateInterval = 10
+	#.
+	#Minimum number of ticks between loss of power and chunk unloading. Rounds up to multiples of update interval
+	#Range: 0 ~ 1200
+	unloadGracePeriod = 20
+	#.
+	#A multiplier for the minimum speed requirement of a chunk loader
+	#Range: 0.0 ~ 128.0
+	speedMultiplier = 1.0
+	#.
+	#The stress impact of a chunk loader when it is at 1 RPM
+	#Range: 0.0 ~ 3.4028234663852886E38
+	stressImpact = 16.0
+	#.
+	#Whether the chunk loader functions on the ground when given rotational power
+	enableStatic = true
+	#.
+	#Chunk loading radius on contraptions. 1 = 1 chunk, 2 = 9 chunks. Contraptions require a minimum radius of 2 for reliable loading
+	#Range: 1 ~ 10
+	rangeOnContraption = 2
+	#.
+	#Chunk loading radius on trains. 1 = 1 chunk, 2 = 9 chunks
+	#Range: 1 ~ 10
+	rangeOnTrain = 2
+	#.
+	#Chunk loading radius on train stations. 1 = 1 chunk, 2 = 9 chunks
+	#Range: 1 ~ 10
+	rangeOnStation = 2
+	#.
+	#Whether the chunk loader functions on contraptions other than trains. WARNING: does not update contraptions that are currently unloaded
+	enableContraption = false
+	#.
+	#Whether the chunk loader functions on trains
+	enableTrain = false
+	#.
+	#Whether the chunk loader functions when attached to train stations.
+	enableStation = false
+
+#.
+#Configure the Brass Chunk Loader
+[brass]
+	#.
+	#.
+	#Number of ticks between chunk loading checks. Does not affect contraptions
+	#Range: 0 ~ 200
+	chunkUpdateInterval = 10
+	#.
+	#Minimum number of ticks between loss of power and chunk unloading. Rounds up to multiples of update interval
+	#Range: 0 ~ 1200
+	unloadGracePeriod = 20
+	#.
+	#A multiplier for the minimum speed requirement of a chunk loader
+	#Range: 0.0 ~ 128.0
+	speedMultiplier = 1.0
+	#.
+	#The stress impact of a chunk loader when it is at 1 RPM
+	#Range: 0.0 ~ 3.4028234663852886E38
+	stressImpact = 16.0
+	#.
+	#Whether the chunk loader functions on the ground when given rotational power
+	enableStatic = true
+	#.
+	#Chunk loading radius on contraptions. 1 = 1 chunk, 2 = 9 chunks. Contraptions require a minimum radius of 2 for reliable loading
+	#Range: 1 ~ 10
+	rangeOnContraption = 2
+	#.
+	#Chunk loading radius on trains. 1 = 1 chunk, 2 = 9 chunks
+	#Range: 1 ~ 10
+	rangeOnTrain = 2
+	#.
+	#Chunk loading radius on train stations. 1 = 1 chunk, 2 = 9 chunks
+	#Range: 1 ~ 10
+	rangeOnStation = 2
+	#.
+	#Whether the chunk loader functions on contraptions other than trains. WARNING: does not update contraptions that are currently unloaded
+	enableContraption = true
+	#.
+	#Whether the chunk loader functions on trains
+	enableTrain = true
+	#.
+	#Whether the chunk loader functions when attached to train stations.
+	enableStation = true
+
