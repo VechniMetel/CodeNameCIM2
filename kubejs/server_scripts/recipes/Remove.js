@@ -12,7 +12,6 @@ ServerEvents.recipes((event) => {
 		"tconstruct:smeltery/seared/chute_retextured",
 		"tconstruct:__default",
 		"vintageimprovements:sequenced_assembly/redstone_module",
-		"functionalstorage:void_upgrade",
 		"immersiveengineering:crafting/treated_wood_horizontal",
 		"create:milling/compat/ae2/sky_stone_block",
 		"ae2:blasting/sky_stone_block",

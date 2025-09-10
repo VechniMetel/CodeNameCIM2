@@ -82,7 +82,7 @@ StartupEvents.registry("item", (event) => {
 	// addItem("platinum_shard")
 	// 	.texture(`${global.namespace}:item/material/platinum/shard`)
 
-	// 铂系列已在kubejs\server_scripts\recipes\alone\Metal.js中注册
+	// 铂碎片已在kubejs\server_scripts\recipes\alone\Metal.js中注册
 
 	// 木屑加工系列
 	addItem("wood_chip_briquette")
@@ -211,4 +211,8 @@ StartupEvents.registry("item", (event) => {
 	// 硝化纤维
 	addItem("nitrocellulose")
 		.texture(`${global.namespace}:item/material/dynamite/nitrocellulose`)
+
+	// 升级模板
+	addItem("drawer_upgrade_template")
+		.texture(`${global.namespace}:item/material/upgrade_template`)
 })
