@@ -70,36 +70,33 @@ ServerEvents.recipes((event) => {
 	kubejs.shaped("functionalstorage:fluid_1", [
 		"ABA",
 		"BCB",
-		"BDB"
+		"BAB"
 	], {
-		A: "#forge:storage_blocks/copper",
-		B: "#forge:plates/copper",
-		C: "create:fluid_tank",
-		D: "cmi:copper_mechanism"
+		A: "#forge:storage_blocks/iron",
+		B: "#forge:plates/iron",
+		C: "minecraft:bucket"
 	}).id("functionalstorage:fluid_1")
 
 	// 流体抽屉2
 	kubejs.shaped("functionalstorage:fluid_2", [
 		"ACA",
-		"BDB",
+		"BAB",
 		"BCB"
 	], {
-		A: "#forge:storage_blocks/copper",
-		B: "#forge:plates/copper",
-		C: "create:fluid_tank",
-		D: "cmi:copper_mechanism"
+		A: "#forge:storage_blocks/iron",
+		B: "#forge:plates/iron",
+		C: "minecraft:bucket"
 	}).id("functionalstorage:fluid_2")
 
 	// 流体抽屉4
 	kubejs.shaped("functionalstorage:fluid_4", [
 		"ACA",
-		"CDC",
+		"CAC",
 		"BCB"
 	], {
-		A: "#forge:storage_blocks/copper",
-		B: "#forge:plates/copper",
-		C: "create:fluid_tank",
-		D: "cmi:copper_mechanism"
+		A: "#forge:storage_blocks/iron",
+		B: "#forge:plates/iron",
+		C: "minecraft:bucket"
 	}).id("functionalstorage:fluid_4")
 
 	// 物品抽屉
