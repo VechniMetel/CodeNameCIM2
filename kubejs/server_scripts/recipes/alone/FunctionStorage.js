@@ -1,5 +1,7 @@
 ServerEvents.recipes((event) => {
 	let { kubejs, tconstruct } = event.recipes
+
+	const DRAWER = "#functionalstorage:drawer"
 	const TEMPLATE = "cmi:drawer_upgrade_template"
 
 	// 物品抽屉
@@ -15,6 +17,7 @@ ServerEvents.recipes((event) => {
 		"warped",
 		"cherry"
 	]
+  
 	drawerWoodTypes.forEach((type) => {
 		// 物品抽屉1
 		kubejs.shaped(`functionalstorage:${type}_1`, [
@@ -50,6 +53,8 @@ ServerEvents.recipes((event) => {
 		}).id(`functionalstorage:${type}_4`)
 	})
 
+  // 升级
+  
 	// 升级模板
 	kubejs.shaped("cmi:drawer_upgrade_template", [
 		"AAA",
@@ -133,4 +138,5 @@ ServerEvents.recipes((event) => {
 		B: "#forge:plates/iron",
 		C: "minecraft:bucket"
 	}).id("functionalstorage:fluid_4")
+
 })
