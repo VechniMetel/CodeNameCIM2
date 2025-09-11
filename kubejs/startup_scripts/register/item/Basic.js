@@ -118,6 +118,10 @@ StartupEvents.registry("item", (event) => {
 		})
 		.tag("create:blaze_burner_fuel/special")
 
+	// 升级模板
+	addItem("drawer_upgrade_template")
+		.texture(`${global.namespace}:item/material/upgrade_template`)
+
 	// 安山岩
 	addItem("andesite_dust")
 		.texture(`${global.namespace}:item/material/andesite/dust`)

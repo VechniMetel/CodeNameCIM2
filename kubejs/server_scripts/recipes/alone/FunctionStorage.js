@@ -1,7 +1,10 @@
 ServerEvents.recipes((event) => {
 	let { kubejs, tconstruct } = event.recipes
+
 	const DRAWER = "#functionalstorage:drawer"
 	const TEMPLATE = "cmi:drawer_upgrade_template"
+
+	// 物品抽屉
 	let drawerWoodTypes = [
 		"oak",
 		"spruce",
@@ -14,8 +17,44 @@ ServerEvents.recipes((event) => {
 		"warped",
 		"cherry"
 	]
+  
+	drawerWoodTypes.forEach((type) => {
+		// 物品抽屉1
+		kubejs.shaped(`functionalstorage:${type}_1`, [
+			"AAA",
+			"ABA",
+			"ACA"
+		], {
+			A: `minecraft:${type}_planks`,
+			B: "minecraft:chest",
+			C: "cmi:wooden_mechanism"
+		}).id(`functionalstorage:${type}_1`)
 
-	// 升级
+		// 物品抽屉2
+		kubejs.shaped(`functionalstorage:${type}_2`, [
+			"ABA",
+			"ACA",
+			"ABA"
+		], {
+			A: `minecraft:${type}_planks`,
+			B: "minecraft:chest",
+			C: "cmi:wooden_mechanism"
+		}).id(`functionalstorage:${type}_2`)
+
+		// 物品抽屉4
+		kubejs.shaped(`functionalstorage:${type}_4`, [
+			"ABA",
+			"BCB",
+			"ABA"
+		], {
+			A: `minecraft:${type}_planks`,
+			B: "minecraft:chest",
+			C: "cmi:wooden_mechanism"
+		}).id(`functionalstorage:${type}_4`)
+	})
+
+  // 升级
+  
 	// 升级模板
 	kubejs.shaped("cmi:drawer_upgrade_template", [
 		"AAA",
@@ -26,6 +65,7 @@ ServerEvents.recipes((event) => {
 		B: "minecraft:stone",
 		C: "cmi:wooden_mechanism"
 	}).id("functionalstorage:upgrade_template")
+
 	// 紫水晶青铜
 	tconstruct.casting_table("functionalstorage:copper_upgrade")
 		.cast(TEMPLATE)
@@ -99,39 +139,4 @@ ServerEvents.recipes((event) => {
 		C: "minecraft:bucket"
 	}).id("functionalstorage:fluid_4")
 
-	// 物品抽屉
-	drawerWoodTypes.forEach((type) => {
-		// 物品抽屉1
-		kubejs.shaped(`functionalstorage:${type}_1`, [
-			"AAA",
-			"ABA",
-			"ACA"
-		], {
-			A: `minecraft:${type}_planks`,
-			B: "minecraft:chest",
-			C: "cmi:wooden_mechanism"
-		}).id(`functionalstorage:${type}_1`)
-
-		// 物品抽屉2
-		kubejs.shaped(`functionalstorage:${type}_2`, [
-			"ABA",
-			"ACA",
-			"ABA"
-		], {
-			A: `minecraft:${type}_planks`,
-			B: "minecraft:chest",
-			C: "cmi:wooden_mechanism"
-		}).id(`functionalstorage:${type}_2`)
-
-		// 物品抽屉4
-		kubejs.shaped(`functionalstorage:${type}_4`, [
-			"ABA",
-			"BCB",
-			"ABA"
-		], {
-			A: `minecraft:${type}_planks`,
-			B: "minecraft:chest",
-			C: "cmi:wooden_mechanism"
-		}).id(`functionalstorage:${type}_4`)
-	})
 })
