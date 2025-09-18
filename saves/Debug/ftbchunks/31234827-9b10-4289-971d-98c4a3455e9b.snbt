@@ -1,7 +1,7 @@
 {
 	max_claim_chunks: 999
 	max_force_load_chunks: 999
-	last_login_time: 1758168522757L
+	last_login_time: 1758178806034L
 	chunks: {
 		"minecraft:the_nether": [
 			{ x: 0, z: -3, time: 1742676891006L, force_loaded: 1742676892771L }
