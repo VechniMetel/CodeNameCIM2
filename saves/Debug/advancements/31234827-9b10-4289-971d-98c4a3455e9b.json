@@ -38610,32 +38610,6 @@
     },
     "done": true
   },
-  "capsule:recipes/tools/captureblock": {
-    "criteria": {
-      "has_compass": "2025-04-22 20:31:44 +0800"
-    },
-    "done": true
-  },
-  "capsule:recipes/tools/capsule": {
-    "criteria": {
-      "has_ender_pearl": "2025-04-22 20:34:50 +0800",
-      "has_the_recipe": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
-  "capsule:recipes/root": {
-    "criteria": {
-      "impossible": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
-  "capsule:recipes/tools/capsule_wood": {
-    "criteria": {
-      "has_the_recipe": "2025-04-22 20:34:50 +0800",
-      "has_plankWood": "2025-04-22 20:34:50 +0800"
-    },
-    "done": true
-  },
   "supplementaries:recipes/soap": {
     "criteria": {
       "has_water_bucket": "2025-05-06 20:38:07 +0800"
