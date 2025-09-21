@@ -118,12 +118,6 @@
     },
     "done": true
   },
-  "capsule:recipes/tools/captureblock": {
-    "criteria": {
-      "has_compass": "2025-08-12 12:20:28 +0800"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-08-12 13:08:39 +0800",
@@ -5715,13 +5709,6 @@
   "minecraft:adventure/trade_at_world_height": {
     "criteria": {
       "trade_at_world_height": "2025-08-12 13:08:39 +0800"
-    },
-    "done": true
-  },
-  "capsule:recipes/tools/capsule": {
-    "criteria": {
-      "has_ender_pearl": "2025-08-12 13:08:39 +0800",
-      "has_the_recipe": "2025-08-12 13:08:39 +0800"
     },
     "done": true
   },
@@ -12815,12 +12802,6 @@
     "criteria": {
       "has_item": "2025-08-12 13:08:39 +0800",
       "has_the_recipe": "2025-08-12 13:08:39 +0800"
-    },
-    "done": true
-  },
-  "capsule:recipes/root": {
-    "criteria": {
-      "impossible": "2025-08-12 13:08:39 +0800"
     },
     "done": true
   },
@@ -28500,13 +28481,6 @@
   "mekanism:robit": {
     "criteria": {
       "summon": "2025-08-12 13:08:39 +0800"
-    },
-    "done": true
-  },
-  "capsule:recipes/tools/capsule_wood": {
-    "criteria": {
-      "has_the_recipe": "2025-08-12 13:08:39 +0800",
-      "has_plankWood": "2025-08-12 13:08:39 +0800"
     },
     "done": true
   },
