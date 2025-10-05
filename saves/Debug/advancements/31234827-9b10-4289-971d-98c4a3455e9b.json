@@ -52191,5 +52191,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-10-05 20:14:20 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
