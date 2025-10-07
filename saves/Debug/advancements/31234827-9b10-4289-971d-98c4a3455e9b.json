@@ -52197,5 +52197,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/ride_submarine": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2025-10-07 22:10:58 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deep_one_items": {
+    "criteria": {
+      "sea_staff": "2025-10-07 22:10:58 +0800",
+      "ortholance": "2025-10-07 22:11:18 +0800"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
