@@ -3,9 +3,15 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: 101, y: 56, z: 70, time: 1757664663485L, xRot: 12.714842f, yRot: -0.015625f }
+	last_seen: { dim: "minecraft:overworld", x: -68, y: 58, z: 3, time: 1760441845359L, xRot: 45.570263f, yRot: -24.074707f }
 	recording: "none"
-	teleport_history: [ ]
+	teleport_history: [
+		{ dim: "cmi:hephaestus", x: -213, y: 113, z: -434, time: 1760349021270L }
+		{ dim: "cmi:dionysus", x: 188, y: 103, z: -311, time: 1760349221196L }
+		{ dim: "cmi:dionysus", x: 162, y: 101, z: -306, time: 1760349234276L }
+		{ dim: "cmi:dionysus", x: 190, y: 103, z: -303, time: 1760349245043L }
+		{ dim: "cmi:dionysus", x: 182, y: 108, z: -263, time: 1760349261653L }
+	]
 	homes: { }
 	kit_use_times: { }
 }
