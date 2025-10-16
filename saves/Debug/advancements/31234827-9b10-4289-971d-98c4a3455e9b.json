@@ -52217,5 +52217,107 @@
     },
     "done": true
   },
+  "kaleidoscope_cookery:recipes/tools/oil_pot": {
+    "criteria": {
+      "has_bucket": "2025-10-16 15:31:16 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:rice_panicle": {
+    "criteria": {
+      "has_rice_panicle": "2025-10-16 21:23:38 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/straw_block": {
+    "criteria": {
+      "has_rice_panicle": "2025-10-16 21:23:38 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/rice_panicle": {
+    "criteria": {
+      "has_rice_panicle": "2025-10-16 21:23:38 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/tools/straw_hat": {
+    "criteria": {
+      "has_ingot_iron": "2025-10-16 21:46:15 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/kitchenware_racks": {
+    "criteria": {
+      "has_ingot_iron": "2025-10-16 21:46:15 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/tools/kitchen_shovel": {
+    "criteria": {
+      "has_ingot_iron": "2025-10-16 21:46:15 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/tools/straw_hat_flower": {
+    "criteria": {
+      "has_ingot_iron": "2025-10-16 21:46:15 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/oil_block": {
+    "criteria": {
+      "has_ingot_iron": "2025-10-16 21:46:15 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/oil": {
+    "criteria": {
+      "has_ingot_iron": "2025-10-16 21:46:15 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/tools/gold_kitchen_knife": {
+    "criteria": {
+      "has_ingot_iron": "2025-10-16 21:46:15 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/tools/iron_kitchen_knife": {
+    "criteria": {
+      "has_ingot_iron": "2025-10-16 21:46:15 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/tools/diamond_kitchen_knife": {
+    "criteria": {
+      "has_ingot_iron": "2025-10-16 21:46:15 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/enamel_basin": {
+    "criteria": {
+      "has_ingot_iron": "2025-10-16 21:46:15 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/stockpot_lid": {
+    "criteria": {
+      "has_ingot_iron": "2025-10-16 21:46:15 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/stockpot": {
+    "criteria": {
+      "has_ingot_iron": "2025-10-16 21:46:15 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/redstone/pot": {
+    "criteria": {
+      "has_ingot_iron": "2025-10-16 21:46:15 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
