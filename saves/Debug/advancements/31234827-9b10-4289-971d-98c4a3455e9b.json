@@ -52319,5 +52319,11 @@
     },
     "done": true
   },
+  "kaleidoscope_cookery:recipes/decorations/recipe_item": {
+    "criteria": {
+      "has_paper": "2025-10-17 17:27:23 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
