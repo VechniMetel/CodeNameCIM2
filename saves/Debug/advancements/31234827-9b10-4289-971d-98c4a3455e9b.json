@@ -52205,10 +52205,12 @@
   },
   "alexscaves:alexscaves/deep_one_items": {
     "criteria": {
+      "magic_conch": "2025-10-28 20:57:33 +0800",
+      "gazing_pearl": "2025-10-28 20:57:33 +0800",
       "sea_staff": "2025-10-07 22:10:58 +0800",
       "ortholance": "2025-10-07 22:11:18 +0800"
     },
-    "done": false
+    "done": true
   },
   "alexscaves:alexscaves/neodymium": {
     "criteria": {
@@ -52322,6 +52324,1596 @@
   "kaleidoscope_cookery:recipes/decorations/recipe_item": {
     "criteria": {
       "has_paper": "2025-10-17 17:27:23 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_birch": {
+    "criteria": {
+      "has_wood": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/bioluminescent_torch": {
+    "criteria": {
+      "bioluminescent_torch": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_acacia": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_warped": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/frostmint_explosion": {
+    "criteria": {
+      "frostmint_explosion": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:caterpillar": {
+    "criteria": {
+      "has_caterpillar": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/summon_luxtructosaurus": {
+    "criteria": {
+      "summon_luxtructosaurus": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/seeking_arrow": {
+    "criteria": {
+      "seeking_arrow": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/food/stuffed_dough_food": {
+    "criteria": {
+      "has_dough": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:add_oil": {
+    "criteria": {
+      "put_oil_in_pot": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_crimson": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:dough": {
+    "criteria": {
+      "pull_the_dough": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:make_soup": {
+    "criteria": {
+      "use_lid_on_stockpot": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ominous_catalyst": {
+    "criteria": {
+      "nuclear_bomb": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/tools/steamer": {
+    "criteria": {
+      "has_bamboo": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_acacia": {
+    "criteria": {
+      "has_wood": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_jungle": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/nuclear_furnace_component": {
+    "criteria": {
+      "raygun": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/farmer_chest_plate": {
+    "criteria": {
+      "has_leather": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/trade_with_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/convert_biome": {
+    "criteria": {
+      "convert_biome": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sugar_rush": {
+    "criteria": {
+      "all_effects": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/convert_nether_biome": {
+    "criteria": {
+      "convert_biome": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/licowitch_tower": {
+    "criteria": {
+      "licowitch_tower": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:iron_hoe": {
+    "criteria": {
+      "use_hoe_on_water_field": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_spruce": {
+    "criteria": {
+      "has_wood": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:burn_hand_soup": {
+    "criteria": {
+      "hurt_when_takeout_from_stockpot": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radon_bottle": {
+    "criteria": {
+      "radon_bottle": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_tremorzilla": {
+    "criteria": {
+      "killed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:burn_hand": {
+    "criteria": {
+      "hurt_when_takeout_from_pot": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_mine_guardian": {
+    "criteria": {
+      "killed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primordial_armor": {
+    "criteria": {
+      "pants": "2025-10-28 20:57:33 +0800",
+      "helmet": "2025-10-28 20:57:33 +0800",
+      "tunic": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/farmer_boots": {
+    "criteria": {
+      "has_leather": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_tremorsaurus": {
+    "criteria": {
+      "killed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_crimson": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_pork_belly_from_smelting": {
+    "criteria": {
+      "has_raw_pork_belly": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/conversion_crucible": {
+    "criteria": {
+      "mussel": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_magnetron": {
+    "criteria": {
+      "killed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/floater": {
+    "criteria": {
+      "floater": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_birch": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:netherite_knife": {
+    "criteria": {
+      "has_netherite_knife": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/extinction_spear": {
+    "criteria": {
+      "dreadbow": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_dark_oak": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:apprentice_chef": {
+    "criteria": {
+      "has_borscht": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/chili_seed_from_red_chili": {
+    "criteria": {
+      "has_chili": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ride_nuclear_bomb": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radiant_essence": {
+    "criteria": {
+      "mussel": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:dangerous_chef": {
+    "criteria": {
+      "kill_piglin_brute": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_luxtructosaurus": {
+    "criteria": {
+      "killed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/feed_gummy_bear": {
+    "criteria": {
+      "interact": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/breed_grottoceratops": {
+    "criteria": {
+      "breed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radgill_bucket": {
+    "criteria": {
+      "radgill_bucket": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_kitchen_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_armor": {
+    "criteria": {
+      "shirt": "2025-10-28 20:57:33 +0800",
+      "pants": "2025-10-28 20:57:33 +0800",
+      "helmet": "2025-10-28 20:57:33 +0800",
+      "boots": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_dark_oak": {
+    "criteria": {
+      "has_wood": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_donkey_meat_from_smoking": {
+    "criteria": {
+      "has_raw_donkey_meat": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/chili_seed_from_green_chili": {
+    "criteria": {
+      "has_chili": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_cherry": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/samsa_from_smelting": {
+    "criteria": {
+      "has_stuffed_dough_food": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/polymer_plate": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:transmutation_lunch_bag": {
+    "criteria": {
+      "use_transmutation_lunch_bag": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:nitrogen_3000": {
+    "criteria": {
+      "climb_3000": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_forsaken": {
+    "criteria": {
+      "killed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/atlatitan_stomp": {
+    "criteria": {
+      "atlatitan_stomp": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/confection_oven": {
+    "criteria": {
+      "mussel": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hatch_tremorzilla_egg": {
+    "criteria": {
+      "hatch_tremorzilla_egg": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_crumbs": {
+    "criteria": {
+      "crumbs": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/farmer_leggings": {
+    "criteria": {
+      "has_leather": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/remote_detonation": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_mussel": {
+    "criteria": {
+      "mussel": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tremorzilla_kill_beam": {
+    "criteria": {
+      "tremorzilla_kill_beam": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_warped": {
+    "criteria": {
+      "has_wood": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cow_offal_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2025-10-28 20:57:33 +0800",
+      "has_raw_cow_offal": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "slam": "2025-10-28 20:57:33 +0800",
+      "green_soylent": "2025-10-28 20:57:33 +0800",
+      "spelunkie": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/shadow_armor": {
+    "criteria": {
+      "helmet": "2025-10-28 20:57:33 +0800",
+      "tunic": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/finished_quarry": {
+    "criteria": {
+      "finished_quarry": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_donkey_meat_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_donkey_meat": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_crimson": {
+    "criteria": {
+      "has_wood": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_boundroid": {
+    "criteria": {
+      "killed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_lamb_chops_from_smoking": {
+    "criteria": {
+      "has_raw_lamb_chops": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sack_of_sating": {
+    "criteria": {
+      "mussel": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:feed_chicken": {
+    "criteria": {
+      "use_caterpillar_feed_chicken": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gelatin": {
+    "criteria": {
+      "gelatin": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/quarry": {
+    "criteria": {
+      "quarry": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/totem_of_possession": {
+    "criteria": {
+      "totem_of_possession": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sweetish_fish_bucket": {
+    "criteria": {
+      "bucket": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/tools/transmutation_lunch_bag": {
+    "criteria": {
+      "has_nether_star": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/mussel": {
+    "criteria": {
+      "mussel": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_cherry": {
+    "criteria": {
+      "has_wood": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:flower_straw_hat": {
+    "criteria": {
+      "has_flower_straw_hat": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_dark_oak": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:millstone": {
+    "criteria": {
+      "drive_the_millstone": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/scarecrow": {
+    "criteria": {
+      "has_pumpkin": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chopping_board": {
+    "criteria": {
+      "has_wood": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/candy_cane_hook": {
+    "criteria": {
+      "candy_cane_hook": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/pearl": {
+    "criteria": {
+      "pearl": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/raygun": {
+    "criteria": {
+      "raygun": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:dual_chili": {
+    "criteria": {
+      "has_green_chili": "2025-10-28 20:57:33 +0800",
+      "has_red_chili": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/fiddlehead": {
+    "criteria": {
+      "fiddlehead": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gum_worm": {
+    "criteria": {
+      "killed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/bioluminesscence": {
+    "criteria": {
+      "bioluminesscence": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_notor": {
+    "criteria": {
+      "killed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_birch": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_corrodent": {
+    "criteria": {
+      "killed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_pork_belly_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_pork_belly": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:nitrogen_100": {
+    "criteria": {
+      "climb_100": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:chopping_board": {
+    "criteria": {
+      "use_chopping_board": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/marine_snow": {
+    "criteria": {
+      "marine_snow": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/desolate_dagger": {
+    "criteria": {
+      "desolate_dagger": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:tomato_seed": {
+    "criteria": {
+      "has_tomato_seed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/stop_nuclear_furnace_meltdown": {
+    "criteria": {
+      "stop_nuclear_furnace_meltdown": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:baozi": {
+    "criteria": {
+      "meat_buns_beat_dogs": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/galena_gauntlet_challenge": {
+    "criteria": {
+      "killed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:steamer": {
+    "criteria": {
+      "use_steamer": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/redstone/stove_soul_campfire": {
+    "criteria": {
+      "has_soul_campfire": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_darkened_apple": {
+    "criteria": {
+      "eat_darkened_apple": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_raycat": {
+    "criteria": {
+      "killed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_bamboo": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:fish_rice": {
+    "criteria": {
+      "place_fish_in_rice_field": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2025-10-28 20:57:33 +0800",
+      "has_compass": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deep_ones_become_helpful": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/underzealot_sacrifice": {
+    "criteria": {
+      "underzealot_sacrifice": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/redstone/stove_campfire": {
+    "criteria": {
+      "has_campfire": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cow_offal_from_smelting": {
+    "criteria": {
+      "has_the_recipe": "2025-10-28 20:57:33 +0800",
+      "has_raw_cow_offal": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defuse_nuclear_bomb": {
+    "criteria": {
+      "interact": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:stockpot": {
+    "criteria": {
+      "place_stockpot_on_heat_source": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_spruce": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_candicorn": {
+    "criteria": {
+      "killed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_bamboo": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:nitrogen_300": {
+    "criteria": {
+      "climb_300": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/feed_relicheirus": {
+    "criteria": {
+      "interact": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/millstone": {
+    "criteria": {
+      "has_smooth_stone": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel_apple": {
+    "criteria": {
+      "mussel": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_lamb_chops_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_lamb_chops": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_oak": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_donkey_meat_from_smelting": {
+    "criteria": {
+      "has_raw_donkey_meat": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_oak": {
+    "criteria": {
+      "has_wood": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gummy_rings": {
+    "criteria": {
+      "red": "2025-10-28 20:57:33 +0800",
+      "pink": "2025-10-28 20:57:33 +0800",
+      "green": "2025-10-28 20:57:33 +0800",
+      "blue": "2025-10-28 20:57:33 +0800",
+      "yellow": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/feed_gammaroach": {
+    "criteria": {
+      "interact": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:stove": {
+    "criteria": {
+      "lit_the_stove": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/shawarma_spit": {
+    "criteria": {
+      "has_campfire": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/wireless_hub": {
+    "criteria": {
+      "has_item": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_block_of_chocolate": {
+    "criteria": {
+      "eat_block_of_chocolate": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dreadbow": {
+    "criteria": {
+      "dreadbow": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deepsight": {
+    "criteria": {
+      "all_effects": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2025-10-28 20:57:33 +0800",
+      "killed_luxtructosaurus": "2025-10-28 20:57:33 +0800",
+      "killed_relicheirus": "2025-10-28 20:57:33 +0800",
+      "killed_tremorsaurus": "2025-10-28 20:57:33 +0800",
+      "killed_atlatitan": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/shadow_silk": {
+    "criteria": {
+      "desolate_dagger": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_lamb_chops_from_smelting": {
+    "criteria": {
+      "has_raw_lamb_chops": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/jelly_bean": {
+    "criteria": {
+      "mussel": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "interact_grottoceratops": "2025-10-28 20:57:33 +0800",
+      "interact_subterranodon": "2025-10-28 20:57:33 +0800",
+      "killed_by_subterranodon": "2025-10-28 20:57:33 +0800",
+      "interact_relicheirus": "2025-10-28 20:57:33 +0800",
+      "killed_vallumraptor": "2025-10-28 20:57:33 +0800",
+      "killed_by_relicheirus": "2025-10-28 20:57:33 +0800",
+      "interact_tremorsaurus": "2025-10-28 20:57:33 +0800",
+      "killed_grottoceratops": "2025-10-28 20:57:33 +0800",
+      "killed_tremorsaurus": "2025-10-28 20:57:33 +0800",
+      "killed_by_grottoceratops": "2025-10-28 20:57:33 +0800",
+      "killed_by_vallumraptor": "2025-10-28 20:57:33 +0800",
+      "killed_subterranodon": "2025-10-28 20:57:33 +0800",
+      "killed_by_tremorsaurus": "2025-10-28 20:57:33 +0800",
+      "interact_vallumraptor": "2025-10-28 20:57:33 +0800",
+      "killed_relicheirus": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_underzealot": "2025-10-28 20:57:33 +0800",
+      "interact_underzealot": "2025-10-28 20:57:33 +0800",
+      "killed_by_underzealot": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/reset_recipe_item": {
+    "criteria": {
+      "has_recipe_item": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:oil": {
+    "criteria": {
+      "kill_hoglin": "2025-10-28 20:57:33 +0800",
+      "kill_pig": "2025-10-28 20:57:33 +0800",
+      "kill_piglin": "2025-10-28 20:57:33 +0800",
+      "kill_piglin_brute": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/mystery_cave_painting": {
+    "criteria": {
+      "mystery_cave_painting": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/magnet": {
+    "criteria": {
+      "scarlet": "2025-10-28 20:57:33 +0800",
+      "azure": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/abyssal_bucket": {
+    "criteria": {
+      "lanternfish_bucket": "2025-10-28 20:57:33 +0800",
+      "sea_pig_bucket": "2025-10-28 20:57:33 +0800",
+      "tripodfish_bucket": "2025-10-28 20:57:33 +0800",
+      "gossamer_worm_bucket": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/frostmint_spear": {
+    "criteria": {
+      "deep_sea_sushi_roll": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:straw_hat": {
+    "criteria": {
+      "has_straw_hat": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_acacia": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:oil_pot": {
+    "criteria": {
+      "use_millstone_get_oil_pot": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_jungle": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hologram_projector": {
+    "criteria": {
+      "hologram_projector": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deep_ones_become_neutral": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:stir_fry": {
+    "criteria": {
+      "stir_fry_in_pot": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_warped": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tremorzilla_egg": {
+    "criteria": {
+      "quarry": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_mangrove": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_candy_cane": {
+    "criteria": {
+      "eat_candy_cane": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "shirt": "2025-10-28 20:57:33 +0800",
+      "pants": "2025-10-28 20:57:33 +0800",
+      "helmet": "2025-10-28 20:57:33 +0800",
+      "boots": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/magnetic_levitation_rail": {
+    "criteria": {
+      "rail": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/shot_gum": {
+    "criteria": {
+      "shot_gum": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2025-10-28 20:57:33 +0800",
+      "has_cobweb": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_watcher": {
+    "criteria": {
+      "killed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_jungle": {
+    "criteria": {
+      "has_wood": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:dark_cuisine": {
+    "criteria": {
+      "has_suspicious_stir_fry_rice_bowl": "2025-10-28 20:57:33 +0800",
+      "has_dark_cuisine": "2025-10-28 20:57:33 +0800",
+      "has_suspicious_stew": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "shirt": "2025-10-28 20:57:33 +0800",
+      "pants": "2025-10-28 20:57:33 +0800",
+      "helmet": "2025-10-28 20:57:33 +0800",
+      "boots": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_mangrove": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ride_gum_worm": {
+    "criteria": {
+      "ride_gum_worm": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:iron_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_oak": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-10-28 20:57:33 +0800",
+      "has_cracked_stone_bricks": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_painting": {
+    "criteria": {
+      "cave_painting": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_bamboo": {
+    "criteria": {
+      "has_wood": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sundae": {
+    "criteria": {
+      "mussel": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/pearl_on_abyssal_altar": {
+    "criteria": {
+      "use_charcoal": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chili_ristra": {
+    "criteria": {
+      "has_red_chili": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:farmer_set": {
+    "criteria": {
+      "has_farmer_chestplate": "2025-10-28 20:57:33 +0800",
+      "has_farmer_leggings": "2025-10-28 20:57:33 +0800",
+      "has_farmer_boots": "2025-10-28 20:57:33 +0800",
+      "has_straw_hat": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/acid_create_rust": {
+    "criteria": {
+      "rust": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_mangrove": {
+    "criteria": {
+      "has_wood": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cow_offal_from_campfire_cooking": {
+    "criteria": {
+      "has_the_recipe": "2025-10-28 20:57:33 +0800",
+      "has_raw_cow_offal": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:pot": {
+    "criteria": {
+      "place_pot_on_heat_source": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium_rod": {
+    "criteria": {
+      "limestone": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:nitrogen_1000": {
+    "criteria": {
+      "climb_1000": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/rainbounce_boots": {
+    "criteria": {
+      "limestone": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/samsa_from_smoking": {
+    "criteria": {
+      "has_stuffed_dough_food": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gobthumper": {
+    "criteria": {
+      "gobthumper": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/moth_ball": {
+    "criteria": {
+      "moth_ball": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_cherry": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/beholder_far_away": {
+    "criteria": {
+      "beholder_far_away": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/samsa_from_campfire_cooking": {
+    "criteria": {
+      "has_stuffed_dough_food": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deep_sea_sushi_roll": {
+    "criteria": {
+      "deep_sea_sushi_roll": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_pork_belly_from_smoking": {
+    "criteria": {
+      "has_raw_pork_belly": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/repair_submarine": {
+    "criteria": {
+      "interact": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaurs_minecart": {
+    "criteria": {
+      "dinosaurs_minecart": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/trilocaris_bucket": {
+    "criteria": {
+      "trilocaris_bucket": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:scarecrow_head": {
+    "criteria": {
+      "place_head_on_scarecrow": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_spruce": {
+    "criteria": {
+      "has_fence": "2025-10-28 20:57:33 +0800",
+      "has_the_recipe": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_vallumraptor": {
+    "criteria": {
+      "killed": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:add_broth": {
+    "criteria": {
+      "put_soup_base_in_stockpot": "2025-10-28 20:57:33 +0800"
     },
     "done": true
   },
