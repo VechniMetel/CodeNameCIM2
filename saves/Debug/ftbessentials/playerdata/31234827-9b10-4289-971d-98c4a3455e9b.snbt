@@ -3,7 +3,7 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "cmi:dionysus", x: 62, y: 53, z: 223, time: 1761900513875L, xRot: 37.350136f, yRot: -102.447754f }
+	last_seen: { dim: "cmi:dionysus", x: 75, y: -9, z: 390, time: 1761902247671L, xRot: 2.999874f, yRot: -2.3864746f }
 	recording: "none"
 	teleport_history: [
 		{ dim: "minecraft:overworld", x: 314, y: 56, z: -27, time: 1757597269005L }
