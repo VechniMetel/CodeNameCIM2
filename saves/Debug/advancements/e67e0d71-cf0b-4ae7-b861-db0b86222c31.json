@@ -52105,5 +52105,17 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2025-11-16 19:32:26 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/millstone": {
+    "criteria": {
+      "has_smooth_stone": "2025-11-16 19:33:16 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
