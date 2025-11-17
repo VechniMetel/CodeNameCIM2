@@ -1,0 +1,16 @@
+filename = 'kaleidoscopecookery-1.1.0-forge+mc1.20.1.jar'
+name = 'Kaleidoscope Cookery'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd8b7432df3fc0d22c2dbbce8564994b8cb10f548'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7057531
+project-id = 1309203

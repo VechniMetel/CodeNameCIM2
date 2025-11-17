@@ -1,0 +1,16 @@
+filename = 'oneenoughfluid-1.1.0.jar'
+name = 'One Enough Fluid'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fdf812ee97b20a65226db1b786b7b618c22caf73'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7113912
+project-id = 1366406

@@ -1,0 +1,16 @@
+filename = 'ImmersiveIndustry-1.20.1-0.2.3.jar'
+name = 'Immersive Industry (1.16/1.20)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bdbc562f6d423bc896dc941ec3679a3b45326e51'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6585746
+project-id = 542053

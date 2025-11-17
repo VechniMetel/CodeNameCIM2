@@ -1,0 +1,16 @@
+filename = 'oneenoughblock-1.1.0.jar'
+name = 'One Enough Block'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '560db3b9c3d1d4e6ab4eae6f00f7bf5547683cb7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7098067
+project-id = 1356867

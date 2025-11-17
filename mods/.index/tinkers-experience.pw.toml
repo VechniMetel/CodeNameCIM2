@@ -1,0 +1,16 @@
+filename = 'tinkerleveling-0.4.0.jar'
+name = 'Tinkers Experience'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '618a964dd546a198c8cdb16c34eb66c6ec510360'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6736656
+project-id = 1301337

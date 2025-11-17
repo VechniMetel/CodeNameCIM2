@@ -1,0 +1,16 @@
+filename = 'TConstruct-1.20.1-3.10.2.92.jar'
+name = 'Tinkers Construct'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '74cc057cc01fdb0186504d71623b5811bbe705f9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6777068
+project-id = 74072

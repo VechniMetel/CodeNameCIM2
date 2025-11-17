@@ -1,0 +1,16 @@
+filename = 'fabric-api-0.92.6+1.11.14+1.20.1.jar'
+name = 'Forgified Fabric API'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '285c22b2567b9fdf98ef9808eceb5557de9611d3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6885853
+project-id = 889079

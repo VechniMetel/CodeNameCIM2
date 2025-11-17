@@ -1,0 +1,16 @@
+filename = 'thermal_innovation-1.20.1-11.0.1.23.jar'
+name = 'Thermal Innovation'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5c6881416ff4fb116d05f4a48acf12b30f10af82'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5372751
+project-id = 291737

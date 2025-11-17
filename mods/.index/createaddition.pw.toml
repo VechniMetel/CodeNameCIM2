@@ -1,0 +1,16 @@
+filename = 'createaddition-1.20.1-1.2.5.jar'
+name = 'Create Crafts & Additions'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '956186484bab4eeee5eb0250e5509f1e01ad5094'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6084982
+project-id = 439890

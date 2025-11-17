@@ -1,0 +1,16 @@
+filename = 'WI-Zoom-1.5-MC1.20.1-Forge.jar'
+name = 'WI Zoom'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'de100712cf2b7187a23f5cd726b93e576592979b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4770975
+project-id = 349630

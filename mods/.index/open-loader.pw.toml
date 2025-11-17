@@ -1,0 +1,16 @@
+filename = 'OpenLoader-Forge-1.20.1-19.0.4.jar'
+name = 'Open Loader'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '13ee67dace2825fc593bf2bc1e44f8b4122a557d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5368592
+project-id = 354339

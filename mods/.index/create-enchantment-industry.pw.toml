@@ -1,0 +1,16 @@
+filename = 'create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar'
+name = 'Create: Enchantment Industry'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'eec891067ec8c72fdaeb97bece103eed5e10e719'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5331908
+project-id = 688768

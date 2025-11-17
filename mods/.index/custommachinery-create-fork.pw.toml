@@ -1,0 +1,16 @@
+filename = 'CustomMachineryCreate-forge-1.20.1-1.1.3.jar'
+name = 'CustomMachinery Create (Fork)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd8d481e98cc9cbfadf0c77022924c3d3f0ac8f50'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5757778
+project-id = 1109533

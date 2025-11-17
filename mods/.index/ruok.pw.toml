@@ -1,0 +1,16 @@
+filename = 'RuOK-1.7.1_1.20.1-Forge.jar'
+name = 'RuOK'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd4590f8358134bd8a9392a216985f23474b6fb7e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6287491
+project-id = 910904

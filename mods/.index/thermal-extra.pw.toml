@@ -1,0 +1,16 @@
+filename = 'ThermalExtra-3.2.7-1.20.1.jar'
+name = 'Thermal Extra'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '98ecd24137c7a22e644c33483a41997d74b0a583'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6982028
+project-id = 573674

@@ -1,0 +1,16 @@
+filename = 'FarmersDelight-1.20.1-1.2.7.jar'
+name = "Farmer's Delight"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0e614a93c6520d7b4e6714ba110daa416f07c716'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6154802
+project-id = 398521

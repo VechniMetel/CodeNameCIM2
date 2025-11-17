@@ -1,0 +1,16 @@
+filename = 'flerovium-forge-1.20.1-1.2.15-all.jar'
+name = 'Flerovium'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bdddd8b5b32c3efe38c7e8cda654e6382eb4d817'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6790332
+project-id = 1142875

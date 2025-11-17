@@ -1,0 +1,16 @@
+filename = 'tconjei-1.20.1-1.5.0.jar'
+name = 'TConJEI'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ace07009488cb4251e522247d78de438253decac'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6841685
+project-id = 974154

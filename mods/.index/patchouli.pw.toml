@@ -1,0 +1,16 @@
+filename = 'Patchouli-1.20.1-84.1-FORGE.jar'
+name = 'Patchouli'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e91d2e2f251375d647d592b670ea6f310c2554eb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6164575
+project-id = 306770

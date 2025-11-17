@@ -1,0 +1,16 @@
+filename = 'kubejs-thermal-2001.1.10-build.2.jar'
+name = 'KubeJS Thermal'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bace9e49302c3ef2a23b4522ea37b9c78ccf8770'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5002992
+project-id = 421694

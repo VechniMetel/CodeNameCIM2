@@ -1,0 +1,16 @@
+filename = 'ftb-ultimine-forge-2001.1.7.jar'
+name = 'FTB Ultimine (Forge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3cbefa29b387cebb85022cb0ff838fd54b67cf82'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6899418
+project-id = 386134

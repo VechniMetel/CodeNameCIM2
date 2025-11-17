@@ -1,0 +1,16 @@
+filename = 'thermalconstruct-1.20.1-0.0.2.jar'
+name = 'Thermal Construct'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c948a5c266272eed42b0526b4e869d8521b1d737'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6982699
+project-id = 1280482
