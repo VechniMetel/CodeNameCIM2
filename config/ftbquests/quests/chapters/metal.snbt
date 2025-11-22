@@ -1892,6 +1892,7 @@
 			y: -8.5d
 		}
 		{
+			description: ["B a t t l e f i e l d  2 0 4 2"]
 			icon: "minecraft:netherite_ingot"
 			id: "5FC14F277DFCCEBB"
 			rewards: [{
