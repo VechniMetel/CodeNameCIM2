@@ -1,4 +1,11 @@
 // priority: 100
+let $FluidTags =
+	Java.loadClass("net.minecraft.tags.FluidTags")
+let $BuiltInRegistries =
+	Java.loadClass("net.minecraft.core.registries.BuiltInRegistries")
+let $RegistryInfo =
+	Java.loadClass("dev.latvian.mods.kubejs.registry.RegistryInfo")
+
 let IngrUtils = {
 	/**
 	 * 获取标签内第一个物品的ID, 若标签下没有物品则返回null

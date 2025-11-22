@@ -31,10 +31,6 @@ let $Axis =
 	Java.loadClass("com.mojang.math.Axis")
 let $ParticleTypes =
 	Java.loadClass("net.minecraft.core.particles.ParticleTypes")
-let $FluidTags =
-	Java.loadClass("net.minecraft.tags.FluidTags")
-let $BuiltInRegistries =
-	Java.loadClass("net.minecraft.core.registries.BuiltInRegistries")
 let $BlockBehaviour$Properties =
 	Java.loadClass("net.minecraft.world.level.block.state.BlockBehaviour$Properties")
 let $BlockItem =
@@ -125,10 +121,6 @@ let $FunctionalStorage =
 	Java.loadClass("com.buuz135.functionalstorage.FunctionalStorage")
 let $FunctionalStorage$DrawerType =
 	Java.loadClass("com.buuz135.functionalstorage.FunctionalStorage$DrawerType")
-
-// KubeJS
-let $RegistryInfo =
-	Java.loadClass("dev.latvian.mods.kubejs.registry.RegistryInfo")
 
 // Java 基础类 / 时间类 / 工具类
 let $LocalDateTime =
