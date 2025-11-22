@@ -70,6 +70,9 @@ StartupEvents.registry("painting_variant", (event) => {
 	addPainting("driver_train", 16, 16)
 	addPainting("driver_wooden", 16, 16)
 
+	// 1174
+	addPainting("a_cute_saab32",64,64)
+
 	function addPainting(name, width, height) {
 		let paintingRegister =
 			event.create(`${global.namespace}:${name}`)

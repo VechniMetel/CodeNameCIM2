@@ -4,7 +4,7 @@
 	filename: "reinforced"
 	group: "65AEEF30E0964DD3"
 	icon: "cmi:reinforced_mechanism"
-	id: "2ACE07A16DA534E2"
+	id: "6015CC0F98AF8E41"
 	images: [{
 		height: 23.28d
 		image: "cmi:textures/images/background/reinforced.png"
@@ -19,14 +19,14 @@
 		{
 			disable_toast: true
 			hide_dependent_lines: true
-			id: "30EFA1374E7084FF"
+			id: "59AECE4B70F3A6B2"
 			rewards: [{
-				id: "5588647311E36CD0"
+				id: "0B348A38A8409F33"
 				type: "xp"
 				xp: 10
 			}]
 			tasks: [{
-				id: "4DF11AC98114A8DF"
+				id: "34C09270F6639D77"
 				item: {
 					Count: 1
 					id: "itemfilters:tag"
@@ -44,14 +44,14 @@
 		{
 			disable_toast: true
 			hide_dependent_lines: true
-			id: "48700A4423961B0D"
+			id: "767CFDF36871ACB3"
 			rewards: [{
-				id: "0472AE80EF67632D"
+				id: "2CB2D559654DA7ED"
 				type: "xp"
 				xp: 10
 			}]
 			tasks: [{
-				id: "5C7ED46F1DA8B3BA"
+				id: "2055ECD1F0C415F1"
 				item: "minecraft:gold_ingot"
 				type: "item"
 			}]
@@ -66,9 +66,9 @@
 			]
 			disable_toast: true
 			hide_dependent_lines: true
-			id: "6CE0CC280F64F895"
+			id: "669936FAC87DD467"
 			tasks: [{
-				id: "0A85EC20F87AAF3A"
+				id: "1838ECAE2F466FCA"
 				title: "混合"
 				type: "checkmark"
 			}]
@@ -79,14 +79,14 @@
 			dependencies: ["1E446EB15DE75BAD"]
 			disable_toast: true
 			hide_dependent_lines: true
-			id: "64983DF7295C7FF4"
+			id: "6A106ECB7592900F"
 			rewards: [{
-				id: "3E0082FBE686A770"
+				id: "3DB5C0BA5551615E"
 				type: "xp"
 				xp: 10
 			}]
 			tasks: [{
-				id: "6675D3CF2BD5066A"
+				id: "088C0EA73CBC9318"
 				item: {
 					Count: 1
 					id: "itemfilters:tag"
@@ -105,9 +105,9 @@
 			dependencies: ["73121B5585D69262"]
 			disable_toast: true
 			hide_dependent_lines: true
-			id: "47864468EBF5BA79"
+			id: "2361697F41251D9C"
 			tasks: [{
-				id: "342B13634762F103"
+				id: "60DCEA1758458555"
 				title: "压制"
 				type: "checkmark"
 			}]
@@ -118,14 +118,14 @@
 			dependencies: ["22877136228BAEC0"]
 			disable_toast: true
 			hide_dependent_lines: true
-			id: "6C9A027F6AE4CF7C"
+			id: "7D418EFCE746310C"
 			rewards: [{
-				id: "7E2DB47657436B9B"
+				id: "1A0D6CE7E72707EE"
 				type: "xp"
 				xp: 10
 			}]
 			tasks: [{
-				id: "093622880D274473"
+				id: "15DFDC213BE6ACFE"
 				item: {
 					Count: 1
 					id: "itemfilters:tag"
@@ -144,14 +144,14 @@
 			dependencies: ["6D62D2B44AFBD4B1"]
 			disable_toast: true
 			hide_dependent_lines: true
-			id: "23312DE4A378071B"
+			id: "02CA757F6A5342AE"
 			rewards: [{
-				id: "33B5257E480C2FCC"
+				id: "47812C3357093274"
 				type: "xp"
 				xp: 10
 			}]
 			tasks: [{
-				id: "3DE51F13498747AB"
+				id: "7987F3E9ECDF3B4D"
 				item: "thermal:rf_coil"
 				type: "item"
 			}]
@@ -162,14 +162,14 @@
 		{
 			disable_toast: true
 			hide_dependent_lines: true
-			id: "4F25B9540452175C"
+			id: "307C001CB067E1DE"
 			rewards: [{
-				id: "023DB1EDB971C3B2"
+				id: "23054B2931F6CC68"
 				type: "xp"
 				xp: 10
 			}]
 			tasks: [{
-				id: "0AF1F7EE4CD04C46"
+				id: "5A62125F034AD431"
 				item: "thermal:signalum_dust"
 				type: "item"
 			}]
@@ -181,9 +181,9 @@
 			dependencies: ["56EFDD3333BB54AF"]
 			disable_toast: true
 			hide_dependent_lines: true
-			id: "115779CCF5D5D01F"
+			id: "332E16CCE388903D"
 			tasks: [{
-				id: "28EC1CCBA2145394"
+				id: "3261656A96BB5AC7"
 				title: "熔炼"
 				type: "checkmark"
 			}]
@@ -194,14 +194,14 @@
 			dependencies: ["1FC3C56F861CAEEF"]
 			disable_toast: true
 			hide_dependent_lines: true
-			id: "381FB10B8BCF8AB2"
+			id: "1533670095B4E9D0"
 			rewards: [{
-				id: "3ED255A6550FA6CE"
+				id: "5B3BA61EA236B78B"
 				type: "xp"
 				xp: 10
 			}]
 			tasks: [{
-				id: "53A1E8573F83CA9D"
+				id: "4E65A5DCD4053C6A"
 				item: "thermal:signalum_ingot"
 				type: "item"
 			}]
@@ -213,9 +213,9 @@
 			dependencies: ["79390B295BEC1A2B"]
 			disable_toast: true
 			hide_dependent_lines: true
-			id: "13108242DD2E43FA"
+			id: "560A33802EAADFF3"
 			tasks: [{
-				id: "5259B7F3D6D8DC3E"
+				id: "0B787B9AB456E022"
 				title: "齿轮压制模具"
 				type: "checkmark"
 			}]
@@ -229,14 +229,14 @@
 			]
 			disable_toast: true
 			hide_dependent_lines: true
-			id: "4AC0AA756FA579EB"
+			id: "1AE93259EBC65851"
 			rewards: [{
-				id: "15C174359E46D81B"
+				id: "662D18B4C700B10A"
 				type: "xp"
 				xp: 10
 			}]
 			tasks: [{
-				id: "3700C6D9B4ED727D"
+				id: "74E80C3B4C4A7979"
 				item: "thermal:signalum_gear"
 				type: "item"
 			}]
@@ -248,14 +248,14 @@
 			dependencies: ["77E890753F312A53"]
 			disable_toast: true
 			hide_dependent_lines: true
-			id: "39EC9C13E3A3D3EC"
+			id: "1BAB563A9045F656"
 			rewards: [{
-				id: "349DC4C40C8A3DB1"
+				id: "6539348DDF9D244D"
 				type: "xp"
 				xp: 10
 			}]
 			tasks: [{
-				id: "2F76BA6AF98D8042"
+				id: "65A47329FEBC1F45"
 				item: "cmi:flux_mechanism_part"
 				type: "item"
 			}]
@@ -267,9 +267,9 @@
 			dependencies: ["0F99DFE45596681F"]
 			disable_toast: true
 			hide_dependent_lines: true
-			id: "2447DBDA8179245B"
+			id: "1EDF96E0A79DDD65"
 			tasks: [{
-				id: "6E0EEA9EDA9727BE"
+				id: "71276604E07CD7FC"
 				item: "cmi:reinforced_mechanism"
 				type: "item"
 			}]
