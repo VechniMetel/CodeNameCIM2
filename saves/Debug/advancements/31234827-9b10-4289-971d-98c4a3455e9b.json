@@ -48568,12 +48568,6 @@
     },
     "done": true
   },
-  "cmi:start": {
-    "criteria": {
-      "0": "2025-08-19 17:41:37 +0800"
-    },
-    "done": true
-  },
   "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
     "criteria": {
       "has_item": "2025-08-19 17:43:08 +0800"
@@ -53914,6 +53908,12 @@
   "kaleidoscope_cookery:add_broth": {
     "criteria": {
       "put_soup_base_in_stockpot": "2025-10-28 20:57:33 +0800"
+    },
+    "done": true
+  },
+  "cmi:meet": {
+    "criteria": {
+      "0": "2025-11-27 16:30:13 +0800"
     },
     "done": true
   },
