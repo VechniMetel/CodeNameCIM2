@@ -51934,5 +51934,29 @@
     },
     "done": true
   },
+  "kaleidoscope_cookery:recipes/tools/oil_pot": {
+    "criteria": {
+      "has_bucket": "2025-11-30 18:02:30 +0100"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:root": {
+    "criteria": {
+      "has_pot": "2025-11-30 18:02:30 +0100"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_acacia": {
+    "criteria": {
+      "has_fence": "2025-11-30 18:04:53 +0100"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_acacia": {
+    "criteria": {
+      "has_fence": "2025-11-30 18:04:53 +0100"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
