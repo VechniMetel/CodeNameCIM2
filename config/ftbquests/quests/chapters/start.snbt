@@ -478,7 +478,6 @@
 			description: [
 				"工业大麻种子可以打草获得"
 				"亚麻普遍可以海边找到"
-				"{image:cmi:textures/images/linen_generate.png width:185 height:105 align:center}"
 			]
 			icon: "minecraft:string"
 			id: "542BB1A40BC1B441"
@@ -487,24 +486,12 @@
 				type: "xp"
 				xp: 10
 			}]
-			tasks: [
-				{
-					id: "5D45077745461FF6"
-					item: "immersiveengineering:seed"
-					optional_task: true
-					type: "item"
-				}
-				{
-					id: "03BF5BE848435504"
-					item: "supplementaries:flax_seeds"
-					optional_task: true
-					type: "item"
-				}
-				{
-					id: "0409DDDE56372F91"
-					type: "checkmark"
-				}
-			]
+			tasks: [{
+				id: "5D45077745461FF6"
+				item: "immersiveengineering:seed"
+				optional_task: true
+				type: "item"
+			}]
 			title: "线的来源"
 			x: -1.5d
 			y: -4.0d
