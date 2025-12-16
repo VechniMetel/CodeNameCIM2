@@ -1,12 +1,12 @@
 {
 	id: "11582a8f-0426-4607-98e4-4f11bb12ae34"
 	type: "player"
-	player_name: "Vechni_Metel"
+	player_name: "eternalsnowstorm"
 	ranks: {
 		11582a8f-0426-4607-98e4-4f11bb12ae34: "owner"
 	}
 	properties: {
-		"ftbteams:display_name": "Vechni_Metel"
+		"ftbteams:display_name": "eternalsnowstorm"
 		"ftbteams:description": ""
 		"ftbteams:color": "#59FFA3"
 		"ftbteams:free_to_join": 0b
