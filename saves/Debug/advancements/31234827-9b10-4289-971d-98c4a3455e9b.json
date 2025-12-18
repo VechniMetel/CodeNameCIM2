@@ -53917,5 +53917,472 @@
     },
     "done": true
   },
+  "advanced_ae:recipes/misc/quantum_alloy_block_wall": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/sprint_speed_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_crafter_terminal": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_alloy_slab": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "cmi:echoes_south_cross": {
+    "criteria": {
+      "0": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/throughput_monitor_configurator": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/strength_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/hp_buffer_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumaccel": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/water_breathing_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_base_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_alloy_from_block": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/portable_workbench_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/advpatpropart": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_chest": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/walk_speed_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/smalladvpatpro": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/evasion_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_boots_item_reset": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/flight_drift_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/jump_height_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_alloy_block_slab": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/smalladvpatpro2": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_boots": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/import_export_bus": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_leggings_item_reset": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_alloy_wall": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/auto_feed_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumunit": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumstorage128": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_alloy_stairs": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/advanced_io_bus": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/magnet_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_leggings": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantummultithreader": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "cmi:echoes_north_star": {
+    "criteria": {
+      "0": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_storage_component": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/step_assist_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_chestplate_item_reset": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/lava_immunity_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/regeneration_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/advpatpro2": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/throughput_monitor": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumcore": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumstorage256": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/swim_speed_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumstructure": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_helmet": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_helmet_item_reset": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/flight_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_alloy_block": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/night_vision_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/reach_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/luck_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/smallappupgrade": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_alloy_block_stair": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/stock_export_bus": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/pick_craft_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/reactionchamber": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/recharging_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/advpartenc": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/auto_stock_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumdataentangler": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/attack_speed_card": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/smalladvpatpropart": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/largeappupgrade": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumcrafter": {
+    "criteria": {
+      "hasItem": "2025-12-18 18:23:03 +0800",
+      "has_the_recipe": "2025-12-18 18:23:03 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
