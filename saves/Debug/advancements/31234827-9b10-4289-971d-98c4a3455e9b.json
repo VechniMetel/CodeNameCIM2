@@ -37966,48 +37966,6 @@
     },
     "done": true
   },
-  "expatternprovider:recipes/misc/ebus_upgrade": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/assembler_matrix_pattern": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/assembler_matrix_speed": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/ebus_out": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/tag_export_bus": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/threshold_level_emitter": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
   "thermalendergy:recipes/misc/stellarium_ingot_from_dust": {
     "criteria": {
       "has_ingot": "2025-04-17 14:56:37 +0800",
@@ -38022,21 +37980,7 @@
     },
     "done": true
   },
-  "expatternprovider:recipes/misc/assembler_matrix_wall": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/smoking/bread": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/assembler_matrix_glass": {
     "criteria": {
       "has_item": "2025-04-17 14:56:37 +0800",
       "has_the_recipe": "2025-04-17 14:56:37 +0800"
@@ -38050,38 +37994,10 @@
     },
     "done": true
   },
-  "expatternprovider:recipes/misc/precise_storage_bus": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
   "thermalendergy:recipes/misc/melodic_range_augment": {
     "criteria": {
       "has_the_recipe": "2025-04-17 14:56:37 +0800",
       "has_melodium": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/epa_upgrade": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/tape": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/pre_bus": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
     },
     "done": true
   },
@@ -38106,27 +38022,6 @@
     },
     "done": true
   },
-  "expatternprovider:recipes/misc/oversize_interface": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/crystal_fixer": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/ei_alt": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
   "thermalendergy:recipes/misc/melodium_block_from_ingot": {
     "criteria": {
       "has_ingot": "2025-04-17 14:56:37 +0800",
@@ -38134,51 +38029,9 @@
     },
     "done": true
   },
-  "expatternprovider:recipes/misc/mod_storage_bus": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
   "thermalendergy:recipes/misc/stellarium_ingot_from_nugget": {
     "criteria": {
       "has_ingot": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/water_cell": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/wireless_ex_pat": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/silicon_block": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/cobblestone_cell": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/fishbig": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
       "has_the_recipe": "2025-04-17 14:56:37 +0800"
     },
     "done": true
@@ -38197,34 +38050,6 @@
     },
     "done": true
   },
-  "expatternprovider:recipes/misc/wireless_connector": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/ex_io_port": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/active_formation_plane": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/ebus_in": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
   "thermalendergy:recipes/misc/prismalium_block_from_ingot": {
     "criteria": {
       "has_ingot": "2025-04-17 14:56:37 +0800",
@@ -38232,51 +38057,9 @@
     },
     "done": true
   },
-  "expatternprovider:recipes/misc/epp_part": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
   "thermalendergy:recipes/misc/stellarium_ingot": {
     "criteria": {
       "has_ingot": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/ex_drive": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/ingredient_buffer": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/caner": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/ex_molecular_assembler": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/pattern_modifier": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
       "has_the_recipe": "2025-04-17 14:56:37 +0800"
     },
     "done": true
@@ -38295,13 +38078,6 @@
     },
     "done": true
   },
-  "expatternprovider:recipes/misc/mod_export_bus": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
   "thermalendergy:recipes/misc/melodium_ingot": {
     "criteria": {
       "has_ingot": "2025-04-17 14:56:37 +0800",
@@ -38309,30 +38085,9 @@
     },
     "done": true
   },
-  "expatternprovider:recipes/misc/ei_upgrade": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/silicon_block_disassembler": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
   "thermalendergy:recipes/misc/melodium_nugget": {
     "criteria": {
       "has_ingot": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/assembler_matrix_frame": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
       "has_the_recipe": "2025-04-17 14:56:37 +0800"
     },
     "done": true
@@ -38358,34 +38113,6 @@
     },
     "done": true
   },
-  "expatternprovider:recipes/misc/threshold_export_bus": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/wireless_tool": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/ex_inscriber": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/circuit_cutter": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
   "thermalendergy:recipes/misc/endergy_upgrade_3": {
     "criteria": {
       "has_stellarium": "2025-04-17 14:56:37 +0800",
@@ -38407,41 +38134,6 @@
     },
     "done": true
   },
-  "expatternprovider:recipes/misc/assembler_matrix_crafter": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/ei": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/epp_alt": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/epp": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/epa": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
   "thermalendergy:recipes/misc/prismalium_ingot_from_dust": {
     "criteria": {
       "has_ingot": "2025-04-17 14:56:37 +0800",
@@ -38452,13 +38144,6 @@
   "thermalendergy:recipes/misc/vibrating_core": {
     "criteria": {
       "has_echo_shard": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/oversize_interface_alt": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
       "has_the_recipe": "2025-04-17 14:56:37 +0800"
     },
     "done": true
@@ -38477,30 +38162,9 @@
     },
     "done": true
   },
-  "expatternprovider:recipes/misc/ex_charger": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/epp_upgrade": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
   "thermalendergy:recipes/misc/stellarium_nugget": {
     "criteria": {
       "has_ingot": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/ei_part": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
       "has_the_recipe": "2025-04-17 14:56:37 +0800"
     },
     "done": true
@@ -38509,13 +38173,6 @@
     "criteria": {
       "has_the_recipe": "2025-04-17 14:56:37 +0800",
       "has_melodium": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/tag_storage_bus": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
     },
     "done": true
   },
@@ -38529,20 +38186,6 @@
   "thermalendergy:recipes/misc/melodium_gear": {
     "criteria": {
       "has_ingot": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/ex_drive_upgrade": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
-      "has_the_recipe": "2025-04-17 14:56:37 +0800"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/oversize_interface_part": {
-    "criteria": {
-      "has_item": "2025-04-17 14:56:37 +0800",
       "has_the_recipe": "2025-04-17 14:56:37 +0800"
     },
     "done": true
@@ -48361,20 +48004,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/schematic_table": {
-    "criteria": {
-      "has_the_recipe": "2025-06-20 13:17:46 +0800",
-      "has_crafting_table": "2025-06-20 13:17:46 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/recycle_schematic": {
-    "criteria": {
-      "has_the_recipe": "2025-06-20 13:17:46 +0800",
-      "has_crafting_table": "2025-06-20 13:17:46 +0800"
-    },
-    "done": true
-  },
   "create_connected:recipes/crafting/kinetics/six_way_gearbox": {
     "criteria": {
       "has_item": "2025-07-10 23:09:11 +0800",
@@ -52235,12 +51864,6 @@
     },
     "done": true
   },
-  "kaleidoscope_cookery:recipes/decorations/enamel_basin": {
-    "criteria": {
-      "has_ingot_iron": "2025-10-16 21:46:15 +0800"
-    },
-    "done": true
-  },
   "kaleidoscope_cookery:recipes/decorations/stockpot_lid": {
     "criteria": {
       "has_ingot_iron": "2025-10-16 21:46:15 +0800"
@@ -53334,13 +52957,6 @@
     },
     "done": true
   },
-  "expatternprovider:recipes/misc/wireless_hub": {
-    "criteria": {
-      "has_item": "2025-10-28 20:57:33 +0800",
-      "has_the_recipe": "2025-10-28 20:57:33 +0800"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/eat_block_of_chocolate": {
     "criteria": {
       "eat_block_of_chocolate": "2025-10-28 20:57:33 +0800"
@@ -53425,10 +53041,7 @@
   },
   "kaleidoscope_cookery:oil": {
     "criteria": {
-      "kill_hoglin": "2025-10-28 20:57:33 +0800",
-      "kill_pig": "2025-10-28 20:57:33 +0800",
-      "kill_piglin": "2025-10-28 20:57:33 +0800",
-      "kill_piglin_brute": "2025-10-28 20:57:33 +0800"
+      "kill_pig": "2025-10-28 20:57:33 +0800"
     },
     "done": true
   },
@@ -53482,12 +53095,6 @@
     "criteria": {
       "has_fence": "2025-10-28 20:57:33 +0800",
       "has_the_recipe": "2025-10-28 20:57:33 +0800"
-    },
-    "done": true
-  },
-  "kaleidoscope_cookery:oil_pot": {
-    "criteria": {
-      "use_millstone_get_oil_pot": "2025-10-28 20:57:33 +0800"
     },
     "done": true
   },
