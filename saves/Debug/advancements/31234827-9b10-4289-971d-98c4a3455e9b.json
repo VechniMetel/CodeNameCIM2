@@ -3052,13 +3052,6 @@
     },
     "done": true
   },
-  "tconstruct:recipes/combat/tools/armor/travelers_boots": {
-    "criteria": {
-      "has_item": "2025-03-17 23:57:41 +0800",
-      "has_the_recipe": "2025-03-17 23:57:41 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_the_recipe": "2025-03-17 23:57:41 +0800",
@@ -3243,13 +3236,6 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-03-17 23:57:41 +0800",
-      "has_the_recipe": "2025-03-17 23:57:41 +0800"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/gadgets/shuriken/flint_shuriken": {
-    "criteria": {
-      "has_item": "2025-03-17 23:57:41 +0800",
       "has_the_recipe": "2025-03-17 23:57:41 +0800"
     },
     "done": true
@@ -7995,13 +7981,6 @@
     },
     "done": true
   },
-  "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
-    "criteria": {
-      "has_item": "2025-03-17 23:57:42 +0800",
-      "has_the_recipe": "2025-03-17 23:57:42 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/long_blue_brick_wall_from_blue_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-17 23:57:42 +0800",
@@ -9405,6 +9384,7 @@
       "broad_axe": "2025-03-17 23:57:42 +0800",
       "scythe": "2025-03-17 23:57:42 +0800",
       "excavator": "2025-03-17 23:57:42 +0800",
+      "javelin": "2025-12-26 13:02:33 +0800",
       "sledge_hammer": "2025-03-17 23:57:42 +0800",
       "longbow": "2025-03-17 23:57:42 +0800",
       "vein_hammer": "2025-03-17 23:57:42 +0800",
@@ -9609,13 +9589,6 @@
   "createdeco:recipes/building_blocks/corner_dusk_brick_slab_from_tiled_dusk_brick_slab_stonecutting": {
     "criteria": {
       "has_tiled_dusk_brick_slab": "2025-03-17 23:57:42 +0800",
-      "has_the_recipe": "2025-03-17 23:57:42 +0800"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
-    "criteria": {
-      "has_item": "2025-03-17 23:57:42 +0800",
       "has_the_recipe": "2025-03-17 23:57:42 +0800"
     },
     "done": true
@@ -12049,11 +12022,11 @@
     "criteria": {
       "darkthread": "2025-03-17 23:57:42 +0800",
       "glass": "2025-03-17 23:57:42 +0800",
-      "rotten_flesh": "2025-03-17 23:57:42 +0800",
       "string": "2025-03-17 23:57:42 +0800",
       "blazing_bone": "2025-03-17 23:57:42 +0800",
       "venombone": "2025-03-17 23:57:42 +0800",
       "bone": "2025-03-17 23:57:42 +0800",
+      "leather": "2025-12-26 13:02:33 +0800",
       "gold": "2025-03-17 23:57:42 +0800",
       "ender_pearl": "2025-03-17 23:57:42 +0800",
       "pig_iron": "2025-03-17 23:57:42 +0800",
@@ -15297,6 +15270,7 @@
       "vine": "2025-03-17 23:57:42 +0800",
       "whitestone": "2025-03-17 23:57:42 +0800",
       "slimesteel": "2025-03-17 23:57:42 +0800",
+      "knightmetal": "2025-12-26 13:02:33 +0800",
       "blazing_bone": "2025-03-17 23:57:42 +0800",
       "queens_slime": "2025-03-17 23:57:42 +0800",
       "bone": "2025-03-17 23:57:42 +0800",
@@ -23228,13 +23202,6 @@
     },
     "done": true
   },
-  "tconstruct:recipes/combat/tools/armor/travelers_chestplate": {
-    "criteria": {
-      "has_item": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_light_blue_from_slab": {
     "criteria": {
       "has_sheetmetal_colored_light_blue": "2025-03-17 23:57:44 +0800",
@@ -25740,13 +25707,6 @@
   "tconstruct:recipes/building_blocks/smeltery/scorched/chiseled_scorched_bricks_stonecutting": {
     "criteria": {
       "has_block": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/tools/armor/travelers_pants": {
-    "criteria": {
-      "has_item": "2025-03-17 23:57:44 +0800",
       "has_the_recipe": "2025-03-17 23:57:44 +0800"
     },
     "done": true
@@ -28885,13 +28845,6 @@
     },
     "done": true
   },
-  "tconstruct:recipes/combat/tools/armor/travelers_goggles": {
-    "criteria": {
-      "has_item": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_the_recipe": "2025-03-17 23:57:44 +0800",
@@ -30023,13 +29976,6 @@
   "farmersdelight:recipes/decorations/black_canvas_sign": {
     "criteria": {
       "has_canvas_sign": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/tools/armor/travelers_shield": {
-    "criteria": {
-      "has_item": "2025-03-17 23:57:44 +0800",
       "has_the_recipe": "2025-03-17 23:57:44 +0800"
     },
     "done": true
@@ -32697,6 +32643,7 @@
       "flamewake": "2025-03-17 23:57:44 +0800",
       "bonking": "2025-03-17 23:57:44 +0800",
       "crystalshot": "2025-03-17 23:57:44 +0800",
+      "channeling": "2025-12-26 13:02:33 +0800",
       "unbreakable": "2025-03-17 23:57:44 +0800",
       "soul_belt": "2025-03-17 23:57:44 +0800",
       "snowdrift": "2025-03-17 23:57:44 +0800",
@@ -32715,8 +32662,10 @@
       "melting": "2025-03-17 23:57:44 +0800",
       "protection": "2025-03-17 23:57:44 +0800",
       "ambidextrous": "2025-03-17 23:57:44 +0800",
+      "collecting": "2025-12-26 13:02:33 +0800",
       "exchanging": "2025-03-17 23:57:44 +0800",
       "pathing": "2025-03-17 23:57:44 +0800",
+      "throwing": "2025-12-26 13:02:33 +0800",
       "double_jump": "2025-03-17 23:57:44 +0800",
       "expanded": "2025-03-17 23:57:44 +0800",
       "stripping": "2025-03-17 23:57:44 +0800",
@@ -32732,6 +32681,8 @@
       "bulk_quiver": "2025-03-17 23:57:44 +0800",
       "glowing": "2025-03-17 23:57:44 +0800",
       "splashing": "2025-03-17 23:57:44 +0800",
+      "returning": "2025-12-26 13:02:33 +0800",
+      "grapple": "2025-12-26 13:02:33 +0800",
       "parrying": "2025-03-17 23:57:44 +0800",
       "tool_belt": "2025-03-17 23:57:44 +0800"
     },
@@ -34178,13 +34129,6 @@
   "createdeco:recipes/building_blocks/short_blue_brick_slab_from_long_blue_brick_slab_stonecutting": {
     "criteria": {
       "has_long_blue_brick_slab": "2025-03-17 23:57:44 +0800",
-      "has_the_recipe": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/gadgets/shuriken/quartz_shuriken": {
-    "criteria": {
-      "has_item": "2025-03-17 23:57:44 +0800",
       "has_the_recipe": "2025-03-17 23:57:44 +0800"
     },
     "done": true
@@ -54387,6 +54331,125 @@
   "cmi:start": {
     "criteria": {
       "0": "2025-12-22 23:04:01 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/knightmetal_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-12-26 13:02:33 +0800",
+      "has_the_recipe": "2025-12-26 13:02:33 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers/goggles": {
+    "criteria": {
+      "has_item": "2025-12-26 13:02:33 +0800",
+      "has_the_recipe": "2025-12-26 13:02:33 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers/shield": {
+    "criteria": {
+      "has_item": "2025-12-26 13:02:33 +0800",
+      "has_the_recipe": "2025-12-26 13:02:33 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tools/parts/fake_block_to_ingots": {
+    "criteria": {
+      "has_item": "2025-12-26 13:02:33 +0800",
+      "has_the_recipe": "2025-12-26 13:02:33 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tables/scorched_anvil_material": {
+    "criteria": {
+      "has_item": "2025-12-26 13:02:33 +0800",
+      "has_the_recipe": "2025-12-26 13:02:33 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers/chestplate": {
+    "criteria": {
+      "has_item": "2025-12-26 13:02:33 +0800",
+      "has_the_recipe": "2025-12-26 13:02:33 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tools/parts/fake_ingot_to_block": {
+    "criteria": {
+      "has_item": "2025-12-26 13:02:33 +0800",
+      "has_the_recipe": "2025-12-26 13:02:33 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_lamp": {
+    "criteria": {
+      "has_item": "2025-12-26 13:02:33 +0800",
+      "has_the_recipe": "2025-12-26 13:02:33 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers/pants": {
+    "criteria": {
+      "has_item": "2025-12-26 13:02:33 +0800",
+      "has_the_recipe": "2025-12-26 13:02:33 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/knightmetal_ingot_from_nuggets": {
+    "criteria": {
+      "has_item": "2025-12-26 13:02:33 +0800",
+      "has_the_recipe": "2025-12-26 13:02:33 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/knightmetal_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-12-26 13:02:33 +0800",
+      "has_the_recipe": "2025-12-26 13:02:33 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/knightmetal_block_from_ingots": {
+    "criteria": {
+      "has_item": "2025-12-26 13:02:33 +0800",
+      "has_the_recipe": "2025-12-26 13:02:33 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/debris_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-12-26 13:02:33 +0800",
+      "has_the_recipe": "2025-12-26 13:02:33 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tables/tinkers_anvil_material": {
+    "criteria": {
+      "has_item": "2025-12-26 13:02:33 +0800",
+      "has_the_recipe": "2025-12-26 13:02:33 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/netherite_scrap_from_nuggets": {
+    "criteria": {
+      "has_item": "2025-12-26 13:02:33 +0800",
+      "has_the_recipe": "2025-12-26 13:02:33 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers/boots": {
+    "criteria": {
+      "has_item": "2025-12-26 13:02:33 +0800",
+      "has_the_recipe": "2025-12-26 13:02:33 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_lamp": {
+    "criteria": {
+      "has_item": "2025-12-26 13:02:33 +0800",
+      "has_the_recipe": "2025-12-26 13:02:33 +0800"
     },
     "done": true
   },
