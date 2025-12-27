@@ -1,16 +1,17 @@
-filename = 'entity_model_features_1.20.1-forge-3.0.1.jar'
+filename = 'entity_model_features_1.20.1-forge-3.0.7.jar'
 name = '[EMF] Entity Model Features [Fabric & Forge]'
-side = 'client'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Forge - 1.20.1 - 3.0.7'
 
 [download]
-hash = '7d1b1b7e07bafce1f6e79e4f3bcc8737dc765fe4'
+hash = '4c3367cc6923e778ea1119a1240d1d160055f3e6'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6922712
+file-id = 7260324
 project-id = 844662

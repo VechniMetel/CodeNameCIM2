@@ -1,16 +1,17 @@
-filename = 'guideme-20.1.13.jar'
+filename = 'guideme-20.1.14.jar'
 name = 'GuideME'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'GuideME 20.1.14'
 
 [download]
-hash = 'fc66445539dbd7cd7d763297ea73af5e34c642db'
+hash = '57d883148f04989128505a1bd8919629440f714f'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7013686
+file-id = 7127447
 project-id = 1173950
